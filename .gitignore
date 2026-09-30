@@ -5,4 +5,4 @@ __pycache__/
 node_modules/
 dist/
 .env
-backend/data/08_alternatives.csv
+backend/data/08_alternatives_FULL.csv
