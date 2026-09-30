@@ -8,6 +8,7 @@ from app.api.pgx import router as pgx_router
 from app.api.alternatives import router as alternatives_router
 from app.api.clinical import router as clinical_router
 
+
 app = FastAPI(
     title="AI Drug Clinical Decision Support API",
     version="0.9.0",
@@ -18,7 +19,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
