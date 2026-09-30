@@ -1,0 +1,4 @@
+pgx_variant_id,pgx_gene_id,pharmgkb_variant_id,rsid,variant_type,clinical_significance,rare,defining_allele_relationship,source
+PGXVAR0001,PGXGENE0001,PA166156978,rs1142345,SNP,drug-response,False,TPMT*3C; TPMT*3A component,PharmGKB/ClinPGx TPMT variant file
+PGXVAR0002,PGXGENE0001,PA166156992,rs1800460,SNP,drug-response,False,TPMT*3B; TPMT*3A component,PharmGKB/ClinPGx TPMT variant file
+PGXVAR0003,PGXGENE0001,PA166156993,rs1800462,SNP,drug-response,True,TPMT*2,PharmGKB/ClinPGx TPMT variant file

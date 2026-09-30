@@ -1,0 +1,98 @@
+record_id,generic,r_category,generic_normalized,canonical_drug_ids,drug_mapping_status
+12000001,Amikacin,D,amikacin,DRUG000467,FULL
+12000002,Amoxicillin,B,amoxicillin,DRUG001041,FULL
+12000003,Amoxicillin  + Clavulanic Acid,B,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL
+12000004,Amphotericin B,B,amphotericin b,DRUG000666,FULL
+12000005,Ampicillin,B,ampicillin,DRUG000403,FULL
+12000006,Artemether,C,artemether,DRUG005821,FULL
+12000007,Artemether + Lumefantrine,C,artemether + lumefantrine,DRUG005821|DRUG005832,FULL
+12000008,Artesunate,Unknown,artesunate,DRUG008283,FULL
+12000009,Azithromycin,B,azithromycin,DRUG000197,FULL
+12000010,Aztreonam,B,aztreonam,DRUG000344,FULL
+12000011,Benzathine Penicillin,B,benzathine penicillin,,UNRESOLVED
+12000012,Benzyl Penicillin,B,benzyl penicillin,,UNRESOLVED
+12000013,Benzyl Penicillin+  Procaine Penicillin,B,benzyl penicillin+ procaine penicillin,,UNRESOLVED
+12000014,Cefaclor,B,cefaclor,DRUG000817,FULL
+12000015,Cefadroxil,B,cefadroxil,DRUG001121,FULL
+12000016,Cefazolin,B,cefazolin,DRUG001288,FULL
+12000017,Cefdinir,B,cefdinir,DRUG000521,FULL
+12000018,Cefditoren,B,cefditoren,DRUG001047,FULL
+12000019,Cefepime,B,cefepime,DRUG001353,FULL
+12000020,Cefetamet Pivoxil Hydrochloride,Unknown,cefetamet pivoxil hydrochloride,,UNRESOLVED
+12000021,Cefixime,B,cefixime,DRUG000656,FULL
+12000022,Cefoperazone,B,cefoperazone,DRUG001290,FULL
+12000023,Cefotaxime,B,cefotaxime,DRUG000481,FULL
+12000024,Cefoxitin,B,cefoxitin,DRUG001292,FULL
+12000025,Cefpirome,Unknown,cefpirome,DRUG011650,FULL
+12000026,Cefpodoxime,B,cefpodoxime,DRUG001356,FULL
+12000027,Cefpodoxime  + Clavulanic Acid,B,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL
+12000028,Cefprozil,B,cefprozil,DRUG001131,FULL
+12000029,Ceftazidime,B,ceftazidime,DRUG000426,FULL
+12000030,Ceftibuten,B,ceftibuten,DRUG001355,FULL
+12000031,Ceftriaxone,B,ceftriaxone,DRUG001193,FULL
+12000032,Cefuroxime,B,cefuroxime,DRUG001093,FULL
+12000033,Cefuroxime + Clavulanic Acid,B,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL
+12000034,Cephalexin,B,cephalexin,DRUG000553,FULL
+12000035,Cephradine,B,cephradine,,UNRESOLVED
+12000036,Chloramphenicol,C,chloramphenicol,DRUG000434,FULL
+12000037,Ciprofloxacin,C,ciprofloxacin,DRUG000523,FULL
+12000038,Ciprofloxacin Hydrochloride,C,ciprofloxacin hydrochloride,DRUG000523,FULL
+12000039,Clarithromycin,C,clarithromycin,DRUG001192,FULL
+12000040,Clindamycin,B,clindamycin,DRUG001171,FULL
+12000041,Clindamycin  + Anhydrous Benzoyl Peroxide,B,clindamycin + anhydrous benzoyl peroxide,DRUG001171,PARTIAL
+12000042,Cloxacillin,B,cloxacillin,DRUG001128,FULL
+12000043,Dapsone,C,dapsone,DRUG000240,FULL
+12000044,Demeclocycline Hydrochloride,D,demeclocycline hydrochloride,DRUG000604,FULL
+12000045,Dicloxacillin,B,dicloxacillin,DRUG000473,FULL
+12000046,Doripenem,B,doripenem,DRUG005496,FULL
+12000047,Doxycycline,D,doxycycline,DRUG000244,FULL
+12000048,Ertapenem,B,ertapenem,DRUG000293,FULL
+12000049,Erythromycin,B,erythromycin,DRUG000189,FULL
+12000050,Ethambutol,B,ethambutol,DRUG000319,FULL
+12000051,Ethambutol + Isoniazid + Pyrazinamide  + Rifampicin,Unknown,ethambutol + isoniazid + pyrazinamide + rifampicin,DRUG000319|DRUG000328|DRUG000935|DRUG001027,FULL
+12000052,Flucloxacillin,B,flucloxacillin,DRUG000291,FULL
+12000053,Fosfomycin,B,fosfomycin,DRUG000812,FULL
+12000054,Fusidic Acid,C,fusidic acid,DRUG002553,FULL
+12000055,Gemifloxacin,C,gemifloxacin,DRUG001136,FULL
+12000056,Gentamicin,D,gentamicin,DRUG000782,FULL
+12000057,Imipenem  + Cilastatin,Not Assigned,imipenem + cilastatin,DRUG001526|DRUG001527,FULL
+12000058,Isoniazid  +  Rifampicin,C,isoniazid + rifampicin,DRUG000935|DRUG001027,FULL
+12000059,Isoniazid  + Thiacetazone,C,isoniazid + thiacetazone,DRUG000935,PARTIAL
+12000060,Isoniazid + Pyrazinamide + Rifampicin,C,isoniazid + pyrazinamide + rifampicin,DRUG000328|DRUG000935|DRUG001027,FULL
+12000061,Levofloxacin,C,levofloxacin,DRUG001118,FULL
+12000062,Linezolid,C,linezolid,DRUG000587,FULL
+12000063,Lomefloxacin,C,lomefloxacin,DRUG000962,FULL
+12000064,Isoniazid,C,isoniazid,DRUG000935,FULL
+12000065,Lymecycline,D,lymecycline,DRUG000246,FULL
+12000066,Meropenem,B,meropenem,DRUG000744,FULL
+12000067,Metronidazole,B,metronidazole,DRUG000900,FULL
+12000068,Moxifloxacin,C,moxifloxacin,DRUG000208,FULL
+12000069,Nalidixic Acid,C,nalidixic acid,DRUG000763,FULL
+12000070,Nitrofurantoin,B,nitrofurantoin,DRUG000683,FULL
+12000071,Nitrofurantoin Microcrystals + Nitrofurantoin ,B,nitrofurantoin microcrystals + nitrofurantoin,DRUG000683,PARTIAL
+12000072,Nystatin,C,nystatin,DRUG000632,FULL
+12000073,Ofloxacin,C,ofloxacin,DRUG001146,FULL
+12000074,Ornidazole,C,ornidazole,DRUG011014,FULL
+12000075,Oxytetracycline,D,oxytetracycline,DRUG000581,FULL
+12000076,Pefloxacin,C,pefloxacin,DRUG000475,FULL
+12000077,Phenoxymethyl  Penicillin,B,phenoxymethyl penicillin,,UNRESOLVED
+12000078,Piperacillin + Tazobactam,B,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+12000079,Pivmecillinam,B,pivmecillinam,DRUG001534,FULL
+12000080,Pyrazinamide,C,pyrazinamide,DRUG000328,FULL
+12000081,Rifampicin,C,rifampicin,DRUG001027,FULL
+12000082,Rifaximin,C,rifaximin,DRUG001201,FULL
+12000083,Roxithromycin,D,roxithromycin,DRUG000762,FULL
+12000084,Secnidazole,Not Assigned,secnidazole,DRUG010828,FULL
+12000085,Sparfloxacin,C,sparfloxacin,DRUG001189,FULL
+12000086,Spectinomycin,B,spectinomycin,DRUG000903,FULL
+12000087,Spiramycine,B,spiramycine,DRUG005442,FULL
+12000088,Streptomycin,D,streptomycin,DRUG001063,FULL
+12000089,Tedizolid Phosphate,C,tedizolid phosphate,DRUG008058,FULL
+12000090,Teicoplanin,B,teicoplanin,DRUG005445,FULL
+12000091,Tetracycline Hydrochloride,D,tetracycline hydrochloride,DRUG000743,FULL
+12000092,Tigecycline,Unknown,tigecycline,DRUG000546,FULL
+12000093,Tinidazole,C,tinidazole,DRUG000895,FULL
+12000094,Tobramycin,D,tobramycin,DRUG000669,FULL
+12000095,Trimethoprim,C,trimethoprim,DRUG000428,FULL
+12000096,Trimethoprim + Sulphamethoxazole,D,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL
+12000097,Vancomycin,B,vancomycin,DRUG000498,FULL

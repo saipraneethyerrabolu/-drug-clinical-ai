@@ -1,0 +1,267 @@
+disease_id,disease_name,normalized_name
+DISEASE00001,Abdominal and Hepatobiliary Infection,abdominal and hepatobiliary infection
+DISEASE00002,Acne,acne
+DISEASE00003,Acne Rosacea,acne rosacea
+DISEASE00004,Actinomycosis,actinomycosis
+DISEASE00005,Acute Bacterial Skin and Structure Infection,acute bacterial skin and structure infection
+DISEASE00006,Acute Epididymo - Orchitis,acute epididymo orchitis
+DISEASE00007,Acute otitis media,acute otitis media
+DISEASE00008,Acute uncomplicated cystitis,acute uncomplicated cystitis
+DISEASE00009,Amebiasis,amebiasis
+DISEASE00010,Amoebic Dysentry,amoebic dysentry
+DISEASE00011,Anthrax,anthrax
+DISEASE00012,Anthrax Prophylaxis,anthrax prophylaxis
+DISEASE00013,Appendicitis,appendicitis
+DISEASE00014,Aspergillosis - Invasive,aspergillosis invasive
+DISEASE00015,Aspiration Pneumonia,aspiration pneumonia
+DISEASE00016,Babesiosis,babesiosis
+DISEASE00017,Bacteremia,bacteremia
+DISEASE00018,Bacterial Endocarditis Prophylaxis,bacterial endocarditis prophylaxis
+DISEASE00019,Bacterial Infection,bacterial infection
+DISEASE00020,Bacterial Infection (Mild Infections),bacterial infection mild infections
+DISEASE00021,Bacterial Infection (Moderate Infections),bacterial infection moderate infections
+DISEASE00022,"Bacterial Infection (Severe, life-threatening)",bacterial infection severe life threatening
+DISEASE00023,Bacterial Infection with Cystic Fibrosis,bacterial infection with cystic fibrosis
+DISEASE00024,Bacterial Meningitis,bacterial meningitis
+DISEASE00025,Bacterial Vaginosis,bacterial vaginosis
+DISEASE00026,Balantidium coli,balantidium coli
+DISEASE00027,Bartonellosis,bartonellosis
+DISEASE00028,Bejel,bejel
+DISEASE00029,Beta Hemolytic Streptococci of Group A,beta hemolytic streptococci of group a
+DISEASE00030,Blastomycosis,blastomycosis
+DISEASE00031,Bone and Joint Infection,bone and joint infection
+DISEASE00032,Bone and Joint Infection (Mild Infections),bone and joint infection mild infections
+DISEASE00033,Bone and Joint Infection (Moderate Infections),bone and joint infection moderate infections
+DISEASE00034,"Bone and Joint Infection (Severe, life-threatening)",bone and joint infection severe life threatening
+DISEASE00035,Botulism,botulism
+DISEASE00036,Bowel Preparation,bowel preparation
+DISEASE00037,Brain abscess,brain abscess
+DISEASE00038,Bronchiectasis,bronchiectasis
+DISEASE00039,Bronchitis,bronchitis
+DISEASE00040,Bronchopneumonia,bronchopneumonia
+DISEASE00041,Brucellosis,brucellosis
+DISEASE00042,Burns - External,burns external
+DISEASE00043,CAPD associated peritonitis,capd associated peritonitis
+DISEASE00044,CNS Infection,cns infection
+DISEASE00045,Campylobacter Gastroenteritis,campylobacter gastroenteritis
+DISEASE00046,Candida Urinary Tract Infection,candida urinary tract infection
+DISEASE00047,Candidemia,candidemia
+DISEASE00048,Cervicitis,cervicitis
+DISEASE00049,Cesarean Section,cesarean section
+DISEASE00050,Chancroid,chancroid
+DISEASE00051,Chlamydia Infection,chlamydia infection
+DISEASE00052,Cholecystitis,cholecystitis
+DISEASE00053,Cholecystitis (Mild infections),cholecystitis mild infections
+DISEASE00054,Cholecystitis (Moderate infections),cholecystitis moderate infections
+DISEASE00055,"Cholecystitis (Severe, life-threatening infections)",cholecystitis severe life threatening infections
+DISEASE00056,Cholera,cholera
+DISEASE00057,Chronic or recurrent bacteriuria,chronic or recurrent bacteriuria
+DISEASE00058,Clostridioides difficile infection,clostridioides difficile infection
+DISEASE00059,Coccidioidomycosis,coccidioidomycosis
+DISEASE00060,Community acquired pneumonia,community acquired pneumonia
+DISEASE00061,Complicated skin and soft tissue infections,complicated skin and soft tissue infections
+DISEASE00062,Complicated urinary tract infections,complicated urinary tract infections
+DISEASE00063,Congenital Syphilis,congenital syphilis
+DISEASE00064,Conjunctivitis,conjunctivitis
+DISEASE00065,Cryptococcal Meningitis - Immunocompetent Host,cryptococcal meningitis immunocompetent host
+DISEASE00066,Cryptococcal Meningitis - Immunosuppressed Host,cryptococcal meningitis immunosuppressed host
+DISEASE00067,Cutaneous Bacillus anthracis,cutaneous bacillus anthracis
+DISEASE00068,Cystic Fibrosis,cystic fibrosis
+DISEASE00069,Cystitis,cystitis
+DISEASE00070,Cystitis Prophylaxis,cystitis prophylaxis
+DISEASE00071,Dermatitis Herpetiformis,dermatitis herpetiformis
+DISEASE00072,Dientamoeba fragilis,dientamoeba fragilis
+DISEASE00073,Diphtheria,diphtheria
+DISEASE00074,Eczema,eczema
+DISEASE00075,Empyema,empyema
+DISEASE00076,Endocarditis,endocarditis
+DISEASE00077,Endometriosis,endometriosis
+DISEASE00078,Endometritis,endometritis
+DISEASE00079,Enteritis,enteritis
+DISEASE00080,Enterobacteriaceae,enterobacteriaceae
+DISEASE00081,Enterocolitis,enterocolitis
+DISEASE00082,Epididymitis - Non-Specific,epididymitis non specific
+DISEASE00083,Epididymitis - Non-Specific (Mild Infections),epididymitis non specific mild infections
+DISEASE00084,Epididymitis - Non-Specific (Moderate Infections),epididymitis non specific moderate infections
+DISEASE00085,"Epididymitis - Non-Specific (Severe, life-threatening)",epididymitis non specific severe life threatening
+DISEASE00086,Epididymitis - Sexually Transmitted,epididymitis sexually transmitted
+DISEASE00087,Externa,externa
+DISEASE00088,Febrile Neutropenia,febrile neutropenia
+DISEASE00089,Furunculosis,furunculosis
+DISEASE00090,Gas gangrene,gas gangrene
+DISEASE00091,Gastroenteritis,gastroenteritis
+DISEASE00092,Gastrointestinal Infections,gastrointestinal infections
+DISEASE00093,Giardiasis,giardiasis
+DISEASE00094,Glomerulonephritis,glomerulonephritis
+DISEASE00095,Gonococcal Infection - Disseminated,gonococcal infection disseminated
+DISEASE00096,Gonococcal Infection - Uncomplicated,gonococcal infection uncomplicated
+DISEASE00097,Gonorrhoea,gonorrhoea
+DISEASE00098,Gram Negative Infection,gram negative infection
+DISEASE00099,Granuloma Inguinale,granuloma inguinale
+DISEASE00100,Group A hemolytic streptococci,group a hemolytic streptococci
+DISEASE00101,Haemophilus influenzae,haemophilus influenzae
+DISEASE00102,Head Injury,head injury
+DISEASE00103,Helicobacter pylori Infection,helicobacter pylori infection
+DISEASE00104,Hepatic Encephalopathy,hepatic encephalopathy
+DISEASE00105,Histoplasmosis - Immunocompetent Host,histoplasmosis immunocompetent host
+DISEASE00106,Hospital-acquired pneumonia,hospital acquired pneumonia
+DISEASE00107,Impetigo,impetigo
+DISEASE00108,Inclusion Conjunctivitis,inclusion conjunctivitis
+DISEASE00109,Infected Burns,infected burns
+DISEASE00110,Infected Wounds,infected wounds
+DISEASE00111,Infection Prophylaxis,infection prophylaxis
+DISEASE00112,Infection of the Buccal Cavity,infection of the buccal cavity
+DISEASE00113,Infections by neutropenic host,infections by neutropenic host
+DISEASE00114,Infectious Diarrhea,infectious diarrhea
+DISEASE00115,Inhalation Bacillus anthracis,inhalation bacillus anthracis
+DISEASE00116,Intestinal Amoebiasis,intestinal amoebiasis
+DISEASE00117,Intestinal Candidiasis,intestinal candidiasis
+DISEASE00118,Intraabdominal Infection,intraabdominal infection
+DISEASE00119,Irritable Bowel Syndrome,irritable bowel syndrome
+DISEASE00120,Laryngitis,laryngitis
+DISEASE00121,Legionella Pneumonia,legionella pneumonia
+DISEASE00122,Leishmaniasis,leishmaniasis
+DISEASE00123,Leprosy,leprosy
+DISEASE00124,Leprosy - Borderline,leprosy borderline
+DISEASE00125,Leprosy - Lepromatous,leprosy lepromatous
+DISEASE00126,Leprosy - Tuberculoid,leprosy tuberculoid
+DISEASE00127,Leptospirosis,leptospirosis
+DISEASE00128,Listeriosis,listeriosis
+DISEASE00129,Liver Abscess,liver abscess
+DISEASE00130,Long Term Suppresive Therapy,long term suppresive therapy
+DISEASE00131,Lower Respiratory Track Infections,lower respiratory track infections
+DISEASE00132,Lung Abscess,lung abscess
+DISEASE00133,Lyme Disease,lyme disease
+DISEASE00134,Lyme Disease - Arthritis,lyme disease arthritis
+DISEASE00135,Lyme Disease - Carditis,lyme disease carditis
+DISEASE00136,Lyme Disease - Erythema Chronicum Migrans,lyme disease erythema chronicum migrans
+DISEASE00137,Lyme Disease - Neurologic,lyme disease neurologic
+DISEASE00138,Lymphadenitis and Lymphangitis of Bacterial Origin,lymphadenitis and lymphangitis of bacterial origin
+DISEASE00139,Lymphogranuloma Venereum,lymphogranuloma venereum
+DISEASE00140,Malaria,malaria
+DISEASE00141,Malaria Prophylaxis,malaria prophylaxis
+DISEASE00142,Melioidosis,melioidosis
+DISEASE00143,Meningitis,meningitis
+DISEASE00144,Meningitis - Haemophilus influenzae,meningitis haemophilus influenzae
+DISEASE00145,Meningitis - Listeriosis,meningitis listeriosis
+DISEASE00146,Meningitis - Meningococcal,meningitis meningococcal
+DISEASE00147,Meningitis - Pneumococcal,meningitis pneumococcal
+DISEASE00148,Meningitis - Streptococcus Group B,meningitis streptococcus group b
+DISEASE00149,Meningococcal Disease,meningococcal disease
+DISEASE00150,Meningococcal Meningitis Prophylaxis,meningococcal meningitis prophylaxis
+DISEASE00151,Moraxella catarrhalis,moraxella catarrhalis
+DISEASE00152,Mucormycosis - Invasive,mucormycosis invasive
+DISEASE00153,Mycobacterium avium-intracellulare - Prophylaxis,mycobacterium avium intracellulare prophylaxis
+DISEASE00154,Mycobacterium avium-intracellulare - Treatment,mycobacterium avium intracellulare treatment
+DISEASE00155,Mycobacterium kansasii,mycobacterium kansasii
+DISEASE00156,Mycoplasma Pneumonia,mycoplasma pneumonia
+DISEASE00157,Nasal Carriage of Staphylococcus aureus,nasal carriage of staphylococcus aureus
+DISEASE00158,Neisseria gonorrhoeae,neisseria gonorrhoeae
+DISEASE00159,Neurosyphilis,neurosyphilis
+DISEASE00160,Nongonococcal Urethritis,nongonococcal urethritis
+DISEASE00161,Nosocomial Lower Respiratory Track Infection,nosocomial lower respiratory track infection
+DISEASE00162,Nosocomial Pneumonia,nosocomial pneumonia
+DISEASE00163,Ocular Fungal Infection,ocular fungal infection
+DISEASE00164,Ocular Infection,ocular infection
+DISEASE00165,Oral Thrush,oral thrush
+DISEASE00166,Ornithosis,ornithosis
+DISEASE00167,Osteomyelitis,osteomyelitis
+DISEASE00168,Osteomyelitis (Mild Infections),osteomyelitis mild infections
+DISEASE00169,Osteomyelitis (Moderate Infections),osteomyelitis moderate infections
+DISEASE00170,"Osteomyelitis (Severe, life-threatening)",osteomyelitis severe life threatening
+DISEASE00171,Otitis Externa,otitis externa
+DISEASE00172,Otitis Media,otitis media
+DISEASE00173,Pasteurella infection,pasteurella infection
+DISEASE00174,Pelvic Infections,pelvic infections
+DISEASE00175,Pelvic Inflammatory Disease,pelvic inflammatory disease
+DISEASE00176,Periodontitis,periodontitis
+DISEASE00177,Peritonitis,peritonitis
+DISEASE00178,Pertussis Prophylaxis,pertussis prophylaxis
+DISEASE00179,Pharyngitis,pharyngitis
+DISEASE00180,Pinta,pinta
+DISEASE00181,Plague,plague
+DISEASE00182,Plague Prophylaxis,plague prophylaxis
+DISEASE00183,Pleural Effusion,pleural effusion
+DISEASE00184,Pneumocystis Pneumonia,pneumocystis pneumonia
+DISEASE00185,Pneumocystis Pneumonia Prophylaxis,pneumocystis pneumonia prophylaxis
+DISEASE00186,Pneumocystis carinii pneumonia (Prevention),pneumocystis carinii pneumonia prevention
+DISEASE00187,Pneumocystis carinii pneumonia (Treatment),pneumocystis carinii pneumonia treatment
+DISEASE00188,Pneumonia,pneumonia
+DISEASE00189,Pneumonia with Cystic Fibrosis,pneumonia with cystic fibrosis
+DISEASE00190,"Poucitis, acute refractory disease",poucitis acute refractory disease
+DISEASE00191,Primary and Secondary Syphilis,primary and secondary syphilis
+DISEASE00192,Proctitis,proctitis
+DISEASE00193,Prophylaxis of recurrent rheumatic fever,prophylaxis of recurrent rheumatic fever
+DISEASE00194,Prostatitis,prostatitis
+DISEASE00195,Prostatitis (Mild Infections),prostatitis mild infections
+DISEASE00196,Prostatitis (Moderate Infections),prostatitis moderate infections
+DISEASE00197,"Prostatitis (Severe, life-threatening)",prostatitis severe life threatening
+DISEASE00198,Protozoan Infection,protozoan infection
+DISEASE00199,Pseudomembranous Colitis,pseudomembranous colitis
+DISEASE00200,Psittacosis,psittacosis
+DISEASE00201,Pulmonary and Extrapulmonary Tuberculosis,pulmonary and extrapulmonary tuberculosis
+DISEASE00202,Pyelonephritis,pyelonephritis
+DISEASE00203,Q Fever,q fever
+DISEASE00204,Quinsy,quinsy
+DISEASE00205,Rat bite fever,rat bite fever
+DISEASE00206,Respiratory Track Infections,respiratory track infections
+DISEASE00207,Rheumatic Fever Prophylaxis,rheumatic fever prophylaxis
+DISEASE00208,Rhinitis,rhinitis
+DISEASE00209,Rickettsial Infection,rickettsial infection
+DISEASE00210,SIADH,siadh
+DISEASE00211,STD Prophylaxis,std prophylaxis
+DISEASE00212,Salmonella Enteric Fever,salmonella enteric fever
+DISEASE00213,Salmonella Gastroenteritis,salmonella gastroenteritis
+DISEASE00214,Salmonellosis,salmonellosis
+DISEASE00215,Salpingitis,salpingitis
+DISEASE00216,Sepsis,sepsis
+DISEASE00217,Septicemia,septicemia
+DISEASE00218,Septicemia (Mild Infections),septicemia mild infections
+DISEASE00219,Septicemia (Moderate Infections),septicemia moderate infections
+DISEASE00220,"Septicemia (Severe, life-threatening)",septicemia severe life threatening
+DISEASE00221,Severe Leptospirosis,severe leptospirosis
+DISEASE00222,Severe infections in intensive care patients,severe infections in intensive care patients
+DISEASE00223,Sexually Transmitted Disease,sexually transmitted disease
+DISEASE00224,Shigellosis,shigellosis
+DISEASE00225,Shunt Infection,shunt infection
+DISEASE00226,Sinusitis,sinusitis
+DISEASE00227,Skin and Structure Infection,skin and structure infection
+DISEASE00228,Skin and Structure Infection (Mild Infections),skin and structure infection mild infections
+DISEASE00229,Skin and Structure Infection (Moderate Infections),skin and structure infection moderate infections
+DISEASE00230,"Skin and Structure Infection (Severe, life-threatening)",skin and structure infection severe life threatening
+DISEASE00231,Skin or Soft Tissue Infection,skin or soft tissue infection
+DISEASE00232,Skin or Soft Tissue Infection (Mild Infections),skin or soft tissue infection mild infections
+DISEASE00233,Skin or Soft Tissue Infection (Moderate Infections),skin or soft tissue infection moderate infections
+DISEASE00234,"Skin or Soft Tissue Infection (Severe, life-threatening)",skin or soft tissue infection severe life threatening
+DISEASE00235,Small intestinal bacterial overgrowth,small intestinal bacterial overgrowth
+DISEASE00236,Sporotrichosis,sporotrichosis
+DISEASE00237,Staphylococcul Infections,staphylococcul infections
+DISEASE00238,Streptococcal Infection,streptococcal infection
+DISEASE00239,Streptococcus pneumoniae,streptococcus pneumoniae
+DISEASE00240,Surgical Prophylaxis,surgical prophylaxis
+DISEASE00241,Suspected Meningococcal Infection,suspected meningococcal infection
+DISEASE00242,Syphilis - Early,syphilis early
+DISEASE00243,Syphilis - Latent,syphilis latent
+DISEASE00244,Syphillis,syphillis
+DISEASE00245,Systemic Fungal Infection,systemic fungal infection
+DISEASE00246,Tertiary Syphilis,tertiary syphilis
+DISEASE00247,Tetanus,tetanus
+DISEASE00248,Tonsillitis/Pharyngitis,tonsillitis pharyngitis
+DISEASE00249,Toxoplasmosis - Prophylaxis,toxoplasmosis prophylaxis
+DISEASE00250,Trachoma,trachoma
+DISEASE00251,Transurethral Prostatectomy,transurethral prostatectomy
+DISEASE00252,Traveler's Diarrhea,traveler s diarrhea
+DISEASE00253,Trichomoniasis,trichomoniasis
+DISEASE00254,Tuberculosis - Active,tuberculosis active
+DISEASE00255,Tuberculosis - Extrapulmonary,tuberculosis extrapulmonary
+DISEASE00256,Tuberculosis - Latent,tuberculosis latent
+DISEASE00257,Tuberculosis - Prophylaxis,tuberculosis prophylaxis
+DISEASE00258,Tuberculous Meningitis,tuberculous meningitis
+DISEASE00259,Tularemia,tularemia
+DISEASE00260,Typhoid Fever,typhoid fever
+DISEASE00261,Ulcer,ulcer
+DISEASE00262,Upper Respiratory Tract Infection,upper respiratory tract infection
+DISEASE00263,Urinary Tract Infection,urinary tract infection
+DISEASE00264,Whipples disease,whipples disease
+DISEASE00265,Wound Infection,wound infection
+DISEASE00266,Yaws,yaws

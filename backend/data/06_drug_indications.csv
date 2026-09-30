@@ -1,0 +1,1066 @@
+indication_id,generic,disease,generic_normalized,canonical_drug_ids,drug_mapping_status,disease_id
+IND0000001,Amikacin,Bacteremia,amikacin,DRUG000467,FULL,DISEASE00017
+IND0000002,Amikacin,Bacterial Infection,amikacin,DRUG000467,FULL,DISEASE00019
+IND0000003,Amikacin,Bone and Joint Infection,amikacin,DRUG000467,FULL,DISEASE00031
+IND0000004,Amikacin,Intraabdominal Infection,amikacin,DRUG000467,FULL,DISEASE00118
+IND0000005,Amikacin,Meningitis,amikacin,DRUG000467,FULL,DISEASE00143
+IND0000006,Amikacin,Mycobacterium avium-intracellulare - Treatment,amikacin,DRUG000467,FULL,DISEASE00154
+IND0000007,Amikacin,Osteomyelitis,amikacin,DRUG000467,FULL,DISEASE00167
+IND0000008,Amikacin,Peritonitis,amikacin,DRUG000467,FULL,DISEASE00177
+IND0000009,Amikacin,Pneumonia,amikacin,DRUG000467,FULL,DISEASE00188
+IND0000010,Amikacin,Skin or Soft Tissue Infection,amikacin,DRUG000467,FULL,DISEASE00231
+IND0000011,Amikacin,Tuberculosis - Active,amikacin,DRUG000467,FULL,DISEASE00254
+IND0000012,Amikacin,Urinary Tract Infection,amikacin,DRUG000467,FULL,DISEASE00263
+IND0000013,Amoxicillin,Anthrax Prophylaxis,amoxicillin,DRUG001041,FULL,DISEASE00012
+IND0000014,Amoxicillin,Bacterial Endocarditis Prophylaxis,amoxicillin,DRUG001041,FULL,DISEASE00018
+IND0000015,Amoxicillin,Bronchitis,amoxicillin,DRUG001041,FULL,DISEASE00039
+IND0000016,Amoxicillin,Chlamydia Infection,amoxicillin,DRUG001041,FULL,DISEASE00051
+IND0000017,Amoxicillin,Cutaneous Bacillus anthracis,amoxicillin,DRUG001041,FULL,DISEASE00067
+IND0000018,Amoxicillin,Helicobacter pylori Infection,amoxicillin,DRUG001041,FULL,DISEASE00103
+IND0000019,Amoxicillin,Inhalation Bacillus anthracis,amoxicillin,DRUG001041,FULL,DISEASE00115
+IND0000020,Amoxicillin,Lyme Disease,amoxicillin,DRUG001041,FULL,DISEASE00133
+IND0000021,Amoxicillin,Lyme Disease - Arthritis,amoxicillin,DRUG001041,FULL,DISEASE00134
+IND0000022,Amoxicillin,Lyme Disease - Carditis,amoxicillin,DRUG001041,FULL,DISEASE00135
+IND0000023,Amoxicillin,Lyme Disease - Erythema Chronicum Migrans,amoxicillin,DRUG001041,FULL,DISEASE00136
+IND0000024,Amoxicillin,Otitis Media,amoxicillin,DRUG001041,FULL,DISEASE00172
+IND0000025,Amoxicillin,Pneumonia,amoxicillin,DRUG001041,FULL,DISEASE00188
+IND0000026,Amoxicillin,Sinusitis,amoxicillin,DRUG001041,FULL,DISEASE00226
+IND0000027,Amoxicillin,Skin and Structure Infection,amoxicillin,DRUG001041,FULL,DISEASE00227
+IND0000028,Amoxicillin,Skin or Soft Tissue Infection,amoxicillin,DRUG001041,FULL,DISEASE00231
+IND0000029,Amoxicillin,Streptococcus pneumoniae,amoxicillin,DRUG001041,FULL,DISEASE00239
+IND0000030,Amoxicillin,Tonsillitis/Pharyngitis,amoxicillin,DRUG001041,FULL,DISEASE00248
+IND0000031,Amoxicillin,Urinary Tract Infection,amoxicillin,DRUG001041,FULL,DISEASE00263
+IND0000032,Amoxicillin  + Clavulanic Acid,Acute otitis media,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00007
+IND0000033,Amoxicillin  + Clavulanic Acid,Aspiration Pneumonia,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00015
+IND0000034,Amoxicillin  + Clavulanic Acid,Bacterial Infection,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00019
+IND0000035,Amoxicillin  + Clavulanic Acid,Bronchitis,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00039
+IND0000036,Amoxicillin  + Clavulanic Acid,Febrile Neutropenia,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00088
+IND0000037,Amoxicillin  + Clavulanic Acid,Melioidosis,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00142
+IND0000038,Amoxicillin  + Clavulanic Acid,Otitis Media,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00172
+IND0000039,Amoxicillin  + Clavulanic Acid,Pneumonia,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00188
+IND0000040,Amoxicillin  + Clavulanic Acid,Pyelonephritis,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00202
+IND0000041,Amoxicillin  + Clavulanic Acid,Sinusitis,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00226
+IND0000042,Amoxicillin  + Clavulanic Acid,Skin and Structure Infection,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00227
+IND0000043,Amoxicillin  + Clavulanic Acid,Skin or Soft Tissue Infection,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00231
+IND0000044,Amoxicillin  + Clavulanic Acid,Upper Respiratory Tract Infection,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00262
+IND0000045,Amoxicillin  + Clavulanic Acid,Urinary Tract Infection,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL,DISEASE00263
+IND0000046,Amphotericin B,Aspergillosis - Invasive,amphotericin b,DRUG000666,FULL,DISEASE00014
+IND0000047,Amphotericin B,Blastomycosis,amphotericin b,DRUG000666,FULL,DISEASE00030
+IND0000048,Amphotericin B,Candida Urinary Tract Infection,amphotericin b,DRUG000666,FULL,DISEASE00046
+IND0000049,Amphotericin B,Candidemia,amphotericin b,DRUG000666,FULL,DISEASE00047
+IND0000050,Amphotericin B,Coccidioidomycosis,amphotericin b,DRUG000666,FULL,DISEASE00059
+IND0000051,Amphotericin B,Cryptococcal Meningitis - Immunocompetent Host,amphotericin b,DRUG000666,FULL,DISEASE00065
+IND0000052,Amphotericin B,Cryptococcal Meningitis - Immunosuppressed Host,amphotericin b,DRUG000666,FULL,DISEASE00066
+IND0000053,Amphotericin B,Histoplasmosis - Immunocompetent Host,amphotericin b,DRUG000666,FULL,DISEASE00105
+IND0000054,Amphotericin B,Leishmaniasis,amphotericin b,DRUG000666,FULL,DISEASE00122
+IND0000055,Amphotericin B,Mucormycosis - Invasive,amphotericin b,DRUG000666,FULL,DISEASE00152
+IND0000056,Amphotericin B,Ocular Fungal Infection,amphotericin b,DRUG000666,FULL,DISEASE00163
+IND0000057,Amphotericin B,Oral Thrush,amphotericin b,DRUG000666,FULL,DISEASE00165
+IND0000058,Amphotericin B,Sporotrichosis,amphotericin b,DRUG000666,FULL,DISEASE00236
+IND0000059,Amphotericin B,Systemic Fungal Infection,amphotericin b,DRUG000666,FULL,DISEASE00245
+IND0000060,Ampicillin,Bacterial Endocarditis Prophylaxis,ampicillin,DRUG000403,FULL,DISEASE00018
+IND0000061,Ampicillin,Bacterial Infection,ampicillin,DRUG000403,FULL,DISEASE00019
+IND0000062,Ampicillin,Bronchitis,ampicillin,DRUG000403,FULL,DISEASE00039
+IND0000063,Ampicillin,Cutaneous Bacillus anthracis,ampicillin,DRUG000403,FULL,DISEASE00067
+IND0000064,Ampicillin,Endocarditis,ampicillin,DRUG000403,FULL,DISEASE00076
+IND0000065,Ampicillin,Gastroenteritis,ampicillin,DRUG000403,FULL,DISEASE00091
+IND0000066,Ampicillin,Gonococcal Infection - Uncomplicated,ampicillin,DRUG000403,FULL,DISEASE00096
+IND0000067,Ampicillin,Inhalation Bacillus anthracis,ampicillin,DRUG000403,FULL,DISEASE00115
+IND0000068,Ampicillin,Intraabdominal Infection,ampicillin,DRUG000403,FULL,DISEASE00118
+IND0000069,Ampicillin,Meningitis,ampicillin,DRUG000403,FULL,DISEASE00143
+IND0000070,Ampicillin,Meningitis - Streptococcus Group B,ampicillin,DRUG000403,FULL,DISEASE00148
+IND0000071,Ampicillin,Pharyngitis,ampicillin,DRUG000403,FULL,DISEASE00179
+IND0000072,Ampicillin,Pneumonia,ampicillin,DRUG000403,FULL,DISEASE00188
+IND0000073,Ampicillin,Septicemia,ampicillin,DRUG000403,FULL,DISEASE00217
+IND0000074,Ampicillin,Shigellosis,ampicillin,DRUG000403,FULL,DISEASE00224
+IND0000075,Ampicillin,Sinusitis,ampicillin,DRUG000403,FULL,DISEASE00226
+IND0000076,Ampicillin,Skin or Soft Tissue Infection,ampicillin,DRUG000403,FULL,DISEASE00231
+IND0000077,Ampicillin,Surgical Prophylaxis,ampicillin,DRUG000403,FULL,DISEASE00240
+IND0000078,Ampicillin,Typhoid Fever,ampicillin,DRUG000403,FULL,DISEASE00260
+IND0000079,Ampicillin,Upper Respiratory Tract Infection,ampicillin,DRUG000403,FULL,DISEASE00262
+IND0000080,Ampicillin,Urinary Tract Infection,ampicillin,DRUG000403,FULL,DISEASE00263
+IND0000081,Artemether,Malaria,artemether,DRUG005821,FULL,DISEASE00140
+IND0000082,Artemether + Lumefantrine,Malaria,artemether + lumefantrine,DRUG005821|DRUG005832,FULL,DISEASE00140
+IND0000083,Artesunate,Malaria,artesunate,DRUG008283,FULL,DISEASE00140
+IND0000084,Azithromycin,Babesiosis,azithromycin,DRUG000197,FULL,DISEASE00016
+IND0000085,Azithromycin,Bacterial Endocarditis Prophylaxis,azithromycin,DRUG000197,FULL,DISEASE00018
+IND0000086,Azithromycin,Bacterial Infection,azithromycin,DRUG000197,FULL,DISEASE00019
+IND0000087,Azithromycin,Bartonellosis,azithromycin,DRUG000197,FULL,DISEASE00027
+IND0000088,Azithromycin,Bronchitis,azithromycin,DRUG000197,FULL,DISEASE00039
+IND0000089,Azithromycin,Campylobacter Gastroenteritis,azithromycin,DRUG000197,FULL,DISEASE00045
+IND0000090,Azithromycin,Cervicitis,azithromycin,DRUG000197,FULL,DISEASE00048
+IND0000091,Azithromycin,Chancroid,azithromycin,DRUG000197,FULL,DISEASE00050
+IND0000092,Azithromycin,Chlamydia Infection,azithromycin,DRUG000197,FULL,DISEASE00051
+IND0000093,Azithromycin,Gonococcal Infection - Uncomplicated,azithromycin,DRUG000197,FULL,DISEASE00096
+IND0000094,Azithromycin,Granuloma Inguinale,azithromycin,DRUG000197,FULL,DISEASE00099
+IND0000095,Azithromycin,Legionella Pneumonia,azithromycin,DRUG000197,FULL,DISEASE00121
+IND0000096,Azithromycin,Lyme Disease - Erythema Chronicum Migrans,azithromycin,DRUG000197,FULL,DISEASE00136
+IND0000097,Azithromycin,Mycobacterium avium-intracellulare - Prophylaxis,azithromycin,DRUG000197,FULL,DISEASE00153
+IND0000098,Azithromycin,Mycobacterium avium-intracellulare - Treatment,azithromycin,DRUG000197,FULL,DISEASE00154
+IND0000099,Azithromycin,Mycobacterium kansasii,azithromycin,DRUG000197,FULL,DISEASE00155
+IND0000100,Azithromycin,Mycoplasma Pneumonia,azithromycin,DRUG000197,FULL,DISEASE00156
+IND0000101,Azithromycin,Nongonococcal Urethritis,azithromycin,DRUG000197,FULL,DISEASE00160
+IND0000102,Azithromycin,Otitis Media,azithromycin,DRUG000197,FULL,DISEASE00172
+IND0000103,Azithromycin,Pelvic Inflammatory Disease,azithromycin,DRUG000197,FULL,DISEASE00175
+IND0000104,Azithromycin,Pertussis Prophylaxis,azithromycin,DRUG000197,FULL,DISEASE00178
+IND0000105,Azithromycin,Pneumonia,azithromycin,DRUG000197,FULL,DISEASE00188
+IND0000106,Azithromycin,Shigellosis,azithromycin,DRUG000197,FULL,DISEASE00224
+IND0000107,Azithromycin,Sinusitis,azithromycin,DRUG000197,FULL,DISEASE00226
+IND0000108,Azithromycin,Skin and Structure Infection,azithromycin,DRUG000197,FULL,DISEASE00227
+IND0000109,Azithromycin,Syphilis - Early,azithromycin,DRUG000197,FULL,DISEASE00242
+IND0000110,Azithromycin,Tonsillitis/Pharyngitis,azithromycin,DRUG000197,FULL,DISEASE00248
+IND0000111,Aztreonam,Bacteremia,aztreonam,DRUG000344,FULL,DISEASE00017
+IND0000112,Aztreonam,Bacterial Infection,aztreonam,DRUG000344,FULL,DISEASE00019
+IND0000113,Aztreonam,Febrile Neutropenia,aztreonam,DRUG000344,FULL,DISEASE00088
+IND0000114,Aztreonam,Intraabdominal Infection,aztreonam,DRUG000344,FULL,DISEASE00118
+IND0000115,Aztreonam,Osteomyelitis,aztreonam,DRUG000344,FULL,DISEASE00167
+IND0000116,Aztreonam,Pelvic Inflammatory Disease,aztreonam,DRUG000344,FULL,DISEASE00175
+IND0000117,Aztreonam,Peritonitis,aztreonam,DRUG000344,FULL,DISEASE00177
+IND0000118,Aztreonam,Pneumonia,aztreonam,DRUG000344,FULL,DISEASE00188
+IND0000119,Aztreonam,Pyelonephritis,aztreonam,DRUG000344,FULL,DISEASE00202
+IND0000120,Aztreonam,Skin and Structure Infection,aztreonam,DRUG000344,FULL,DISEASE00227
+IND0000121,Aztreonam,Skin or Soft Tissue Infection,aztreonam,DRUG000344,FULL,DISEASE00231
+IND0000122,Aztreonam,Urinary Tract Infection,aztreonam,DRUG000344,FULL,DISEASE00263
+IND0000123,Benzathine Penicillin,Bejel,benzathine penicillin,,UNRESOLVED,DISEASE00028
+IND0000124,Benzathine Penicillin,Congenital Syphilis,benzathine penicillin,,UNRESOLVED,DISEASE00063
+IND0000125,Benzathine Penicillin,Glomerulonephritis,benzathine penicillin,,UNRESOLVED,DISEASE00094
+IND0000126,Benzathine Penicillin,Neurosyphilis,benzathine penicillin,,UNRESOLVED,DISEASE00159
+IND0000127,Benzathine Penicillin,Pharyngitis,benzathine penicillin,,UNRESOLVED,DISEASE00179
+IND0000128,Benzathine Penicillin,Pinta,benzathine penicillin,,UNRESOLVED,DISEASE00180
+IND0000129,Benzathine Penicillin,Rheumatic Fever Prophylaxis,benzathine penicillin,,UNRESOLVED,DISEASE00207
+IND0000130,Benzathine Penicillin,Streptococcal Infection,benzathine penicillin,,UNRESOLVED,DISEASE00238
+IND0000131,Benzathine Penicillin,Syphilis - Early,benzathine penicillin,,UNRESOLVED,DISEASE00242
+IND0000132,Benzathine Penicillin,Syphilis - Latent,benzathine penicillin,,UNRESOLVED,DISEASE00243
+IND0000133,Benzathine Penicillin,Tertiary Syphilis,benzathine penicillin,,UNRESOLVED,DISEASE00246
+IND0000134,Benzathine Penicillin,Tonsillitis/Pharyngitis,benzathine penicillin,,UNRESOLVED,DISEASE00248
+IND0000135,Benzathine Penicillin,Upper Respiratory Tract Infection,benzathine penicillin,,UNRESOLVED,DISEASE00262
+IND0000136,Benzathine Penicillin,Yaws,benzathine penicillin,,UNRESOLVED,DISEASE00266
+IND0000137,Benzyl Penicillin,Actinomycosis,benzyl penicillin,,UNRESOLVED,DISEASE00004
+IND0000138,Benzyl Penicillin,Anthrax,benzyl penicillin,,UNRESOLVED,DISEASE00011
+IND0000139,Benzyl Penicillin,Bacterial Endocarditis Prophylaxis,benzyl penicillin,,UNRESOLVED,DISEASE00018
+IND0000140,Benzyl Penicillin,Bacterial Meningitis,benzyl penicillin,,UNRESOLVED,DISEASE00024
+IND0000141,Benzyl Penicillin,Botulism,benzyl penicillin,,UNRESOLVED,DISEASE00035
+IND0000142,Benzyl Penicillin,Brain abscess,benzyl penicillin,,UNRESOLVED,DISEASE00037
+IND0000143,Benzyl Penicillin,Diphtheria,benzyl penicillin,,UNRESOLVED,DISEASE00073
+IND0000144,Benzyl Penicillin,Gas gangrene,benzyl penicillin,,UNRESOLVED,DISEASE00090
+IND0000145,Benzyl Penicillin,Leptospirosis,benzyl penicillin,,UNRESOLVED,DISEASE00127
+IND0000146,Benzyl Penicillin,Listeriosis,benzyl penicillin,,UNRESOLVED,DISEASE00128
+IND0000147,Benzyl Penicillin,Lyme Disease,benzyl penicillin,,UNRESOLVED,DISEASE00133
+IND0000148,Benzyl Penicillin,Meningitis - Streptococcus Group B,benzyl penicillin,,UNRESOLVED,DISEASE00148
+IND0000149,Benzyl Penicillin,Meningococcal Disease,benzyl penicillin,,UNRESOLVED,DISEASE00149
+IND0000150,Benzyl Penicillin,Neurosyphilis,benzyl penicillin,,UNRESOLVED,DISEASE00159
+IND0000151,Benzyl Penicillin,Osteomyelitis,benzyl penicillin,,UNRESOLVED,DISEASE00167
+IND0000152,Benzyl Penicillin,Pasteurella infection,benzyl penicillin,,UNRESOLVED,DISEASE00173
+IND0000153,Benzyl Penicillin,Rat bite fever,benzyl penicillin,,UNRESOLVED,DISEASE00205
+IND0000154,Benzyl Penicillin,Respiratory Track Infections,benzyl penicillin,,UNRESOLVED,DISEASE00206
+IND0000155,Benzyl Penicillin,Septicemia,benzyl penicillin,,UNRESOLVED,DISEASE00217
+IND0000156,Benzyl Penicillin,Severe Leptospirosis,benzyl penicillin,,UNRESOLVED,DISEASE00221
+IND0000157,Benzyl Penicillin,Skin or Soft Tissue Infection,benzyl penicillin,,UNRESOLVED,DISEASE00231
+IND0000158,Benzyl Penicillin,Suspected Meningococcal Infection,benzyl penicillin,,UNRESOLVED,DISEASE00241
+IND0000159,Benzyl Penicillin,Tetanus,benzyl penicillin,,UNRESOLVED,DISEASE00247
+IND0000160,Benzyl Penicillin+  Procaine Penicillin,Anthrax,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00011
+IND0000161,Benzyl Penicillin+  Procaine Penicillin,Bacterial Endocarditis Prophylaxis,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00018
+IND0000162,Benzyl Penicillin+  Procaine Penicillin,Diphtheria,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00073
+IND0000163,Benzyl Penicillin+  Procaine Penicillin,Neurosyphilis,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00159
+IND0000164,Benzyl Penicillin+  Procaine Penicillin,Otitis Media,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00172
+IND0000165,Benzyl Penicillin+  Procaine Penicillin,Pneumonia,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00188
+IND0000166,Benzyl Penicillin+  Procaine Penicillin,Rat bite fever,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00205
+IND0000167,Benzyl Penicillin+  Procaine Penicillin,Skin or Soft Tissue Infection,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00231
+IND0000168,Benzyl Penicillin+  Procaine Penicillin,Staphylococcul Infections,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00237
+IND0000169,Benzyl Penicillin+  Procaine Penicillin,Streptococcal Infection,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00238
+IND0000170,Benzyl Penicillin+  Procaine Penicillin,Syphillis,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00244
+IND0000171,Benzyl Penicillin+  Procaine Penicillin,Upper Respiratory Tract Infection,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00262
+IND0000172,Benzyl Penicillin+  Procaine Penicillin,Whipples disease,benzyl penicillin+ procaine penicillin,,UNRESOLVED,DISEASE00264
+IND0000173,Cefaclor,Bacterial Infection,cefaclor,DRUG000817,FULL,DISEASE00019
+IND0000174,Cefaclor,Bronchitis,cefaclor,DRUG000817,FULL,DISEASE00039
+IND0000175,Cefaclor,Cystitis,cefaclor,DRUG000817,FULL,DISEASE00069
+IND0000176,Cefaclor,Otitis Media,cefaclor,DRUG000817,FULL,DISEASE00172
+IND0000177,Cefaclor,Pneumonia,cefaclor,DRUG000817,FULL,DISEASE00188
+IND0000178,Cefaclor,Pyelonephritis,cefaclor,DRUG000817,FULL,DISEASE00202
+IND0000179,Cefaclor,Skin and Structure Infection,cefaclor,DRUG000817,FULL,DISEASE00227
+IND0000180,Cefaclor,Tonsillitis/Pharyngitis,cefaclor,DRUG000817,FULL,DISEASE00248
+IND0000181,Cefaclor,Upper Respiratory Tract Infection,cefaclor,DRUG000817,FULL,DISEASE00262
+IND0000182,Cefaclor,Urinary Tract Infection,cefaclor,DRUG000817,FULL,DISEASE00263
+IND0000183,Cefadroxil,Bacterial Infection,cefadroxil,DRUG001121,FULL,DISEASE00019
+IND0000184,Cefadroxil,Cystitis,cefadroxil,DRUG001121,FULL,DISEASE00069
+IND0000185,Cefadroxil,Impetigo,cefadroxil,DRUG001121,FULL,DISEASE00107
+IND0000186,Cefadroxil,Osteomyelitis,cefadroxil,DRUG001121,FULL,DISEASE00167
+IND0000187,Cefadroxil,Pyelonephritis,cefadroxil,DRUG001121,FULL,DISEASE00202
+IND0000188,Cefadroxil,Skin and Structure Infection,cefadroxil,DRUG001121,FULL,DISEASE00227
+IND0000189,Cefadroxil,Skin or Soft Tissue Infection,cefadroxil,DRUG001121,FULL,DISEASE00231
+IND0000190,Cefadroxil,Tonsillitis/Pharyngitis,cefadroxil,DRUG001121,FULL,DISEASE00248
+IND0000191,Cefadroxil,Urinary Tract Infection,cefadroxil,DRUG001121,FULL,DISEASE00263
+IND0000192,Cefazolin,Bacterial Endocarditis Prophylaxis,cefazolin,DRUG001288,FULL,DISEASE00018
+IND0000193,Cefazolin,Bacterial Infection,cefazolin,DRUG001288,FULL,DISEASE00019
+IND0000194,Cefazolin,Bacterial Infection (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00020
+IND0000195,Cefazolin,Bacterial Infection (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00021
+IND0000196,Cefazolin,"Bacterial Infection (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00022
+IND0000197,Cefazolin,Bone and Joint Infection,cefazolin,DRUG001288,FULL,DISEASE00031
+IND0000198,Cefazolin,Bone and Joint Infection (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00032
+IND0000199,Cefazolin,Bone and Joint Infection (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00033
+IND0000200,Cefazolin,"Bone and Joint Infection (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00034
+IND0000201,Cefazolin,Cholecystitis,cefazolin,DRUG001288,FULL,DISEASE00052
+IND0000202,Cefazolin,Cholecystitis (Mild infections),cefazolin,DRUG001288,FULL,DISEASE00053
+IND0000203,Cefazolin,Cholecystitis (Moderate infections),cefazolin,DRUG001288,FULL,DISEASE00054
+IND0000204,Cefazolin,"Cholecystitis (Severe, life-threatening infections)",cefazolin,DRUG001288,FULL,DISEASE00055
+IND0000205,Cefazolin,Endocarditis,cefazolin,DRUG001288,FULL,DISEASE00076
+IND0000206,Cefazolin,Epididymitis - Non-Specific,cefazolin,DRUG001288,FULL,DISEASE00082
+IND0000207,Cefazolin,Epididymitis - Non-Specific (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00083
+IND0000208,Cefazolin,Epididymitis - Non-Specific (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00084
+IND0000209,Cefazolin,"Epididymitis - Non-Specific (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00085
+IND0000210,Cefazolin,Meningitis - Streptococcus Group B,cefazolin,DRUG001288,FULL,DISEASE00148
+IND0000211,Cefazolin,Osteomyelitis,cefazolin,DRUG001288,FULL,DISEASE00167
+IND0000212,Cefazolin,Osteomyelitis (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00168
+IND0000213,Cefazolin,Osteomyelitis (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00169
+IND0000214,Cefazolin,"Osteomyelitis (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00170
+IND0000215,Cefazolin,Peritonitis,cefazolin,DRUG001288,FULL,DISEASE00177
+IND0000216,Cefazolin,Pneumonia,cefazolin,DRUG001288,FULL,DISEASE00188
+IND0000217,Cefazolin,Prostatitis,cefazolin,DRUG001288,FULL,DISEASE00194
+IND0000218,Cefazolin,Prostatitis (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00195
+IND0000219,Cefazolin,Prostatitis (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00196
+IND0000220,Cefazolin,"Prostatitis (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00197
+IND0000221,Cefazolin,Septicemia,cefazolin,DRUG001288,FULL,DISEASE00217
+IND0000222,Cefazolin,Septicemia (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00218
+IND0000223,Cefazolin,Septicemia (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00219
+IND0000224,Cefazolin,"Septicemia (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00220
+IND0000225,Cefazolin,Skin and Structure Infection,cefazolin,DRUG001288,FULL,DISEASE00227
+IND0000226,Cefazolin,Skin and Structure Infection (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00228
+IND0000227,Cefazolin,Skin and Structure Infection (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00229
+IND0000228,Cefazolin,"Skin and Structure Infection (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00230
+IND0000229,Cefazolin,Skin or Soft Tissue Infection,cefazolin,DRUG001288,FULL,DISEASE00231
+IND0000230,Cefazolin,Skin or Soft Tissue Infection (Mild Infections),cefazolin,DRUG001288,FULL,DISEASE00232
+IND0000231,Cefazolin,Skin or Soft Tissue Infection (Moderate Infections),cefazolin,DRUG001288,FULL,DISEASE00233
+IND0000232,Cefazolin,"Skin or Soft Tissue Infection (Severe, life-threatening)",cefazolin,DRUG001288,FULL,DISEASE00234
+IND0000233,Cefazolin,Surgical Prophylaxis,cefazolin,DRUG001288,FULL,DISEASE00240
+IND0000234,Cefazolin,Urinary Tract Infection,cefazolin,DRUG001288,FULL,DISEASE00263
+IND0000235,Cefdinir,Bronchitis,cefdinir,DRUG000521,FULL,DISEASE00039
+IND0000236,Cefdinir,Otitis Media,cefdinir,DRUG000521,FULL,DISEASE00172
+IND0000237,Cefdinir,Pneumonia,cefdinir,DRUG000521,FULL,DISEASE00188
+IND0000238,Cefdinir,Sinusitis,cefdinir,DRUG000521,FULL,DISEASE00226
+IND0000239,Cefdinir,Skin and Structure Infection,cefdinir,DRUG000521,FULL,DISEASE00227
+IND0000240,Cefdinir,Skin or Soft Tissue Infection,cefdinir,DRUG000521,FULL,DISEASE00231
+IND0000241,Cefdinir,Tonsillitis/Pharyngitis,cefdinir,DRUG000521,FULL,DISEASE00248
+IND0000242,Cefditoren,Bronchitis,cefditoren,DRUG001047,FULL,DISEASE00039
+IND0000243,Cefditoren,Pneumonia,cefditoren,DRUG001047,FULL,DISEASE00188
+IND0000244,Cefditoren,Skin or Soft Tissue Infection,cefditoren,DRUG001047,FULL,DISEASE00231
+IND0000245,Cefditoren,Tonsillitis/Pharyngitis,cefditoren,DRUG001047,FULL,DISEASE00248
+IND0000246,Cefepime,Bacteremia,cefepime,DRUG001353,FULL,DISEASE00017
+IND0000247,Cefepime,Bacterial Infection,cefepime,DRUG001353,FULL,DISEASE00019
+IND0000248,Cefepime,Bone and Joint Infection,cefepime,DRUG001353,FULL,DISEASE00031
+IND0000249,Cefepime,Endocarditis,cefepime,DRUG001353,FULL,DISEASE00076
+IND0000250,Cefepime,Febrile Neutropenia,cefepime,DRUG001353,FULL,DISEASE00088
+IND0000251,Cefepime,Intraabdominal Infection,cefepime,DRUG001353,FULL,DISEASE00118
+IND0000252,Cefepime,Meningitis,cefepime,DRUG001353,FULL,DISEASE00143
+IND0000253,Cefepime,Meningitis - Haemophilus influenzae,cefepime,DRUG001353,FULL,DISEASE00144
+IND0000254,Cefepime,Meningitis - Listeriosis,cefepime,DRUG001353,FULL,DISEASE00145
+IND0000255,Cefepime,Meningitis - Meningococcal,cefepime,DRUG001353,FULL,DISEASE00146
+IND0000256,Cefepime,Meningitis - Pneumococcal,cefepime,DRUG001353,FULL,DISEASE00147
+IND0000257,Cefepime,Meningitis - Streptococcus Group B,cefepime,DRUG001353,FULL,DISEASE00148
+IND0000258,Cefepime,Nosocomial Pneumonia,cefepime,DRUG001353,FULL,DISEASE00162
+IND0000259,Cefepime,Osteomyelitis,cefepime,DRUG001353,FULL,DISEASE00167
+IND0000260,Cefepime,Peritonitis,cefepime,DRUG001353,FULL,DISEASE00177
+IND0000261,Cefepime,Pneumonia,cefepime,DRUG001353,FULL,DISEASE00188
+IND0000262,Cefepime,Pyelonephritis,cefepime,DRUG001353,FULL,DISEASE00202
+IND0000263,Cefepime,Skin and Structure Infection,cefepime,DRUG001353,FULL,DISEASE00227
+IND0000264,Cefepime,Urinary Tract Infection,cefepime,DRUG001353,FULL,DISEASE00263
+IND0000265,Cefetamet  Pivoxil Hydrochloride,Enterobacteriaceae,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00080
+IND0000266,Cefetamet  Pivoxil Hydrochloride,Group A hemolytic streptococci,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00100
+IND0000267,Cefetamet  Pivoxil Hydrochloride,Haemophilus influenzae,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00101
+IND0000268,Cefetamet  Pivoxil Hydrochloride,Moraxella catarrhalis,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00151
+IND0000269,Cefetamet  Pivoxil Hydrochloride,Neisseria gonorrhoeae,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00158
+IND0000270,Cefetamet  Pivoxil Hydrochloride,Streptococcus pneumoniae,cefetamet pivoxil hydrochloride,,UNRESOLVED,DISEASE00239
+IND0000271,Cefixime,Bacterial Infection,cefixime,DRUG000656,FULL,DISEASE00019
+IND0000272,Cefixime,Bronchitis,cefixime,DRUG000656,FULL,DISEASE00039
+IND0000273,Cefixime,Gonococcal Infection - Uncomplicated,cefixime,DRUG000656,FULL,DISEASE00096
+IND0000274,Cefixime,Otitis Media,cefixime,DRUG000656,FULL,DISEASE00172
+IND0000275,Cefixime,Tonsillitis/Pharyngitis,cefixime,DRUG000656,FULL,DISEASE00248
+IND0000276,Cefixime,Urinary Tract Infection,cefixime,DRUG000656,FULL,DISEASE00263
+IND0000277,Cefoperazone,Bacteremia,cefoperazone,DRUG001290,FULL,DISEASE00017
+IND0000278,Cefoperazone,Bone and Joint Infection,cefoperazone,DRUG001290,FULL,DISEASE00031
+IND0000279,Cefoperazone,Endometritis,cefoperazone,DRUG001290,FULL,DISEASE00078
+IND0000280,Cefoperazone,Febrile Neutropenia,cefoperazone,DRUG001290,FULL,DISEASE00088
+IND0000281,Cefoperazone,Intraabdominal Infection,cefoperazone,DRUG001290,FULL,DISEASE00118
+IND0000282,Cefoperazone,Pelvic Inflammatory Disease,cefoperazone,DRUG001290,FULL,DISEASE00175
+IND0000283,Cefoperazone,Peritonitis,cefoperazone,DRUG001290,FULL,DISEASE00177
+IND0000284,Cefoperazone,Pneumonia,cefoperazone,DRUG001290,FULL,DISEASE00188
+IND0000285,Cefoperazone,Pyelonephritis,cefoperazone,DRUG001290,FULL,DISEASE00202
+IND0000286,Cefoperazone,Skin or Soft Tissue Infection,cefoperazone,DRUG001290,FULL,DISEASE00231
+IND0000287,Cefoperazone,Urinary Tract Infection,cefoperazone,DRUG001290,FULL,DISEASE00263
+IND0000288,Cefotaxime,Bacteremia,cefotaxime,DRUG000481,FULL,DISEASE00017
+IND0000289,Cefotaxime,Bone and Joint Infection,cefotaxime,DRUG000481,FULL,DISEASE00031
+IND0000290,Cefotaxime,CNS Infection,cefotaxime,DRUG000481,FULL,DISEASE00044
+IND0000291,Cefotaxime,Cesarean Section,cefotaxime,DRUG000481,FULL,DISEASE00049
+IND0000292,Cefotaxime,Endometritis,cefotaxime,DRUG000481,FULL,DISEASE00078
+IND0000293,Cefotaxime,Gonococcal Infection - Disseminated,cefotaxime,DRUG000481,FULL,DISEASE00095
+IND0000294,Cefotaxime,Gonococcal Infection - Uncomplicated,cefotaxime,DRUG000481,FULL,DISEASE00096
+IND0000295,Cefotaxime,Intraabdominal Infection,cefotaxime,DRUG000481,FULL,DISEASE00118
+IND0000296,Cefotaxime,Lyme Disease - Neurologic,cefotaxime,DRUG000481,FULL,DISEASE00137
+IND0000297,Cefotaxime,Meningitis,cefotaxime,DRUG000481,FULL,DISEASE00143
+IND0000298,Cefotaxime,Osteomyelitis,cefotaxime,DRUG000481,FULL,DISEASE00167
+IND0000299,Cefotaxime,Pelvic Inflammatory Disease,cefotaxime,DRUG000481,FULL,DISEASE00175
+IND0000300,Cefotaxime,Peritonitis,cefotaxime,DRUG000481,FULL,DISEASE00177
+IND0000301,Cefotaxime,Pneumonia,cefotaxime,DRUG000481,FULL,DISEASE00188
+IND0000302,Cefotaxime,Rhinitis,cefotaxime,DRUG000481,FULL,DISEASE00208
+IND0000303,Cefotaxime,Sepsis,cefotaxime,DRUG000481,FULL,DISEASE00216
+IND0000304,Cefotaxime,Septicemia,cefotaxime,DRUG000481,FULL,DISEASE00217
+IND0000305,Cefotaxime,Sinusitis,cefotaxime,DRUG000481,FULL,DISEASE00226
+IND0000306,Cefotaxime,Skin or Soft Tissue Infection,cefotaxime,DRUG000481,FULL,DISEASE00231
+IND0000307,Cefotaxime,Surgical Prophylaxis,cefotaxime,DRUG000481,FULL,DISEASE00240
+IND0000308,Cefotaxime,Urinary Tract Infection,cefotaxime,DRUG000481,FULL,DISEASE00263
+IND0000309,Cefoxitin,Aspiration Pneumonia,cefoxitin,DRUG001292,FULL,DISEASE00015
+IND0000310,Cefoxitin,Bacterial Infection,cefoxitin,DRUG001292,FULL,DISEASE00019
+IND0000311,Cefoxitin,Bone and Joint Infection,cefoxitin,DRUG001292,FULL,DISEASE00031
+IND0000312,Cefoxitin,Cesarean Section,cefoxitin,DRUG001292,FULL,DISEASE00049
+IND0000313,Cefoxitin,Endometritis,cefoxitin,DRUG001292,FULL,DISEASE00078
+IND0000314,Cefoxitin,Gonococcal Infection - Uncomplicated,cefoxitin,DRUG001292,FULL,DISEASE00096
+IND0000315,Cefoxitin,Intraabdominal Infection,cefoxitin,DRUG001292,FULL,DISEASE00118
+IND0000316,Cefoxitin,Osteomyelitis,cefoxitin,DRUG001292,FULL,DISEASE00167
+IND0000317,Cefoxitin,Pelvic Inflammatory Disease,cefoxitin,DRUG001292,FULL,DISEASE00175
+IND0000318,Cefoxitin,Peritonitis,cefoxitin,DRUG001292,FULL,DISEASE00177
+IND0000319,Cefoxitin,Pneumonia,cefoxitin,DRUG001292,FULL,DISEASE00188
+IND0000320,Cefoxitin,Septicemia,cefoxitin,DRUG001292,FULL,DISEASE00217
+IND0000321,Cefoxitin,Skin and Structure Infection,cefoxitin,DRUG001292,FULL,DISEASE00227
+IND0000322,Cefoxitin,Surgical Prophylaxis,cefoxitin,DRUG001292,FULL,DISEASE00240
+IND0000323,Cefoxitin,Urinary Tract Infection,cefoxitin,DRUG001292,FULL,DISEASE00263
+IND0000324,Cefpirome,Bacteremia,cefpirome,DRUG011650,FULL,DISEASE00017
+IND0000325,Cefpirome,Infections by neutropenic host,cefpirome,DRUG011650,FULL,DISEASE00113
+IND0000326,Cefpirome,Lower Respiratory Track Infections,cefpirome,DRUG011650,FULL,DISEASE00131
+IND0000327,Cefpirome,Septicemia,cefpirome,DRUG011650,FULL,DISEASE00217
+IND0000328,Cefpirome,Severe infections in intensive care patients,cefpirome,DRUG011650,FULL,DISEASE00222
+IND0000329,Cefpirome,Skin or Soft Tissue Infection,cefpirome,DRUG011650,FULL,DISEASE00231
+IND0000330,Cefpirome,Urinary Tract Infection,cefpirome,DRUG011650,FULL,DISEASE00263
+IND0000331,Cefpodoxime,Cystitis,cefpodoxime,DRUG001356,FULL,DISEASE00069
+IND0000332,Cefpodoxime,Gonococcal Infection - Disseminated,cefpodoxime,DRUG001356,FULL,DISEASE00095
+IND0000333,Cefpodoxime,Gonococcal Infection - Uncomplicated,cefpodoxime,DRUG001356,FULL,DISEASE00096
+IND0000334,Cefpodoxime,Otitis Media,cefpodoxime,DRUG001356,FULL,DISEASE00172
+IND0000335,Cefpodoxime,Pneumonia,cefpodoxime,DRUG001356,FULL,DISEASE00188
+IND0000336,Cefpodoxime,Pyelonephritis,cefpodoxime,DRUG001356,FULL,DISEASE00202
+IND0000337,Cefpodoxime,Sinusitis,cefpodoxime,DRUG001356,FULL,DISEASE00226
+IND0000338,Cefpodoxime,Skin or Soft Tissue Infection,cefpodoxime,DRUG001356,FULL,DISEASE00231
+IND0000339,Cefpodoxime,Tonsillitis/Pharyngitis,cefpodoxime,DRUG001356,FULL,DISEASE00248
+IND0000340,Cefpodoxime,Upper Respiratory Tract Infection,cefpodoxime,DRUG001356,FULL,DISEASE00262
+IND0000341,Cefpodoxime  + Clavulanic Acid,Cystitis,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00069
+IND0000342,Cefpodoxime  + Clavulanic Acid,Gonococcal Infection - Disseminated,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00095
+IND0000343,Cefpodoxime  + Clavulanic Acid,Gonococcal Infection - Uncomplicated,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00096
+IND0000344,Cefpodoxime  + Clavulanic Acid,Otitis Media,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00172
+IND0000345,Cefpodoxime  + Clavulanic Acid,Pneumonia,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00188
+IND0000346,Cefpodoxime  + Clavulanic Acid,Pyelonephritis,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00202
+IND0000347,Cefpodoxime  + Clavulanic Acid,Sinusitis,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00226
+IND0000348,Cefpodoxime  + Clavulanic Acid,Skin or Soft Tissue Infection,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00231
+IND0000349,Cefpodoxime  + Clavulanic Acid,Tonsillitis/Pharyngitis,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00248
+IND0000350,Cefpodoxime  + Clavulanic Acid,Upper Respiratory Tract Infection,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL,DISEASE00262
+IND0000351,Cefprozil,Bronchitis,cefprozil,DRUG001131,FULL,DISEASE00039
+IND0000352,Cefprozil,Cystitis,cefprozil,DRUG001131,FULL,DISEASE00069
+IND0000353,Cefprozil,Otitis Media,cefprozil,DRUG001131,FULL,DISEASE00172
+IND0000354,Cefprozil,Pneumonia,cefprozil,DRUG001131,FULL,DISEASE00188
+IND0000355,Cefprozil,Pyelonephritis,cefprozil,DRUG001131,FULL,DISEASE00202
+IND0000356,Cefprozil,Sinusitis,cefprozil,DRUG001131,FULL,DISEASE00226
+IND0000357,Cefprozil,Skin or Soft Tissue Infection,cefprozil,DRUG001131,FULL,DISEASE00231
+IND0000358,Cefprozil,Tonsillitis/Pharyngitis,cefprozil,DRUG001131,FULL,DISEASE00248
+IND0000359,Cefprozil,Upper Respiratory Tract Infection,cefprozil,DRUG001131,FULL,DISEASE00262
+IND0000360,Ceftazidime,Bacteremia,ceftazidime,DRUG000426,FULL,DISEASE00017
+IND0000361,Ceftazidime,Bacterial Infection,ceftazidime,DRUG000426,FULL,DISEASE00019
+IND0000362,Ceftazidime,Bone and Joint Infection,ceftazidime,DRUG000426,FULL,DISEASE00031
+IND0000363,Ceftazidime,Cystitis,ceftazidime,DRUG000426,FULL,DISEASE00069
+IND0000364,Ceftazidime,Endocarditis,ceftazidime,DRUG000426,FULL,DISEASE00076
+IND0000365,Ceftazidime,Endometriosis,ceftazidime,DRUG000426,FULL,DISEASE00077
+IND0000366,Ceftazidime,Endometritis,ceftazidime,DRUG000426,FULL,DISEASE00078
+IND0000367,Ceftazidime,Febrile Neutropenia,ceftazidime,DRUG000426,FULL,DISEASE00088
+IND0000368,Ceftazidime,Intraabdominal Infection,ceftazidime,DRUG000426,FULL,DISEASE00118
+IND0000369,Ceftazidime,Meningitis,ceftazidime,DRUG000426,FULL,DISEASE00143
+IND0000370,Ceftazidime,Nosocomial Pneumonia,ceftazidime,DRUG000426,FULL,DISEASE00162
+IND0000371,Ceftazidime,Osteomyelitis,ceftazidime,DRUG000426,FULL,DISEASE00167
+IND0000372,Ceftazidime,Pelvic Infections,ceftazidime,DRUG000426,FULL,DISEASE00174
+IND0000373,Ceftazidime,Pelvic Inflammatory Disease,ceftazidime,DRUG000426,FULL,DISEASE00175
+IND0000374,Ceftazidime,Peritonitis,ceftazidime,DRUG000426,FULL,DISEASE00177
+IND0000375,Ceftazidime,Pneumonia,ceftazidime,DRUG000426,FULL,DISEASE00188
+IND0000376,Ceftazidime,Pneumonia with Cystic Fibrosis,ceftazidime,DRUG000426,FULL,DISEASE00189
+IND0000377,Ceftazidime,Pyelonephritis,ceftazidime,DRUG000426,FULL,DISEASE00202
+IND0000378,Ceftazidime,Sepsis,ceftazidime,DRUG000426,FULL,DISEASE00216
+IND0000379,Ceftazidime,Septicemia,ceftazidime,DRUG000426,FULL,DISEASE00217
+IND0000380,Ceftazidime,Skin and Structure Infection,ceftazidime,DRUG000426,FULL,DISEASE00227
+IND0000381,Ceftazidime,Skin or Soft Tissue Infection,ceftazidime,DRUG000426,FULL,DISEASE00231
+IND0000382,Ceftazidime,Urinary Tract Infection,ceftazidime,DRUG000426,FULL,DISEASE00263
+IND0000383,Ceftibuten,Bronchitis,ceftibuten,DRUG001355,FULL,DISEASE00039
+IND0000384,Ceftibuten,Otitis Media,ceftibuten,DRUG001355,FULL,DISEASE00172
+IND0000385,Ceftibuten,Tonsillitis/Pharyngitis,ceftibuten,DRUG001355,FULL,DISEASE00248
+IND0000386,Ceftriaxone,Bacteremia,ceftriaxone,DRUG001193,FULL,DISEASE00017
+IND0000387,Ceftriaxone,Bacterial Endocarditis Prophylaxis,ceftriaxone,DRUG001193,FULL,DISEASE00018
+IND0000388,Ceftriaxone,Bacterial Infection,ceftriaxone,DRUG001193,FULL,DISEASE00019
+IND0000389,Ceftriaxone,Bone and Joint Infection,ceftriaxone,DRUG001193,FULL,DISEASE00031
+IND0000390,Ceftriaxone,Bronchitis,ceftriaxone,DRUG001193,FULL,DISEASE00039
+IND0000391,Ceftriaxone,Chancroid,ceftriaxone,DRUG001193,FULL,DISEASE00050
+IND0000392,Ceftriaxone,Conjunctivitis,ceftriaxone,DRUG001193,FULL,DISEASE00064
+IND0000393,Ceftriaxone,Endocarditis,ceftriaxone,DRUG001193,FULL,DISEASE00076
+IND0000394,Ceftriaxone,Gonococcal Infection - Disseminated,ceftriaxone,DRUG001193,FULL,DISEASE00095
+IND0000395,Ceftriaxone,Gonococcal Infection - Uncomplicated,ceftriaxone,DRUG001193,FULL,DISEASE00096
+IND0000396,Ceftriaxone,Intraabdominal Infection,ceftriaxone,DRUG001193,FULL,DISEASE00118
+IND0000397,Ceftriaxone,Lyme Disease,ceftriaxone,DRUG001193,FULL,DISEASE00133
+IND0000398,Ceftriaxone,Lyme Disease - Arthritis,ceftriaxone,DRUG001193,FULL,DISEASE00134
+IND0000399,Ceftriaxone,Lyme Disease - Carditis,ceftriaxone,DRUG001193,FULL,DISEASE00135
+IND0000400,Ceftriaxone,Lyme Disease - Neurologic,ceftriaxone,DRUG001193,FULL,DISEASE00137
+IND0000401,Ceftriaxone,Meningitis,ceftriaxone,DRUG001193,FULL,DISEASE00143
+IND0000402,Ceftriaxone,Meningococcal Meningitis Prophylaxis,ceftriaxone,DRUG001193,FULL,DISEASE00150
+IND0000403,Ceftriaxone,Neurosyphilis,ceftriaxone,DRUG001193,FULL,DISEASE00159
+IND0000404,Ceftriaxone,Ocular Infection,ceftriaxone,DRUG001193,FULL,DISEASE00164
+IND0000405,Ceftriaxone,Osteomyelitis,ceftriaxone,DRUG001193,FULL,DISEASE00167
+IND0000406,Ceftriaxone,Otitis Media,ceftriaxone,DRUG001193,FULL,DISEASE00172
+IND0000407,Ceftriaxone,Pelvic Inflammatory Disease,ceftriaxone,DRUG001193,FULL,DISEASE00175
+IND0000408,Ceftriaxone,Pneumonia,ceftriaxone,DRUG001193,FULL,DISEASE00188
+IND0000409,Ceftriaxone,Proctitis,ceftriaxone,DRUG001193,FULL,DISEASE00192
+IND0000410,Ceftriaxone,STD Prophylaxis,ceftriaxone,DRUG001193,FULL,DISEASE00211
+IND0000411,Ceftriaxone,Salmonella Enteric Fever,ceftriaxone,DRUG001193,FULL,DISEASE00212
+IND0000412,Ceftriaxone,Salmonella Gastroenteritis,ceftriaxone,DRUG001193,FULL,DISEASE00213
+IND0000413,Ceftriaxone,Septicemia,ceftriaxone,DRUG001193,FULL,DISEASE00217
+IND0000414,Ceftriaxone,Skin and Structure Infection,ceftriaxone,DRUG001193,FULL,DISEASE00227
+IND0000415,Ceftriaxone,Skin or Soft Tissue Infection,ceftriaxone,DRUG001193,FULL,DISEASE00231
+IND0000416,Ceftriaxone,Surgical Prophylaxis,ceftriaxone,DRUG001193,FULL,DISEASE00240
+IND0000417,Ceftriaxone,Syphilis - Early,ceftriaxone,DRUG001193,FULL,DISEASE00242
+IND0000418,Ceftriaxone,Urinary Tract Infection,ceftriaxone,DRUG001193,FULL,DISEASE00263
+IND0000419,Cefuroxime,Appendicitis,cefuroxime,DRUG001093,FULL,DISEASE00013
+IND0000420,Cefuroxime,Bacterial Infection,cefuroxime,DRUG001093,FULL,DISEASE00019
+IND0000421,Cefuroxime,Bone and Joint Infection,cefuroxime,DRUG001093,FULL,DISEASE00031
+IND0000422,Cefuroxime,Bronchitis,cefuroxime,DRUG001093,FULL,DISEASE00039
+IND0000423,Cefuroxime,Cholecystitis,cefuroxime,DRUG001093,FULL,DISEASE00052
+IND0000424,Cefuroxime,Gonococcal Infection - Disseminated,cefuroxime,DRUG001093,FULL,DISEASE00095
+IND0000425,Cefuroxime,Gonococcal Infection - Uncomplicated,cefuroxime,DRUG001093,FULL,DISEASE00096
+IND0000426,Cefuroxime,Impetigo,cefuroxime,DRUG001093,FULL,DISEASE00107
+IND0000427,Cefuroxime,Intraabdominal Infection,cefuroxime,DRUG001093,FULL,DISEASE00118
+IND0000428,Cefuroxime,Lyme Disease,cefuroxime,DRUG001093,FULL,DISEASE00133
+IND0000429,Cefuroxime,Meningitis,cefuroxime,DRUG001093,FULL,DISEASE00143
+IND0000430,Cefuroxime,Osteomyelitis,cefuroxime,DRUG001093,FULL,DISEASE00167
+IND0000431,Cefuroxime,Otitis Media,cefuroxime,DRUG001093,FULL,DISEASE00172
+IND0000432,Cefuroxime,Pneumonia,cefuroxime,DRUG001093,FULL,DISEASE00188
+IND0000433,Cefuroxime,Septicemia,cefuroxime,DRUG001093,FULL,DISEASE00217
+IND0000434,Cefuroxime,Sinusitis,cefuroxime,DRUG001093,FULL,DISEASE00226
+IND0000435,Cefuroxime,Skin and Structure Infection,cefuroxime,DRUG001093,FULL,DISEASE00227
+IND0000436,Cefuroxime,Skin or Soft Tissue Infection,cefuroxime,DRUG001093,FULL,DISEASE00231
+IND0000437,Cefuroxime,Surgical Prophylaxis,cefuroxime,DRUG001093,FULL,DISEASE00240
+IND0000438,Cefuroxime,Tonsillitis/Pharyngitis,cefuroxime,DRUG001093,FULL,DISEASE00248
+IND0000439,Cefuroxime,Urinary Tract Infection,cefuroxime,DRUG001093,FULL,DISEASE00263
+IND0000440,Cefuroxime,Wound Infection,cefuroxime,DRUG001093,FULL,DISEASE00265
+IND0000441,Cefuroxime + Clavulanic Acid,Appendicitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00013
+IND0000442,Cefuroxime + Clavulanic Acid,Bacterial Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00019
+IND0000443,Cefuroxime + Clavulanic Acid,Bone and Joint Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00031
+IND0000444,Cefuroxime + Clavulanic Acid,Bronchitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00039
+IND0000445,Cefuroxime + Clavulanic Acid,Cholecystitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00052
+IND0000446,Cefuroxime + Clavulanic Acid,Gonococcal Infection - Disseminated,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00095
+IND0000447,Cefuroxime + Clavulanic Acid,Gonococcal Infection - Uncomplicated,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00096
+IND0000448,Cefuroxime + Clavulanic Acid,Impetigo,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00107
+IND0000449,Cefuroxime + Clavulanic Acid,Intraabdominal Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00118
+IND0000450,Cefuroxime + Clavulanic Acid,Lyme Disease,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00133
+IND0000451,Cefuroxime + Clavulanic Acid,Meningitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00143
+IND0000452,Cefuroxime + Clavulanic Acid,Osteomyelitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00167
+IND0000453,Cefuroxime + Clavulanic Acid,Otitis Media,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00172
+IND0000454,Cefuroxime + Clavulanic Acid,Pneumonia,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00188
+IND0000455,Cefuroxime + Clavulanic Acid,Septicemia,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00217
+IND0000456,Cefuroxime + Clavulanic Acid,Sinusitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00226
+IND0000457,Cefuroxime + Clavulanic Acid,Skin and Structure Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00227
+IND0000458,Cefuroxime + Clavulanic Acid,Skin or Soft Tissue Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00231
+IND0000459,Cefuroxime + Clavulanic Acid,Surgical Prophylaxis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00240
+IND0000460,Cefuroxime + Clavulanic Acid,Tonsillitis/Pharyngitis,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00248
+IND0000461,Cefuroxime + Clavulanic Acid,Urinary Tract Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00263
+IND0000462,Cefuroxime + Clavulanic Acid,Wound Infection,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL,DISEASE00265
+IND0000463,Cephalexin,Bacterial Endocarditis Prophylaxis,cephalexin,DRUG000553,FULL,DISEASE00018
+IND0000464,Cephalexin,Bacterial Infection,cephalexin,DRUG000553,FULL,DISEASE00019
+IND0000465,Cephalexin,Cystitis,cephalexin,DRUG000553,FULL,DISEASE00069
+IND0000466,Cephalexin,Osteomyelitis,cephalexin,DRUG000553,FULL,DISEASE00167
+IND0000467,Cephalexin,Otitis Media,cephalexin,DRUG000553,FULL,DISEASE00172
+IND0000468,Cephalexin,Pharyngitis,cephalexin,DRUG000553,FULL,DISEASE00179
+IND0000469,Cephalexin,Prostatitis,cephalexin,DRUG000553,FULL,DISEASE00194
+IND0000470,Cephalexin,Pyelonephritis,cephalexin,DRUG000553,FULL,DISEASE00202
+IND0000471,Cephalexin,Skin or Soft Tissue Infection,cephalexin,DRUG000553,FULL,DISEASE00231
+IND0000472,Cephalexin,Upper Respiratory Tract Infection,cephalexin,DRUG000553,FULL,DISEASE00262
+IND0000473,Cephradine,Bacterial Infection,cephradine,,UNRESOLVED,DISEASE00019
+IND0000474,Cephradine,Cystitis,cephradine,,UNRESOLVED,DISEASE00069
+IND0000475,Cephradine,Otitis Media,cephradine,,UNRESOLVED,DISEASE00172
+IND0000476,Cephradine,Pharyngitis,cephradine,,UNRESOLVED,DISEASE00179
+IND0000477,Cephradine,Pyelonephritis,cephradine,,UNRESOLVED,DISEASE00202
+IND0000478,Cephradine,Skin and Structure Infection,cephradine,,UNRESOLVED,DISEASE00227
+IND0000479,Cephradine,Skin or Soft Tissue Infection,cephradine,,UNRESOLVED,DISEASE00231
+IND0000480,Cephradine,Upper Respiratory Tract Infection,cephradine,,UNRESOLVED,DISEASE00262
+IND0000481,Chloramphenicol,Bacteremia,chloramphenicol,DRUG000434,FULL,DISEASE00017
+IND0000482,Chloramphenicol,Bacterial Infection,chloramphenicol,DRUG000434,FULL,DISEASE00019
+IND0000483,Chloramphenicol,Cutaneous Bacillus anthracis,chloramphenicol,DRUG000434,FULL,DISEASE00067
+IND0000484,Chloramphenicol,Cystic Fibrosis,chloramphenicol,DRUG000434,FULL,DISEASE00068
+IND0000485,Chloramphenicol,Gram Negative Infection,chloramphenicol,DRUG000434,FULL,DISEASE00098
+IND0000486,Chloramphenicol,Inhalation Bacillus anthracis,chloramphenicol,DRUG000434,FULL,DISEASE00115
+IND0000487,Chloramphenicol,Meningitis,chloramphenicol,DRUG000434,FULL,DISEASE00143
+IND0000488,Chloramphenicol,Ornithosis,chloramphenicol,DRUG000434,FULL,DISEASE00166
+IND0000489,Chloramphenicol,Plague,chloramphenicol,DRUG000434,FULL,DISEASE00181
+IND0000490,Chloramphenicol,Psittacosis,chloramphenicol,DRUG000434,FULL,DISEASE00200
+IND0000491,Chloramphenicol,Rickettsial Infection,chloramphenicol,DRUG000434,FULL,DISEASE00209
+IND0000492,Chloramphenicol,Tularemia,chloramphenicol,DRUG000434,FULL,DISEASE00259
+IND0000493,Chloramphenicol,Typhoid Fever,chloramphenicol,DRUG000434,FULL,DISEASE00260
+IND0000494,Ciprofloxacin,Anthrax Prophylaxis,ciprofloxacin,DRUG000523,FULL,DISEASE00012
+IND0000495,Ciprofloxacin,Bone and Joint Infection,ciprofloxacin,DRUG000523,FULL,DISEASE00031
+IND0000496,Ciprofloxacin,Bronchitis,ciprofloxacin,DRUG000523,FULL,DISEASE00039
+IND0000497,Ciprofloxacin,Chancroid,ciprofloxacin,DRUG000523,FULL,DISEASE00050
+IND0000498,Ciprofloxacin,Cutaneous Bacillus anthracis,ciprofloxacin,DRUG000523,FULL,DISEASE00067
+IND0000499,Ciprofloxacin,Cystitis,ciprofloxacin,DRUG000523,FULL,DISEASE00069
+IND0000500,Ciprofloxacin,Febrile Neutropenia,ciprofloxacin,DRUG000523,FULL,DISEASE00088
+IND0000501,Ciprofloxacin,Gonococcal Infection - Uncomplicated,ciprofloxacin,DRUG000523,FULL,DISEASE00096
+IND0000502,Ciprofloxacin,Granuloma Inguinale,ciprofloxacin,DRUG000523,FULL,DISEASE00099
+IND0000503,Ciprofloxacin,Infectious Diarrhea,ciprofloxacin,DRUG000523,FULL,DISEASE00114
+IND0000504,Ciprofloxacin,Inhalation Bacillus anthracis,ciprofloxacin,DRUG000523,FULL,DISEASE00115
+IND0000505,Ciprofloxacin,Intraabdominal Infection,ciprofloxacin,DRUG000523,FULL,DISEASE00118
+IND0000506,Ciprofloxacin,Meningococcal Meningitis Prophylaxis,ciprofloxacin,DRUG000523,FULL,DISEASE00150
+IND0000507,Ciprofloxacin,Nosocomial Pneumonia,ciprofloxacin,DRUG000523,FULL,DISEASE00162
+IND0000508,Ciprofloxacin,Osteomyelitis,ciprofloxacin,DRUG000523,FULL,DISEASE00167
+IND0000509,Ciprofloxacin,Plague,ciprofloxacin,DRUG000523,FULL,DISEASE00181
+IND0000510,Ciprofloxacin,Plague Prophylaxis,ciprofloxacin,DRUG000523,FULL,DISEASE00182
+IND0000511,Ciprofloxacin,Pneumonia,ciprofloxacin,DRUG000523,FULL,DISEASE00188
+IND0000512,Ciprofloxacin,Pneumonia with Cystic Fibrosis,ciprofloxacin,DRUG000523,FULL,DISEASE00189
+IND0000513,Ciprofloxacin,Prostatitis,ciprofloxacin,DRUG000523,FULL,DISEASE00194
+IND0000514,Ciprofloxacin,Pyelonephritis,ciprofloxacin,DRUG000523,FULL,DISEASE00202
+IND0000515,Ciprofloxacin,Salmonella Enteric Fever,ciprofloxacin,DRUG000523,FULL,DISEASE00212
+IND0000516,Ciprofloxacin,Salmonella Gastroenteritis,ciprofloxacin,DRUG000523,FULL,DISEASE00213
+IND0000517,Ciprofloxacin,Shigellosis,ciprofloxacin,DRUG000523,FULL,DISEASE00224
+IND0000518,Ciprofloxacin,Sinusitis,ciprofloxacin,DRUG000523,FULL,DISEASE00226
+IND0000519,Ciprofloxacin,Skin and Structure Infection,ciprofloxacin,DRUG000523,FULL,DISEASE00227
+IND0000520,Ciprofloxacin,Skin or Soft Tissue Infection,ciprofloxacin,DRUG000523,FULL,DISEASE00231
+IND0000521,Ciprofloxacin,Surgical Prophylaxis,ciprofloxacin,DRUG000523,FULL,DISEASE00240
+IND0000522,Ciprofloxacin,Tularemia,ciprofloxacin,DRUG000523,FULL,DISEASE00259
+IND0000523,Ciprofloxacin,Typhoid Fever,ciprofloxacin,DRUG000523,FULL,DISEASE00260
+IND0000524,Ciprofloxacin,Urinary Tract Infection,ciprofloxacin,DRUG000523,FULL,DISEASE00263
+IND0000525,Ciprofloxacin Hydrochloride,Anthrax Prophylaxis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00012
+IND0000526,Ciprofloxacin Hydrochloride,Bone and Joint Infection,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00031
+IND0000527,Ciprofloxacin Hydrochloride,Bronchitis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00039
+IND0000528,Ciprofloxacin Hydrochloride,Chancroid,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00050
+IND0000529,Ciprofloxacin Hydrochloride,Cutaneous Bacillus anthracis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00067
+IND0000530,Ciprofloxacin Hydrochloride,Cystitis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00069
+IND0000531,Ciprofloxacin Hydrochloride,Febrile Neutropenia,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00088
+IND0000532,Ciprofloxacin Hydrochloride,Gonococcal Infection - Uncomplicated,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00096
+IND0000533,Ciprofloxacin Hydrochloride,Granuloma Inguinale,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00099
+IND0000534,Ciprofloxacin Hydrochloride,Infectious Diarrhea,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00114
+IND0000535,Ciprofloxacin Hydrochloride,Inhalation Bacillus anthracis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00115
+IND0000536,Ciprofloxacin Hydrochloride,Intraabdominal Infection,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00118
+IND0000537,Ciprofloxacin Hydrochloride,Meningococcal Meningitis Prophylaxis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00150
+IND0000538,Ciprofloxacin Hydrochloride,Nosocomial Pneumonia,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00162
+IND0000539,Ciprofloxacin Hydrochloride,Osteomyelitis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00167
+IND0000540,Ciprofloxacin Hydrochloride,Plague,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00181
+IND0000541,Ciprofloxacin Hydrochloride,Plague Prophylaxis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00182
+IND0000542,Ciprofloxacin Hydrochloride,Pneumonia,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00188
+IND0000543,Ciprofloxacin Hydrochloride,Pneumonia with Cystic Fibrosis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00189
+IND0000544,Ciprofloxacin Hydrochloride,Prostatitis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00194
+IND0000545,Ciprofloxacin Hydrochloride,Pyelonephritis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00202
+IND0000546,Ciprofloxacin Hydrochloride,Salmonella Enteric Fever,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00212
+IND0000547,Ciprofloxacin Hydrochloride,Salmonella Gastroenteritis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00213
+IND0000548,Ciprofloxacin Hydrochloride,Shigellosis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00224
+IND0000549,Ciprofloxacin Hydrochloride,Sinusitis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00226
+IND0000550,Ciprofloxacin Hydrochloride,Skin and Structure Infection,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00227
+IND0000551,Ciprofloxacin Hydrochloride,Skin or Soft Tissue Infection,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00231
+IND0000552,Ciprofloxacin Hydrochloride,Surgical Prophylaxis,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00240
+IND0000553,Ciprofloxacin Hydrochloride,Tularemia,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00259
+IND0000554,Ciprofloxacin Hydrochloride,Typhoid Fever,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00260
+IND0000555,Ciprofloxacin Hydrochloride,Urinary Tract Infection,ciprofloxacin hydrochloride,DRUG000523,FULL,DISEASE00263
+IND0000556,Clarithromycin,Bacterial Endocarditis Prophylaxis,clarithromycin,DRUG001192,FULL,DISEASE00018
+IND0000557,Clarithromycin,Bronchitis,clarithromycin,DRUG001192,FULL,DISEASE00039
+IND0000558,Clarithromycin,Helicobacter pylori Infection,clarithromycin,DRUG001192,FULL,DISEASE00103
+IND0000559,Clarithromycin,Legionella Pneumonia,clarithromycin,DRUG001192,FULL,DISEASE00121
+IND0000560,Clarithromycin,Mycobacterium avium-intracellulare - Prophylaxis,clarithromycin,DRUG001192,FULL,DISEASE00153
+IND0000561,Clarithromycin,Mycobacterium avium-intracellulare - Treatment,clarithromycin,DRUG001192,FULL,DISEASE00154
+IND0000562,Clarithromycin,Mycoplasma Pneumonia,clarithromycin,DRUG001192,FULL,DISEASE00156
+IND0000563,Clarithromycin,Otitis Media,clarithromycin,DRUG001192,FULL,DISEASE00172
+IND0000564,Clarithromycin,Pertussis Prophylaxis,clarithromycin,DRUG001192,FULL,DISEASE00178
+IND0000565,Clarithromycin,Pneumonia,clarithromycin,DRUG001192,FULL,DISEASE00188
+IND0000566,Clarithromycin,Sinusitis,clarithromycin,DRUG001192,FULL,DISEASE00226
+IND0000567,Clarithromycin,Skin and Structure Infection,clarithromycin,DRUG001192,FULL,DISEASE00227
+IND0000568,Clarithromycin,Tonsillitis/Pharyngitis,clarithromycin,DRUG001192,FULL,DISEASE00248
+IND0000569,Clindamycin,Bacterial Infection,clindamycin,DRUG001171,FULL,DISEASE00019
+IND0000570,Clindamycin + Anhydrous Benzoyl Peroxide,Bacterial Infection,clindamycin + anhydrous benzoyl peroxide,DRUG001171,PARTIAL,DISEASE00019
+IND0000571,Cloxacillin,Pneumonia,cloxacillin,DRUG001128,FULL,DISEASE00188
+IND0000572,Cloxacillin,Skin and Structure Infection,cloxacillin,DRUG001128,FULL,DISEASE00227
+IND0000573,Cloxacillin,Upper Respiratory Tract Infection,cloxacillin,DRUG001128,FULL,DISEASE00262
+IND0000574,Dapsone,Dermatitis Herpetiformis,dapsone,DRUG000240,FULL,DISEASE00071
+IND0000575,Dapsone,Leprosy,dapsone,DRUG000240,FULL,DISEASE00123
+IND0000576,Dapsone,Leprosy - Lepromatous,dapsone,DRUG000240,FULL,DISEASE00125
+IND0000577,Dapsone,Leprosy - Tuberculoid,dapsone,DRUG000240,FULL,DISEASE00126
+IND0000578,Dapsone,Pneumocystis Pneumonia,dapsone,DRUG000240,FULL,DISEASE00184
+IND0000579,Dapsone,Pneumocystis Pneumonia Prophylaxis,dapsone,DRUG000240,FULL,DISEASE00185
+IND0000580,Dapsone,Toxoplasmosis - Prophylaxis,dapsone,DRUG000240,FULL,DISEASE00249
+IND0000581,Demeclocycline Hydrochloride,Bacterial Infection,demeclocycline hydrochloride,DRUG000604,FULL,DISEASE00019
+IND0000582,Demeclocycline Hydrochloride,SIADH,demeclocycline hydrochloride,DRUG000604,FULL,DISEASE00210
+IND0000583,Dicloxacillin,Bronchitis,dicloxacillin,DRUG000473,FULL,DISEASE00039
+IND0000584,Dicloxacillin,Osteomyelitis,dicloxacillin,DRUG000473,FULL,DISEASE00167
+IND0000585,Dicloxacillin,Pharyngitis,dicloxacillin,DRUG000473,FULL,DISEASE00179
+IND0000586,Dicloxacillin,Pneumonia,dicloxacillin,DRUG000473,FULL,DISEASE00188
+IND0000587,Dicloxacillin,Skin or Soft Tissue Infection,dicloxacillin,DRUG000473,FULL,DISEASE00231
+IND0000588,Dicloxacillin,Upper Respiratory Tract Infection,dicloxacillin,DRUG000473,FULL,DISEASE00262
+IND0000589,Doripenem,Intraabdominal Infection,doripenem,DRUG005496,FULL,DISEASE00118
+IND0000590,Doripenem,Pyelonephritis,doripenem,DRUG005496,FULL,DISEASE00202
+IND0000591,Doripenem,Urinary Tract Infection,doripenem,DRUG005496,FULL,DISEASE00263
+IND0000592,Doxycycline,Acne,doxycycline,DRUG000244,FULL,DISEASE00002
+IND0000593,Doxycycline,Acne Rosacea,doxycycline,DRUG000244,FULL,DISEASE00003
+IND0000594,Doxycycline,Actinomycosis,doxycycline,DRUG000244,FULL,DISEASE00004
+IND0000595,Doxycycline,Amebiasis,doxycycline,DRUG000244,FULL,DISEASE00009
+IND0000596,Doxycycline,Anthrax Prophylaxis,doxycycline,DRUG000244,FULL,DISEASE00012
+IND0000597,Doxycycline,Bacterial Infection,doxycycline,DRUG000244,FULL,DISEASE00019
+IND0000598,Doxycycline,Bartonellosis,doxycycline,DRUG000244,FULL,DISEASE00027
+IND0000599,Doxycycline,Bone and Joint Infection,doxycycline,DRUG000244,FULL,DISEASE00031
+IND0000600,Doxycycline,Bronchitis,doxycycline,DRUG000244,FULL,DISEASE00039
+IND0000601,Doxycycline,Brucellosis,doxycycline,DRUG000244,FULL,DISEASE00041
+IND0000602,Doxycycline,Cervicitis,doxycycline,DRUG000244,FULL,DISEASE00048
+IND0000603,Doxycycline,Chancroid,doxycycline,DRUG000244,FULL,DISEASE00050
+IND0000604,Doxycycline,Chlamydia Infection,doxycycline,DRUG000244,FULL,DISEASE00051
+IND0000605,Doxycycline,Cholera,doxycycline,DRUG000244,FULL,DISEASE00056
+IND0000606,Doxycycline,Cutaneous Bacillus anthracis,doxycycline,DRUG000244,FULL,DISEASE00067
+IND0000607,Doxycycline,Epididymitis - Sexually Transmitted,doxycycline,DRUG000244,FULL,DISEASE00086
+IND0000608,Doxycycline,Gonococcal Infection - Uncomplicated,doxycycline,DRUG000244,FULL,DISEASE00096
+IND0000609,Doxycycline,Granuloma Inguinale,doxycycline,DRUG000244,FULL,DISEASE00099
+IND0000610,Doxycycline,Inclusion Conjunctivitis,doxycycline,DRUG000244,FULL,DISEASE00108
+IND0000611,Doxycycline,Inhalation Bacillus anthracis,doxycycline,DRUG000244,FULL,DISEASE00115
+IND0000612,Doxycycline,Lyme Disease,doxycycline,DRUG000244,FULL,DISEASE00133
+IND0000613,Doxycycline,Lyme Disease - Arthritis,doxycycline,DRUG000244,FULL,DISEASE00134
+IND0000614,Doxycycline,Lyme Disease - Carditis,doxycycline,DRUG000244,FULL,DISEASE00135
+IND0000615,Doxycycline,Lyme Disease - Erythema Chronicum Migrans,doxycycline,DRUG000244,FULL,DISEASE00136
+IND0000616,Doxycycline,Lyme Disease - Neurologic,doxycycline,DRUG000244,FULL,DISEASE00137
+IND0000617,Doxycycline,Lymphogranuloma Venereum,doxycycline,DRUG000244,FULL,DISEASE00139
+IND0000618,Doxycycline,Malaria,doxycycline,DRUG000244,FULL,DISEASE00140
+IND0000619,Doxycycline,Malaria Prophylaxis,doxycycline,DRUG000244,FULL,DISEASE00141
+IND0000620,Doxycycline,Melioidosis,doxycycline,DRUG000244,FULL,DISEASE00142
+IND0000621,Doxycycline,Mycoplasma Pneumonia,doxycycline,DRUG000244,FULL,DISEASE00156
+IND0000622,Doxycycline,Nongonococcal Urethritis,doxycycline,DRUG000244,FULL,DISEASE00160
+IND0000623,Doxycycline,Ornithosis,doxycycline,DRUG000244,FULL,DISEASE00166
+IND0000624,Doxycycline,Pelvic Inflammatory Disease,doxycycline,DRUG000244,FULL,DISEASE00175
+IND0000625,Doxycycline,Periodontitis,doxycycline,DRUG000244,FULL,DISEASE00176
+IND0000626,Doxycycline,Plague,doxycycline,DRUG000244,FULL,DISEASE00181
+IND0000627,Doxycycline,Plague Prophylaxis,doxycycline,DRUG000244,FULL,DISEASE00182
+IND0000628,Doxycycline,Pleural Effusion,doxycycline,DRUG000244,FULL,DISEASE00183
+IND0000629,Doxycycline,Pneumonia,doxycycline,DRUG000244,FULL,DISEASE00188
+IND0000630,Doxycycline,Proctitis,doxycycline,DRUG000244,FULL,DISEASE00192
+IND0000631,Doxycycline,Psittacosis,doxycycline,DRUG000244,FULL,DISEASE00200
+IND0000632,Doxycycline,Q Fever,doxycycline,DRUG000244,FULL,DISEASE00203
+IND0000633,Doxycycline,Rickettsial Infection,doxycycline,DRUG000244,FULL,DISEASE00209
+IND0000634,Doxycycline,STD Prophylaxis,doxycycline,DRUG000244,FULL,DISEASE00211
+IND0000635,Doxycycline,Sinusitis,doxycycline,DRUG000244,FULL,DISEASE00226
+IND0000636,Doxycycline,Skin or Soft Tissue Infection,doxycycline,DRUG000244,FULL,DISEASE00231
+IND0000637,Doxycycline,Syphilis - Early,doxycycline,DRUG000244,FULL,DISEASE00242
+IND0000638,Doxycycline,Syphilis - Latent,doxycycline,DRUG000244,FULL,DISEASE00243
+IND0000639,Doxycycline,Trachoma,doxycycline,DRUG000244,FULL,DISEASE00250
+IND0000640,Doxycycline,Tularemia,doxycycline,DRUG000244,FULL,DISEASE00259
+IND0000641,Doxycycline,Upper Respiratory Tract Infection,doxycycline,DRUG000244,FULL,DISEASE00262
+IND0000642,Doxycycline,Urinary Tract Infection,doxycycline,DRUG000244,FULL,DISEASE00263
+IND0000643,Doxycycline,Wound Infection,doxycycline,DRUG000244,FULL,DISEASE00265
+IND0000644,Ertapenem,Infection Prophylaxis,ertapenem,DRUG000293,FULL,DISEASE00111
+IND0000645,Ertapenem,Intraabdominal Infection,ertapenem,DRUG000293,FULL,DISEASE00118
+IND0000646,Ertapenem,Pelvic Infections,ertapenem,DRUG000293,FULL,DISEASE00174
+IND0000647,Ertapenem,Pneumonia,ertapenem,DRUG000293,FULL,DISEASE00188
+IND0000648,Ertapenem,Pyelonephritis,ertapenem,DRUG000293,FULL,DISEASE00202
+IND0000649,Ertapenem,Skin or Soft Tissue Infection,ertapenem,DRUG000293,FULL,DISEASE00231
+IND0000650,Ertapenem,Urinary Tract Infection,ertapenem,DRUG000293,FULL,DISEASE00263
+IND0000651,Erythromycin,Amebiasis,erythromycin,DRUG000189,FULL,DISEASE00009
+IND0000652,Erythromycin,Bacteremia,erythromycin,DRUG000189,FULL,DISEASE00017
+IND0000653,Erythromycin,Bacterial Endocarditis Prophylaxis,erythromycin,DRUG000189,FULL,DISEASE00018
+IND0000654,Erythromycin,Bacterial Infection,erythromycin,DRUG000189,FULL,DISEASE00019
+IND0000655,Erythromycin,Bartonellosis,erythromycin,DRUG000189,FULL,DISEASE00027
+IND0000656,Erythromycin,Bowel Preparation,erythromycin,DRUG000189,FULL,DISEASE00036
+IND0000657,Erythromycin,Bronchitis,erythromycin,DRUG000189,FULL,DISEASE00039
+IND0000658,Erythromycin,Campylobacter Gastroenteritis,erythromycin,DRUG000189,FULL,DISEASE00045
+IND0000659,Erythromycin,Chancroid,erythromycin,DRUG000189,FULL,DISEASE00050
+IND0000660,Erythromycin,Chlamydia Infection,erythromycin,DRUG000189,FULL,DISEASE00051
+IND0000661,Erythromycin,Diphtheria,erythromycin,DRUG000189,FULL,DISEASE00073
+IND0000662,Erythromycin,Gastroenteritis,erythromycin,DRUG000189,FULL,DISEASE00091
+IND0000663,Erythromycin,Granuloma Inguinale,erythromycin,DRUG000189,FULL,DISEASE00099
+IND0000664,Erythromycin,Impetigo,erythromycin,DRUG000189,FULL,DISEASE00107
+IND0000665,Erythromycin,Legionella Pneumonia,erythromycin,DRUG000189,FULL,DISEASE00121
+IND0000666,Erythromycin,Lyme Disease,erythromycin,DRUG000189,FULL,DISEASE00133
+IND0000667,Erythromycin,Lymphogranuloma Venereum,erythromycin,DRUG000189,FULL,DISEASE00139
+IND0000668,Erythromycin,Mycoplasma Pneumonia,erythromycin,DRUG000189,FULL,DISEASE00156
+IND0000669,Erythromycin,Nongonococcal Urethritis,erythromycin,DRUG000189,FULL,DISEASE00160
+IND0000670,Erythromycin,Osteomyelitis,erythromycin,DRUG000189,FULL,DISEASE00167
+IND0000671,Erythromycin,Otitis Media,erythromycin,DRUG000189,FULL,DISEASE00172
+IND0000672,Erythromycin,Pelvic Inflammatory Disease,erythromycin,DRUG000189,FULL,DISEASE00175
+IND0000673,Erythromycin,Pertussis Prophylaxis,erythromycin,DRUG000189,FULL,DISEASE00178
+IND0000674,Erythromycin,Pharyngitis,erythromycin,DRUG000189,FULL,DISEASE00179
+IND0000675,Erythromycin,Pneumonia,erythromycin,DRUG000189,FULL,DISEASE00188
+IND0000676,Erythromycin,Rheumatic Fever Prophylaxis,erythromycin,DRUG000189,FULL,DISEASE00207
+IND0000677,Erythromycin,Skin and Structure Infection,erythromycin,DRUG000189,FULL,DISEASE00227
+IND0000678,Erythromycin,Skin or Soft Tissue Infection,erythromycin,DRUG000189,FULL,DISEASE00231
+IND0000679,Erythromycin,Surgical Prophylaxis,erythromycin,DRUG000189,FULL,DISEASE00240
+IND0000680,Erythromycin,Syphilis - Early,erythromycin,DRUG000189,FULL,DISEASE00242
+IND0000681,Erythromycin,Upper Respiratory Tract Infection,erythromycin,DRUG000189,FULL,DISEASE00262
+IND0000682,Ethambutol,Mycobacterium avium-intracellulare - Prophylaxis,ethambutol,DRUG000319,FULL,DISEASE00153
+IND0000683,Ethambutol,Mycobacterium avium-intracellulare - Treatment,ethambutol,DRUG000319,FULL,DISEASE00154
+IND0000684,Ethambutol,Mycobacterium kansasii,ethambutol,DRUG000319,FULL,DISEASE00155
+IND0000685,Ethambutol,Tuberculosis - Active,ethambutol,DRUG000319,FULL,DISEASE00254
+IND0000686,Ethambutol + Isoniazid + Pyrazinamide  + Rifampicin,Pulmonary and Extrapulmonary Tuberculosis ,ethambutol + isoniazid + pyrazinamide + rifampicin,DRUG000319|DRUG000328|DRUG000935|DRUG001027,FULL,
+IND0000687,Flucloxacillin,Acne,flucloxacillin,DRUG000291,FULL,DISEASE00002
+IND0000688,Flucloxacillin,Eczema,flucloxacillin,DRUG000291,FULL,DISEASE00074
+IND0000689,Flucloxacillin,Empyema,flucloxacillin,DRUG000291,FULL,DISEASE00075
+IND0000690,Flucloxacillin,Endocarditis,flucloxacillin,DRUG000291,FULL,DISEASE00076
+IND0000691,Flucloxacillin,Enteritis,flucloxacillin,DRUG000291,FULL,DISEASE00079
+IND0000692,Flucloxacillin,Externa,flucloxacillin,DRUG000291,FULL,DISEASE00087
+IND0000693,Flucloxacillin,Furunculosis,flucloxacillin,DRUG000291,FULL,DISEASE00089
+IND0000694,Flucloxacillin,Impetigo,flucloxacillin,DRUG000291,FULL,DISEASE00107
+IND0000695,Flucloxacillin,Infected Burns,flucloxacillin,DRUG000291,FULL,DISEASE00109
+IND0000696,Flucloxacillin,Infected Wounds,flucloxacillin,DRUG000291,FULL,DISEASE00110
+IND0000697,Flucloxacillin,Lung Abscess,flucloxacillin,DRUG000291,FULL,DISEASE00132
+IND0000698,Flucloxacillin,Meningitis,flucloxacillin,DRUG000291,FULL,DISEASE00143
+IND0000699,Flucloxacillin,Osteomyelitis,flucloxacillin,DRUG000291,FULL,DISEASE00167
+IND0000700,Flucloxacillin,Otitis Media,flucloxacillin,DRUG000291,FULL,DISEASE00172
+IND0000701,Flucloxacillin,Pharyngitis,flucloxacillin,DRUG000291,FULL,DISEASE00179
+IND0000702,Flucloxacillin,Pneumonia,flucloxacillin,DRUG000291,FULL,DISEASE00188
+IND0000703,Flucloxacillin,Quinsy,flucloxacillin,DRUG000291,FULL,DISEASE00204
+IND0000704,Flucloxacillin,Septicemia,flucloxacillin,DRUG000291,FULL,DISEASE00217
+IND0000705,Flucloxacillin,Sinusitis,flucloxacillin,DRUG000291,FULL,DISEASE00226
+IND0000706,Flucloxacillin,Tonsillitis/Pharyngitis,flucloxacillin,DRUG000291,FULL,DISEASE00248
+IND0000707,Flucloxacillin,Ulcer,flucloxacillin,DRUG000291,FULL,DISEASE00261
+IND0000708,Flucloxacillin,Urinary Tract Infection,flucloxacillin,DRUG000291,FULL,DISEASE00263
+IND0000709,Fosfomycin,Bacterial Meningitis,fosfomycin,DRUG000812,FULL,DISEASE00024
+IND0000710,Fosfomycin,Nosocomial Lower Respiratory Track Infection,fosfomycin,DRUG000812,FULL,DISEASE00161
+IND0000711,Fosfomycin,Osteomyelitis,fosfomycin,DRUG000812,FULL,DISEASE00167
+IND0000712,Fosfomycin,Urinary Tract Infection,fosfomycin,DRUG000812,FULL,DISEASE00263
+IND0000713,Fusidic Acid,Osteomyelitis,fusidic acid,DRUG002553,FULL,DISEASE00167
+IND0000714,Fusidic Acid,Skin or Soft Tissue Infection,fusidic acid,DRUG002553,FULL,DISEASE00231
+IND0000715,Gemifloxacin,Bronchitis,gemifloxacin,DRUG001136,FULL,DISEASE00039
+IND0000716,Gemifloxacin,Pneumonia,gemifloxacin,DRUG001136,FULL,DISEASE00188
+IND0000717,Gentamicin,Bacteremia,gentamicin,DRUG000782,FULL,DISEASE00017
+IND0000718,Gentamicin,Bacterial Infection,gentamicin,DRUG000782,FULL,DISEASE00019
+IND0000719,Gentamicin,Bartonellosis,gentamicin,DRUG000782,FULL,DISEASE00027
+IND0000720,Gentamicin,Burns - External,gentamicin,DRUG000782,FULL,DISEASE00042
+IND0000721,Gentamicin,CNS Infection,gentamicin,DRUG000782,FULL,DISEASE00044
+IND0000722,Gentamicin,Endocarditis,gentamicin,DRUG000782,FULL,DISEASE00076
+IND0000723,Gentamicin,Intraabdominal Infection,gentamicin,DRUG000782,FULL,DISEASE00118
+IND0000724,Gentamicin,Meningitis,gentamicin,DRUG000782,FULL,DISEASE00143
+IND0000725,Gentamicin,Osteomyelitis,gentamicin,DRUG000782,FULL,DISEASE00167
+IND0000726,Gentamicin,Pelvic Inflammatory Disease,gentamicin,DRUG000782,FULL,DISEASE00175
+IND0000727,Gentamicin,Peritonitis,gentamicin,DRUG000782,FULL,DISEASE00177
+IND0000728,Gentamicin,Plague,gentamicin,DRUG000782,FULL,DISEASE00181
+IND0000729,Gentamicin,Pneumonia,gentamicin,DRUG000782,FULL,DISEASE00188
+IND0000730,Gentamicin,Sepsis,gentamicin,DRUG000782,FULL,DISEASE00216
+IND0000731,Gentamicin,Skin or Soft Tissue Infection,gentamicin,DRUG000782,FULL,DISEASE00231
+IND0000732,Gentamicin,Surgical Prophylaxis,gentamicin,DRUG000782,FULL,DISEASE00240
+IND0000733,Gentamicin,Tularemia,gentamicin,DRUG000782,FULL,DISEASE00259
+IND0000734,Gentamicin,Upper Respiratory Tract Infection,gentamicin,DRUG000782,FULL,DISEASE00262
+IND0000735,Gentamicin,Urinary Tract Infection,gentamicin,DRUG000782,FULL,DISEASE00263
+IND0000736,Imipenem + Cilastatin,Bacteremia,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00017
+IND0000737,Imipenem + Cilastatin,Bacterial Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00019
+IND0000738,Imipenem + Cilastatin,Bone and Joint Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00031
+IND0000739,Imipenem + Cilastatin,Bronchitis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00039
+IND0000740,Imipenem + Cilastatin,Endocarditis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00076
+IND0000741,Imipenem + Cilastatin,Endometritis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00078
+IND0000742,Imipenem + Cilastatin,Intraabdominal Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00118
+IND0000743,Imipenem + Cilastatin,Nosocomial Pneumonia,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00162
+IND0000744,Imipenem + Cilastatin,Osteomyelitis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00167
+IND0000745,Imipenem + Cilastatin,Pelvic Infections,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00174
+IND0000746,Imipenem + Cilastatin,Peritonitis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00177
+IND0000747,Imipenem + Cilastatin,Pneumonia,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00188
+IND0000748,Imipenem + Cilastatin,Pyelonephritis,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00202
+IND0000749,Imipenem + Cilastatin,Septicemia,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00217
+IND0000750,Imipenem + Cilastatin,Skin and Structure Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00227
+IND0000751,Imipenem + Cilastatin,Skin or Soft Tissue Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00231
+IND0000752,Imipenem + Cilastatin,Urinary Tract Infection,imipenem + cilastatin,DRUG001526|DRUG001527,FULL,DISEASE00263
+IND0000753,Isoniazid  + Thiacetazone,Mycobacterium kansasii,isoniazid + thiacetazone,DRUG000935,PARTIAL,DISEASE00155
+IND0000754,Isoniazid  + Thiacetazone,Tuberculosis - Active,isoniazid + thiacetazone,DRUG000935,PARTIAL,DISEASE00254
+IND0000755,Isoniazid  + Thiacetazone,Tuberculosis - Latent,isoniazid + thiacetazone,DRUG000935,PARTIAL,DISEASE00256
+IND0000756,Isoniazid  + Thiacetazone,Tuberculosis - Prophylaxis,isoniazid + thiacetazone,DRUG000935,PARTIAL,DISEASE00257
+IND0000757,Isoniazid + Pyrazinamide + Rifampicin,Tuberculosis - Active,isoniazid + pyrazinamide + rifampicin,DRUG000328|DRUG000935|DRUG001027,FULL,DISEASE00254
+IND0000758,Isoniazid + Rifampicin,Tuberculosis - Active,isoniazid + rifampicin,DRUG000935|DRUG001027,FULL,DISEASE00254
+IND0000759,Levofloxacin,Anthrax Prophylaxis,levofloxacin,DRUG001118,FULL,DISEASE00012
+IND0000760,Levofloxacin,Bronchitis,levofloxacin,DRUG001118,FULL,DISEASE00039
+IND0000761,Levofloxacin,Chlamydia Infection,levofloxacin,DRUG001118,FULL,DISEASE00051
+IND0000762,Levofloxacin,Cutaneous Bacillus anthracis,levofloxacin,DRUG001118,FULL,DISEASE00067
+IND0000763,Levofloxacin,Cystitis,levofloxacin,DRUG001118,FULL,DISEASE00069
+IND0000764,Levofloxacin,Epididymitis - Sexually Transmitted,levofloxacin,DRUG001118,FULL,DISEASE00086
+IND0000765,Levofloxacin,Inhalation Bacillus anthracis,levofloxacin,DRUG001118,FULL,DISEASE00115
+IND0000766,Levofloxacin,Nongonococcal Urethritis,levofloxacin,DRUG001118,FULL,DISEASE00160
+IND0000767,Levofloxacin,Nosocomial Pneumonia,levofloxacin,DRUG001118,FULL,DISEASE00162
+IND0000768,Levofloxacin,Pelvic Inflammatory Disease,levofloxacin,DRUG001118,FULL,DISEASE00175
+IND0000769,Levofloxacin,Plague,levofloxacin,DRUG001118,FULL,DISEASE00181
+IND0000770,Levofloxacin,Plague Prophylaxis,levofloxacin,DRUG001118,FULL,DISEASE00182
+IND0000771,Levofloxacin,Pneumonia,levofloxacin,DRUG001118,FULL,DISEASE00188
+IND0000772,Levofloxacin,Prostatitis,levofloxacin,DRUG001118,FULL,DISEASE00194
+IND0000773,Levofloxacin,Pyelonephritis,levofloxacin,DRUG001118,FULL,DISEASE00202
+IND0000774,Levofloxacin,Sinusitis,levofloxacin,DRUG001118,FULL,DISEASE00226
+IND0000775,Levofloxacin,Skin and Structure Infection,levofloxacin,DRUG001118,FULL,DISEASE00227
+IND0000776,Levofloxacin,Tuberculosis - Active,levofloxacin,DRUG001118,FULL,DISEASE00254
+IND0000777,Levofloxacin,Urinary Tract Infection,levofloxacin,DRUG001118,FULL,DISEASE00263
+IND0000778,Linezolid,Bacteremia,linezolid,DRUG000587,FULL,DISEASE00017
+IND0000779,Linezolid,Bacterial Infection,linezolid,DRUG000587,FULL,DISEASE00019
+IND0000780,Linezolid,Nosocomial Pneumonia,linezolid,DRUG000587,FULL,DISEASE00162
+IND0000781,Linezolid,Pneumonia,linezolid,DRUG000587,FULL,DISEASE00188
+IND0000782,Linezolid,Skin and Structure Infection,linezolid,DRUG000587,FULL,DISEASE00227
+IND0000783,Lomefloxacin,Bronchitis,lomefloxacin,DRUG000962,FULL,DISEASE00039
+IND0000784,Lomefloxacin,Cystitis,lomefloxacin,DRUG000962,FULL,DISEASE00069
+IND0000785,Lomefloxacin,Prostatitis,lomefloxacin,DRUG000962,FULL,DISEASE00194
+IND0000786,Lomefloxacin,Salmonella Enteric Fever,lomefloxacin,DRUG000962,FULL,DISEASE00212
+IND0000787,Lomefloxacin,Salmonella Gastroenteritis,lomefloxacin,DRUG000962,FULL,DISEASE00213
+IND0000788,Lomefloxacin,Shigellosis,lomefloxacin,DRUG000962,FULL,DISEASE00224
+IND0000789,Lomefloxacin,Transurethral Prostatectomy,lomefloxacin,DRUG000962,FULL,DISEASE00251
+IND0000790,Lomefloxacin,Urinary Tract Infection,lomefloxacin,DRUG000962,FULL,DISEASE00263
+IND0000791,Lymecycline,Bronchitis,lymecycline,DRUG000246,FULL,DISEASE00039
+IND0000792,Lymecycline,Intraabdominal Infection,lymecycline,DRUG000246,FULL,DISEASE00118
+IND0000793,Lymecycline,Sinusitis,lymecycline,DRUG000246,FULL,DISEASE00226
+IND0000794,Lymecycline,Skin or Soft Tissue Infection,lymecycline,DRUG000246,FULL,DISEASE00231
+IND0000795,Lymecycline,Trachoma,lymecycline,DRUG000246,FULL,DISEASE00250
+IND0000796,Meropenem,Intraabdominal Infection,meropenem,DRUG000744,FULL,DISEASE00118
+IND0000797,Meropenem,Meningitis,meropenem,DRUG000744,FULL,DISEASE00143
+IND0000798,Meropenem,Nosocomial Pneumonia,meropenem,DRUG000744,FULL,DISEASE00162
+IND0000799,Meropenem,Skin and Structure Infection,meropenem,DRUG000744,FULL,DISEASE00227
+IND0000800,Metronidazole,Amebiasis,metronidazole,DRUG000900,FULL,DISEASE00009
+IND0000801,Metronidazole,Bacterial Infection,metronidazole,DRUG000900,FULL,DISEASE00019
+IND0000802,Metronidazole,Bacterial Vaginosis,metronidazole,DRUG000900,FULL,DISEASE00025
+IND0000803,Metronidazole,Balantidium coli,metronidazole,DRUG000900,FULL,DISEASE00026
+IND0000804,Metronidazole,Bone and Joint Infection,metronidazole,DRUG000900,FULL,DISEASE00031
+IND0000805,Metronidazole,Dientamoeba fragilis,metronidazole,DRUG000900,FULL,DISEASE00072
+IND0000806,Metronidazole,Giardiasis,metronidazole,DRUG000900,FULL,DISEASE00093
+IND0000807,Metronidazole,Helicobacter pylori Infection,metronidazole,DRUG000900,FULL,DISEASE00103
+IND0000808,Metronidazole,Intraabdominal Infection,metronidazole,DRUG000900,FULL,DISEASE00118
+IND0000809,Metronidazole,Liver Abscess,metronidazole,DRUG000900,FULL,DISEASE00129
+IND0000810,Metronidazole,Meningitis,metronidazole,DRUG000900,FULL,DISEASE00143
+IND0000811,Metronidazole,Nongonococcal Urethritis,metronidazole,DRUG000900,FULL,DISEASE00160
+IND0000812,Metronidazole,Osteomyelitis,metronidazole,DRUG000900,FULL,DISEASE00167
+IND0000813,Metronidazole,Pelvic Inflammatory Disease,metronidazole,DRUG000900,FULL,DISEASE00175
+IND0000814,Metronidazole,Peritonitis,metronidazole,DRUG000900,FULL,DISEASE00177
+IND0000815,Metronidazole,Pseudomembranous Colitis,metronidazole,DRUG000900,FULL,DISEASE00199
+IND0000816,Metronidazole,STD Prophylaxis,metronidazole,DRUG000900,FULL,DISEASE00211
+IND0000817,Metronidazole,Skin and Structure Infection,metronidazole,DRUG000900,FULL,DISEASE00227
+IND0000818,Metronidazole,Skin or Soft Tissue Infection,metronidazole,DRUG000900,FULL,DISEASE00231
+IND0000819,Metronidazole,Surgical Prophylaxis,metronidazole,DRUG000900,FULL,DISEASE00240
+IND0000820,Metronidazole,Trichomoniasis,metronidazole,DRUG000900,FULL,DISEASE00253
+IND0000821,Metronidazole,Wound Infection,metronidazole,DRUG000900,FULL,DISEASE00265
+IND0000822,Moxifloxacin,Anthrax Prophylaxis,moxifloxacin,DRUG000208,FULL,DISEASE00012
+IND0000823,Moxifloxacin,Bronchitis,moxifloxacin,DRUG000208,FULL,DISEASE00039
+IND0000824,Moxifloxacin,Cutaneous Bacillus anthracis,moxifloxacin,DRUG000208,FULL,DISEASE00067
+IND0000825,Moxifloxacin,Inhalation Bacillus anthracis,moxifloxacin,DRUG000208,FULL,DISEASE00115
+IND0000826,Moxifloxacin,Intraabdominal Infection,moxifloxacin,DRUG000208,FULL,DISEASE00118
+IND0000827,Moxifloxacin,Plague,moxifloxacin,DRUG000208,FULL,DISEASE00181
+IND0000828,Moxifloxacin,Plague Prophylaxis,moxifloxacin,DRUG000208,FULL,DISEASE00182
+IND0000829,Moxifloxacin,Pneumonia,moxifloxacin,DRUG000208,FULL,DISEASE00188
+IND0000830,Moxifloxacin,Sinusitis,moxifloxacin,DRUG000208,FULL,DISEASE00226
+IND0000831,Moxifloxacin,Skin and Structure Infection,moxifloxacin,DRUG000208,FULL,DISEASE00227
+IND0000832,Moxifloxacin,Skin or Soft Tissue Infection,moxifloxacin,DRUG000208,FULL,DISEASE00231
+IND0000833,Moxifloxacin,Surgical Prophylaxis,moxifloxacin,DRUG000208,FULL,DISEASE00240
+IND0000834,Moxifloxacin,Tuberculosis - Active,moxifloxacin,DRUG000208,FULL,DISEASE00254
+IND0000835,Nalidixic Acid,Urinary Tract Infection,nalidixic acid,DRUG000763,FULL,DISEASE00263
+IND0000836,Nitrofurantoin,Cystitis,nitrofurantoin,DRUG000683,FULL,DISEASE00069
+IND0000837,Nitrofurantoin,Cystitis Prophylaxis,nitrofurantoin,DRUG000683,FULL,DISEASE00070
+IND0000838,Nitrofurantoin,Long Term Suppresive Therapy,nitrofurantoin,DRUG000683,FULL,DISEASE00130
+IND0000839,Nitrofurantoin,Urinary Tract Infection,nitrofurantoin,DRUG000683,FULL,DISEASE00263
+IND0000840,Nitrofurantoin + Nitrofurantoin Microcrystals,Bacterial Infection,nitrofurantoin + nitrofurantoin microcrystals,DRUG000683,PARTIAL,DISEASE00019
+IND0000841,Nitrofurantoin + Nitrofurantoin Microcrystals,Urinary Tract Infection,nitrofurantoin + nitrofurantoin microcrystals,DRUG000683,PARTIAL,DISEASE00263
+IND0000842,Nystatin,Intestinal Candidiasis,nystatin,DRUG000632,FULL,DISEASE00117
+IND0000843,Nystatin,Oral Thrush,nystatin,DRUG000632,FULL,DISEASE00165
+IND0000844,Ofloxacin,Bronchitis,ofloxacin,DRUG001146,FULL,DISEASE00039
+IND0000845,Ofloxacin,Cervicitis,ofloxacin,DRUG001146,FULL,DISEASE00048
+IND0000846,Ofloxacin,Chlamydia Infection,ofloxacin,DRUG001146,FULL,DISEASE00051
+IND0000847,Ofloxacin,Cystitis,ofloxacin,DRUG001146,FULL,DISEASE00069
+IND0000848,Ofloxacin,Epididymitis - Non-Specific,ofloxacin,DRUG001146,FULL,DISEASE00082
+IND0000849,Ofloxacin,Epididymitis - Sexually Transmitted,ofloxacin,DRUG001146,FULL,DISEASE00086
+IND0000850,Ofloxacin,Gonococcal Infection - Uncomplicated,ofloxacin,DRUG001146,FULL,DISEASE00096
+IND0000851,Ofloxacin,Infectious Diarrhea,ofloxacin,DRUG001146,FULL,DISEASE00114
+IND0000852,Ofloxacin,Nongonococcal Urethritis,ofloxacin,DRUG001146,FULL,DISEASE00160
+IND0000853,Ofloxacin,Pelvic Inflammatory Disease,ofloxacin,DRUG001146,FULL,DISEASE00175
+IND0000854,Ofloxacin,Pneumonia,ofloxacin,DRUG001146,FULL,DISEASE00188
+IND0000855,Ofloxacin,Prostatitis,ofloxacin,DRUG001146,FULL,DISEASE00194
+IND0000856,Ofloxacin,Pyelonephritis,ofloxacin,DRUG001146,FULL,DISEASE00202
+IND0000857,Ofloxacin,Salmonella Enteric Fever,ofloxacin,DRUG001146,FULL,DISEASE00212
+IND0000858,Ofloxacin,Salmonella Gastroenteritis,ofloxacin,DRUG001146,FULL,DISEASE00213
+IND0000859,Ofloxacin,Shigellosis,ofloxacin,DRUG001146,FULL,DISEASE00224
+IND0000860,Ofloxacin,Skin and Structure Infection,ofloxacin,DRUG001146,FULL,DISEASE00227
+IND0000861,Ofloxacin,Traveler's Diarrhea,ofloxacin,DRUG001146,FULL,DISEASE00252
+IND0000862,Ofloxacin,Urinary Tract Infection,ofloxacin,DRUG001146,FULL,DISEASE00263
+IND0000863,Ornidazole,Amebiasis,ornidazole,DRUG011014,FULL,DISEASE00009
+IND0000864,Ornidazole,Amoebic Dysentry,ornidazole,DRUG011014,FULL,DISEASE00010
+IND0000865,Ornidazole,Bacterial Vaginosis,ornidazole,DRUG011014,FULL,DISEASE00025
+IND0000866,Ornidazole,Giardiasis,ornidazole,DRUG011014,FULL,DISEASE00093
+IND0000867,Ornidazole,Trichomoniasis,ornidazole,DRUG011014,FULL,DISEASE00253
+IND0000868,Oxytetracycline,Acute Epididymo - Orchitis,oxytetracycline,DRUG000581,FULL,DISEASE00006
+IND0000869,Oxytetracycline,Brucellosis,oxytetracycline,DRUG000581,FULL,DISEASE00041
+IND0000870,Oxytetracycline,Cholera,oxytetracycline,DRUG000581,FULL,DISEASE00056
+IND0000871,Oxytetracycline,Intestinal Amoebiasis,oxytetracycline,DRUG000581,FULL,DISEASE00116
+IND0000872,Oxytetracycline,Mycoplasma Pneumonia,oxytetracycline,DRUG000581,FULL,DISEASE00156
+IND0000873,Oxytetracycline,Primary and Secondary Syphilis,oxytetracycline,DRUG000581,FULL,DISEASE00191
+IND0000874,Oxytetracycline,Psittacosis,oxytetracycline,DRUG000581,FULL,DISEASE00200
+IND0000875,Oxytetracycline,Respiratory Track Infections,oxytetracycline,DRUG000581,FULL,DISEASE00206
+IND0000876,Oxytetracycline,Rickettsial Infection,oxytetracycline,DRUG000581,FULL,DISEASE00209
+IND0000877,Oxytetracycline,Sexually Transmitted Disease,oxytetracycline,DRUG000581,FULL,DISEASE00223
+IND0000878,Oxytetracycline,Skin or Soft Tissue Infection,oxytetracycline,DRUG000581,FULL,DISEASE00231
+IND0000879,Oxytetracycline,Trachoma,oxytetracycline,DRUG000581,FULL,DISEASE00250
+IND0000880,Oxytetracycline,Urinary Tract Infection,oxytetracycline,DRUG000581,FULL,DISEASE00263
+IND0000881,Pefloxacin,Abdominal and Hepatobiliary Infection,pefloxacin,DRUG000475,FULL,DISEASE00001
+IND0000882,Pefloxacin,Bone and Joint Infection,pefloxacin,DRUG000475,FULL,DISEASE00031
+IND0000883,Pefloxacin,Bronchiectasis,pefloxacin,DRUG000475,FULL,DISEASE00038
+IND0000884,Pefloxacin,Bronchitis,pefloxacin,DRUG000475,FULL,DISEASE00039
+IND0000885,Pefloxacin,Cystic Fibrosis,pefloxacin,DRUG000475,FULL,DISEASE00068
+IND0000886,Pefloxacin,Empyema,pefloxacin,DRUG000475,FULL,DISEASE00075
+IND0000887,Pefloxacin,Gastrointestinal Infections,pefloxacin,DRUG000475,FULL,DISEASE00092
+IND0000888,Pefloxacin,Gonorrhoea,pefloxacin,DRUG000475,FULL,DISEASE00097
+IND0000889,Pefloxacin,Otitis Externa,pefloxacin,DRUG000475,FULL,DISEASE00171
+IND0000890,Pefloxacin,Otitis Media,pefloxacin,DRUG000475,FULL,DISEASE00172
+IND0000891,Pefloxacin,Pelvic Infections,pefloxacin,DRUG000475,FULL,DISEASE00174
+IND0000892,Pefloxacin,Pneumonia,pefloxacin,DRUG000475,FULL,DISEASE00188
+IND0000893,Pefloxacin,Sinusitis,pefloxacin,DRUG000475,FULL,DISEASE00226
+IND0000894,Pefloxacin,Tonsillitis/Pharyngitis,pefloxacin,DRUG000475,FULL,DISEASE00248
+IND0000895,Pefloxacin,Urinary Tract Infection,pefloxacin,DRUG000475,FULL,DISEASE00263
+IND0000896,Phenoxymethyl  Penicillin,Beta Hemolytic Streptococci of Group A,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00029
+IND0000897,Phenoxymethyl  Penicillin,Bronchitis,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00039
+IND0000898,Phenoxymethyl  Penicillin,Bronchopneumonia,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00040
+IND0000899,Phenoxymethyl  Penicillin,Infection of the Buccal Cavity,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00112
+IND0000900,Phenoxymethyl  Penicillin,Laryngitis,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00120
+IND0000901,Phenoxymethyl  Penicillin,Lymphadenitis and Lymphangitis of Bacterial Origin,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00138
+IND0000902,Phenoxymethyl  Penicillin,Otitis Media,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00172
+IND0000903,Phenoxymethyl  Penicillin,Pneumonia,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00188
+IND0000904,Phenoxymethyl  Penicillin,Prophylaxis of recurrent rheumatic fever,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00193
+IND0000905,Phenoxymethyl  Penicillin,Respiratory Track Infections,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00206
+IND0000906,Phenoxymethyl  Penicillin,Sinusitis,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00226
+IND0000907,Phenoxymethyl  Penicillin,Skin or Soft Tissue Infection,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00231
+IND0000908,Phenoxymethyl  Penicillin,Staphylococcul Infections,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00237
+IND0000909,Phenoxymethyl  Penicillin,Tonsillitis/Pharyngitis,phenoxymethyl penicillin,,UNRESOLVED,DISEASE00248
+IND0000910,Piperacillin + Tazobactam,Appendicitis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00013
+IND0000911,Piperacillin + Tazobactam,Bacterial Infection,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00019
+IND0000912,Piperacillin + Tazobactam,Bacterial Infection with Cystic Fibrosis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00023
+IND0000913,Piperacillin + Tazobactam,Endocarditis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00076
+IND0000914,Piperacillin + Tazobactam,Endometritis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00078
+IND0000915,Piperacillin + Tazobactam,Intraabdominal Infection,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00118
+IND0000916,Piperacillin + Tazobactam,Nosocomial Pneumonia,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00162
+IND0000917,Piperacillin + Tazobactam,Pelvic Inflammatory Disease,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00175
+IND0000918,Piperacillin + Tazobactam,Peritonitis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00177
+IND0000919,Piperacillin + Tazobactam,Pneumonia,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00188
+IND0000920,Piperacillin + Tazobactam,Pyelonephritis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00202
+IND0000921,Piperacillin + Tazobactam,Skin and Structure Infection,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00227
+IND0000922,Piperacillin + Tazobactam,Skin or Soft Tissue Infection,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00231
+IND0000923,Piperacillin + Tazobactam,Surgical Prophylaxis,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL,DISEASE00240
+IND0000924,Pivmecillinam,Acute uncomplicated cystitis,pivmecillinam,DRUG001534,FULL,DISEASE00008
+IND0000925,Pivmecillinam,Chronic or recurrent bacteriuria,pivmecillinam,DRUG001534,FULL,DISEASE00057
+IND0000926,Pivmecillinam,Salmonellosis,pivmecillinam,DRUG001534,FULL,DISEASE00214
+IND0000927,Pivmecillinam,Shigellosis,pivmecillinam,DRUG001534,FULL,DISEASE00224
+IND0000928,Pivmecillinam,Urinary Tract Infection,pivmecillinam,DRUG001534,FULL,DISEASE00263
+IND0000929,Pyrazinamide,Tuberculosis - Active,pyrazinamide,DRUG000328,FULL,DISEASE00254
+IND0000930,Pyrazinamide,Tuberculosis - Extrapulmonary,pyrazinamide,DRUG000328,FULL,DISEASE00255
+IND0000931,Pyrazinamide,Tuberculosis - Latent,pyrazinamide,DRUG000328,FULL,DISEASE00256
+IND0000932,Rifampicin,Bacteremia,rifampicin,DRUG001027,FULL,DISEASE00017
+IND0000933,Rifampicin,Bone and Joint Infection,rifampicin,DRUG001027,FULL,DISEASE00031
+IND0000934,Rifampicin,CNS Infection,rifampicin,DRUG001027,FULL,DISEASE00044
+IND0000935,Rifampicin,Endocarditis,rifampicin,DRUG001027,FULL,DISEASE00076
+IND0000936,Rifampicin,Leprosy,rifampicin,DRUG001027,FULL,DISEASE00123
+IND0000937,Rifampicin,Leprosy - Borderline,rifampicin,DRUG001027,FULL,DISEASE00124
+IND0000938,Rifampicin,Leprosy - Tuberculoid,rifampicin,DRUG001027,FULL,DISEASE00126
+IND0000939,Rifampicin,Meningitis,rifampicin,DRUG001027,FULL,DISEASE00143
+IND0000940,Rifampicin,Meningitis - Pneumococcal,rifampicin,DRUG001027,FULL,DISEASE00147
+IND0000941,Rifampicin,Meningococcal Meningitis Prophylaxis,rifampicin,DRUG001027,FULL,DISEASE00150
+IND0000942,Rifampicin,Nasal Carriage of Staphylococcus aureus,rifampicin,DRUG001027,FULL,DISEASE00157
+IND0000943,Rifampicin,Osteomyelitis,rifampicin,DRUG001027,FULL,DISEASE00167
+IND0000944,Rifampicin,Tuberculosis - Active,rifampicin,DRUG001027,FULL,DISEASE00254
+IND0000945,Rifampicin,Tuberculosis - Latent,rifampicin,DRUG001027,FULL,DISEASE00256
+IND0000946,Rifaximin,Clostridioides difficile infection,rifaximin,DRUG001201,FULL,DISEASE00058
+IND0000947,Rifaximin,Hepatic Encephalopathy,rifaximin,DRUG001201,FULL,DISEASE00104
+IND0000948,Rifaximin,Irritable Bowel Syndrome,rifaximin,DRUG001201,FULL,DISEASE00119
+IND0000949,Rifaximin,"Poucitis, acute refractory disease",rifaximin,DRUG001201,FULL,DISEASE00190
+IND0000950,Rifaximin,Small intestinal bacterial overgrowth,rifaximin,DRUG001201,FULL,DISEASE00235
+IND0000951,Rifaximin,Traveler's Diarrhea,rifaximin,DRUG001201,FULL,DISEASE00252
+IND0000952,Roxithromycin,Bronchitis,roxithromycin,DRUG000762,FULL,DISEASE00039
+IND0000953,Roxithromycin,Bronchopneumonia,roxithromycin,DRUG000762,FULL,DISEASE00040
+IND0000954,Roxithromycin,Cervicitis,roxithromycin,DRUG000762,FULL,DISEASE00048
+IND0000955,Roxithromycin,Nongonococcal Urethritis,roxithromycin,DRUG000762,FULL,DISEASE00160
+IND0000956,Roxithromycin,Otitis Media,roxithromycin,DRUG000762,FULL,DISEASE00172
+IND0000957,Roxithromycin,Pharyngitis,roxithromycin,DRUG000762,FULL,DISEASE00179
+IND0000958,Roxithromycin,Pneumonia,roxithromycin,DRUG000762,FULL,DISEASE00188
+IND0000959,Roxithromycin,Prostatitis,roxithromycin,DRUG000762,FULL,DISEASE00194
+IND0000960,Roxithromycin,Salpingitis,roxithromycin,DRUG000762,FULL,DISEASE00215
+IND0000961,Roxithromycin,Sinusitis,roxithromycin,DRUG000762,FULL,DISEASE00226
+IND0000962,Roxithromycin,Skin or Soft Tissue Infection,roxithromycin,DRUG000762,FULL,DISEASE00231
+IND0000963,Roxithromycin,Tonsillitis/Pharyngitis,roxithromycin,DRUG000762,FULL,DISEASE00248
+IND0000964,Secnidazole,Bacterial Vaginosis,secnidazole,DRUG010828,FULL,DISEASE00025
+IND0000965,Secnidazole,Trichomoniasis,secnidazole,DRUG010828,FULL,DISEASE00253
+IND0000966,Sparfloxacin,Bronchitis,sparfloxacin,DRUG001189,FULL,DISEASE00039
+IND0000967,Sparfloxacin,Leprosy - Borderline,sparfloxacin,DRUG001189,FULL,DISEASE00124
+IND0000968,Sparfloxacin,Leprosy - Lepromatous,sparfloxacin,DRUG001189,FULL,DISEASE00125
+IND0000969,Sparfloxacin,Pneumonia,sparfloxacin,DRUG001189,FULL,DISEASE00188
+IND0000970,Spectinomycin,Gonorrhoea,spectinomycin,DRUG000903,FULL,DISEASE00097
+IND0000971,Spiramycine,Toxoplasmosis - Prophylaxis,spiramycine,DRUG005442,FULL,DISEASE00249
+IND0000972,Streptomycin,Bacteremia,streptomycin,DRUG001063,FULL,DISEASE00017
+IND0000973,Streptomycin,Brucellosis,streptomycin,DRUG001063,FULL,DISEASE00041
+IND0000974,Streptomycin,Chancroid,streptomycin,DRUG001063,FULL,DISEASE00050
+IND0000975,Streptomycin,Endocarditis,streptomycin,DRUG001063,FULL,DISEASE00076
+IND0000976,Streptomycin,Granuloma Inguinale,streptomycin,DRUG001063,FULL,DISEASE00099
+IND0000977,Streptomycin,Meningitis,streptomycin,DRUG001063,FULL,DISEASE00143
+IND0000978,Streptomycin,Mycobacterium avium-intracellulare - Treatment,streptomycin,DRUG001063,FULL,DISEASE00154
+IND0000979,Streptomycin,Mycobacterium kansasii,streptomycin,DRUG001063,FULL,DISEASE00155
+IND0000980,Streptomycin,Plague,streptomycin,DRUG001063,FULL,DISEASE00181
+IND0000981,Streptomycin,Pneumonia,streptomycin,DRUG001063,FULL,DISEASE00188
+IND0000982,Streptomycin,Tuberculosis - Active,streptomycin,DRUG001063,FULL,DISEASE00254
+IND0000983,Streptomycin,Tularemia,streptomycin,DRUG001063,FULL,DISEASE00259
+IND0000984,Streptomycin,Upper Respiratory Tract Infection,streptomycin,DRUG001063,FULL,DISEASE00262
+IND0000985,Streptomycin,Urinary Tract Infection,streptomycin,DRUG001063,FULL,DISEASE00263
+IND0000986,Tedizolid Phosphate,Acute Bacterial Skin and Structure Infection,tedizolid phosphate,DRUG008058,FULL,DISEASE00005
+IND0000987,Teicoplanin,Bacterial Endocarditis Prophylaxis,teicoplanin,DRUG005445,FULL,DISEASE00018
+IND0000988,Teicoplanin,Bone and Joint Infection,teicoplanin,DRUG005445,FULL,DISEASE00031
+IND0000989,Teicoplanin,CAPD associated peritonitis,teicoplanin,DRUG005445,FULL,DISEASE00043
+IND0000990,Teicoplanin,Clostridioides difficile infection,teicoplanin,DRUG005445,FULL,DISEASE00058
+IND0000991,Teicoplanin,Community acquired pneumonia,teicoplanin,DRUG005445,FULL,DISEASE00060
+IND0000992,Teicoplanin,Complicated skin and soft tissue infections,teicoplanin,DRUG005445,FULL,DISEASE00061
+IND0000993,Teicoplanin,Complicated urinary tract infections,teicoplanin,DRUG005445,FULL,DISEASE00062
+IND0000994,Teicoplanin,Hospital-acquired pneumonia,teicoplanin,DRUG005445,FULL,DISEASE00106
+IND0000995,Tetracycline Hydrochloride,Acne,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00002
+IND0000996,Tetracycline Hydrochloride,Bacterial Infection,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00019
+IND0000997,Tetracycline Hydrochloride,Bronchitis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00039
+IND0000998,Tetracycline Hydrochloride,Brucellosis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00041
+IND0000999,Tetracycline Hydrochloride,Chlamydia Infection,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00051
+IND0001000,Tetracycline Hydrochloride,Cystitis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00069
+IND0001001,Tetracycline Hydrochloride,Epididymitis - Sexually Transmitted,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00086
+IND0001002,Tetracycline Hydrochloride,Gonococcal Infection - Uncomplicated,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00096
+IND0001003,Tetracycline Hydrochloride,Helicobacter pylori Infection,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00103
+IND0001004,Tetracycline Hydrochloride,Lyme Disease - Arthritis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00134
+IND0001005,Tetracycline Hydrochloride,Lyme Disease - Carditis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00135
+IND0001006,Tetracycline Hydrochloride,Lyme Disease - Erythema Chronicum Migrans,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00136
+IND0001007,Tetracycline Hydrochloride,Lyme Disease - Neurologic,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00137
+IND0001008,Tetracycline Hydrochloride,Nongonococcal Urethritis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00160
+IND0001009,Tetracycline Hydrochloride,Ornithosis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00166
+IND0001010,Tetracycline Hydrochloride,Pneumonia,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00188
+IND0001011,Tetracycline Hydrochloride,Psittacosis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00200
+IND0001012,Tetracycline Hydrochloride,Rickettsial Infection,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00209
+IND0001013,Tetracycline Hydrochloride,Syphilis - Early,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00242
+IND0001014,Tetracycline Hydrochloride,Syphilis - Latent,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00243
+IND0001015,Tetracycline Hydrochloride,Tertiary Syphilis,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00246
+IND0001016,Tetracycline Hydrochloride,Upper Respiratory Tract Infection,tetracycline hydrochloride,DRUG000743,FULL,DISEASE00262
+IND0001017,Tigecycline,Intraabdominal Infection,tigecycline,DRUG000546,FULL,DISEASE00118
+IND0001018,Tigecycline,Pneumonia,tigecycline,DRUG000546,FULL,DISEASE00188
+IND0001019,Tigecycline,Skin and Structure Infection,tigecycline,DRUG000546,FULL,DISEASE00227
+IND0001020,Tigecycline,Skin or Soft Tissue Infection,tigecycline,DRUG000546,FULL,DISEASE00231
+IND0001021,Tigecycline,Trichomoniasis,tigecycline,DRUG000546,FULL,DISEASE00253
+IND0001022,Tinidazole,Amebiasis,tinidazole,DRUG000895,FULL,DISEASE00009
+IND0001023,Tinidazole,Bacterial Vaginosis,tinidazole,DRUG000895,FULL,DISEASE00025
+IND0001024,Tinidazole,Giardiasis,tinidazole,DRUG000895,FULL,DISEASE00093
+IND0001025,Tinidazole,Trichomoniasis,tinidazole,DRUG000895,FULL,DISEASE00253
+IND0001026,Trimethoprim,Otitis Media,trimethoprim,DRUG000428,FULL,DISEASE00172
+IND0001027,Trimethoprim,Urinary Tract Infection,trimethoprim,DRUG000428,FULL,DISEASE00263
+IND0001028,Trimethoprim + Sulphamethoxazole,Bacterial Infection ,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,
+IND0001029,Trimethoprim + Sulphamethoxazole,Bronchitis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00039
+IND0001030,Trimethoprim + Sulphamethoxazole,Cystitis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00069
+IND0001031,Trimethoprim + Sulphamethoxazole,Granuloma Inguinale,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00099
+IND0001032,Trimethoprim + Sulphamethoxazole,Meningitis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00143
+IND0001033,Trimethoprim + Sulphamethoxazole,Pneumocystis carinii pneumonia (Prevention),trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00186
+IND0001034,Trimethoprim + Sulphamethoxazole,Pneumocystis carinii pneumonia (Treatment),trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00187
+IND0001035,Trimethoprim + Sulphamethoxazole,Protozoan Infection,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00198
+IND0001036,Trimethoprim + Sulphamethoxazole,Pyelonephritis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00202
+IND0001037,Trimethoprim + Sulphamethoxazole,Shigellosis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00224
+IND0001038,Trimethoprim + Sulphamethoxazole,Toxoplasmosis - Prophylaxis,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00249
+IND0001039,Trimethoprim + Sulphamethoxazole,Traveler's Diarrhea,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00252
+IND0001040,Trimethoprim + Sulphamethoxazole,Urinary Tract Infection,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL,DISEASE00263
+IND0001041,Vancomycin,Bacteremia,vancomycin,DRUG000498,FULL,DISEASE00017
+IND0001042,Vancomycin,Bacterial Infection,vancomycin,DRUG000498,FULL,DISEASE00019
+IND0001043,Vancomycin,CNS Infection,vancomycin,DRUG000498,FULL,DISEASE00044
+IND0001044,Vancomycin,Endocarditis,vancomycin,DRUG000498,FULL,DISEASE00076
+IND0001045,Vancomycin,Enterocolitis,vancomycin,DRUG000498,FULL,DISEASE00081
+IND0001046,Vancomycin,Febrile Neutropenia,vancomycin,DRUG000498,FULL,DISEASE00088
+IND0001047,Vancomycin,Head Injury,vancomycin,DRUG000498,FULL,DISEASE00102
+IND0001048,Vancomycin,Intraabdominal Infection,vancomycin,DRUG000498,FULL,DISEASE00118
+IND0001049,Vancomycin,Meningitis,vancomycin,DRUG000498,FULL,DISEASE00143
+IND0001050,Vancomycin,Meningitis - Streptococcus Group B,vancomycin,DRUG000498,FULL,DISEASE00148
+IND0001051,Vancomycin,Nosocomial Pneumonia,vancomycin,DRUG000498,FULL,DISEASE00162
+IND0001052,Vancomycin,Osteomyelitis,vancomycin,DRUG000498,FULL,DISEASE00167
+IND0001053,Vancomycin,Peritonitis,vancomycin,DRUG000498,FULL,DISEASE00177
+IND0001054,Vancomycin,Pneumonia,vancomycin,DRUG000498,FULL,DISEASE00188
+IND0001055,Vancomycin,Pseudomembranous Colitis,vancomycin,DRUG000498,FULL,DISEASE00199
+IND0001056,Vancomycin,Sepsis,vancomycin,DRUG000498,FULL,DISEASE00216
+IND0001057,Vancomycin,Shunt Infection,vancomycin,DRUG000498,FULL,DISEASE00225
+IND0001058,Vancomycin,Skin or Soft Tissue Infection,vancomycin,DRUG000498,FULL,DISEASE00231
+IND0001059,Vancomycin,Surgical Prophylaxis,vancomycin,DRUG000498,FULL,DISEASE00240
+IND0001060,Isoniazid,Mycobacterium kansasii,isoniazid,DRUG000935,FULL,DISEASE00155
+IND0001061,Isoniazid,Tuberculosis - Active,isoniazid,DRUG000935,FULL,DISEASE00254
+IND0001062,Isoniazid,Tuberculosis - Extrapulmonary,isoniazid,DRUG000935,FULL,DISEASE00255
+IND0001063,Isoniazid,Tuberculosis - Latent,isoniazid,DRUG000935,FULL,DISEASE00256
+IND0001064,Isoniazid,Tuberculosis - Prophylaxis,isoniazid,DRUG000935,FULL,DISEASE00257
+IND0001065,Isoniazid,Tuberculous Meningitis,isoniazid,DRUG000935,FULL,DISEASE00258

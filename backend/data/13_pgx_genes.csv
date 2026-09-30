@@ -1,0 +1,2 @@
+pgx_gene_id,pharmgkb_gene_id,symbol,name,chromosome,strand,genome_build,cpic_gene,allele_type,allele_function_source,tier,amp_recommended,key_alleles,implementation_scope,source
+PGXGENE0001,PA356,TPMT,thiopurine S-methyltransferase,chr6,minus,GRCh38,True,Named Alleles,CPIC,Tier 1,True,TPMT*2; TPMT*3A; TPMT*3B; TPMT*3C,TPMT_ONLY,PharmGKB/ClinPGx TPMT gene file

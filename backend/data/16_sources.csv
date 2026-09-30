@@ -1,0 +1,8 @@
+source_id,source_name,uploaded_files,license_from_uploaded_material,dataset_role
+SRC001,DrugBank,drugbank_clean.csv,,Canonical drug identity and drug metadata
+SRC002,DDInter,8 DDInter CSV files,,Drug-drug interactions and severity
+SRC003,DOSAGE,d_dose; s_dose; r_dose; preg_risk; generic_disease_map,CC BY 4.0,"Disease/standard/renal dosage, pregnancy risk, indications"
+SRC004,Medicine Dataset,medicine_dataset(1).csv,,Products/substitutes/uses/side effects
+SRC005,Medicines,medicines.csv,,Product-to-generic and disease/product metadata
+SRC006,PharmGKB/ClinPGx,TPMT gene/variant/annotation JSON files,,TPMT pharmacogenomic evidence
+SRC007,CPIC,TPMT azathioprine and mercaptopurine guideline annotations,,PGx prescribing guideline summaries

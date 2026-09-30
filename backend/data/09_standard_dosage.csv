@@ -1,0 +1,289 @@
+record_id,generic,min_age_d,max_age_d,min_age_m,max_age_m,min_age_y,max_age_y,min_weight,max_weight,min_dose_dw_mg,max_dose_dw_mg,min_dose_dw_iu,max_dose_dw_iu,limit_mg,limit_iu,min_dose_dd_mg,max_dose_dd_mg,min_dose_dd_UNIT,max_dose_dd_iu,route,generic_normalized,canonical_drug_ids,drug_mapping_status
+09000001,Amikacin,,,,,12.0,65.0,,,10.0,15.0,,,1500.0,,,,,,IM,amikacin,DRUG000467,FULL
+09000002,Amikacin,,,,,12.0,65.0,,,10.0,15.0,,,1500.0,,,,,,IV,amikacin,DRUG000467,FULL
+09000003,Amikacin,,,1.0,,,11.0,,,10.0,15.0,,,1500.0,,,,,,IM,amikacin,DRUG000467,FULL
+09000004,Amikacin,1.0,29.0,,,,,,,10.0,15.0,,,1500.0,,,,,,IM,amikacin,DRUG000467,FULL
+09000005,Amikacin,,,1.0,,,11.0,,,10.0,15.0,,,1500.0,,,,,,IV,amikacin,DRUG000467,FULL
+09000006,Amikacin,1.0,29.0,,,,,,,10.0,15.0,,,1500.0,,,,,,IV,amikacin,DRUG000467,FULL
+09000007,Amoxicillin,,,,,12.0,120.0,,,,,,,,,500.0,2000.0,,,PO,amoxicillin,DRUG001041,FULL
+09000008,Amoxicillin,,,1.0,,,11.0,,,30.0,90.0,,,,,,,,,PO,amoxicillin,DRUG001041,FULL
+09000009,Amoxicillin,1.0,29.0,,,,,,,20.0,75.0,,,,,,,,,PO,amoxicillin,DRUG001041,FULL
+09000010,Amoxicillin  + Clavulanic Acid,,,,,12.0,120.0,,,,,,,,,500.0,1750.0,,,PO,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL
+09000011,Amoxicillin  + Clavulanic Acid,,,1.0,,,11.0,,,15.0,45.0,,,1500.0,,,,,,PO,amoxicillin + clavulanic acid,DRUG000750|DRUG001041,FULL
+09000012,Amphotericin B,,,,,12.0,120.0,,,0.25,1.5,,,,,,,,,IV,amphotericin b,DRUG000666,FULL
+09000013,Amphotericin B,,,1.0,,,11.0,,,0.25,1.5,,,,,,,,,IV,amphotericin b,DRUG000666,FULL
+09000014,Ampicillin,,,,,12.0,120.0,,,,,,,,,2000.0,12000.0,,,IM,ampicillin,DRUG000403,FULL
+09000015,Ampicillin,,,,,12.0,120.0,,,,,,,,,2000.0,12000.0,,,IV,ampicillin,DRUG000403,FULL
+09000016,Ampicillin,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,ampicillin,DRUG000403,FULL
+09000017,Ampicillin,,,1.0,,,11.0,,,25.0,50.0,,,,,,,,,IM,ampicillin,DRUG000403,FULL
+09000018,Ampicillin,1.0,29.0,,,,,,,100.0,150.0,,,,,,,,,IM,ampicillin,DRUG000403,FULL
+09000019,Ampicillin,,,1.0,,,11.0,,,25.0,50.0,,,,,,,,,IV,ampicillin,DRUG000403,FULL
+09000020,Ampicillin,1.0,29.0,,,,,,,100.0,150.0,,,,,,,,,IV,ampicillin,DRUG000403,FULL
+09000021,Ampicillin,,,1.0,,,11.0,,,25.0,50.0,,,,,,,,,PO,ampicillin,DRUG000403,FULL
+09000022,Artesunate,,,,,12.0,120.0,,,,,,,,,100.0,200.0,,,PO,artesunate,DRUG008283,FULL
+09000023,Artesunate,,,,,12.0,120.0,,,,,,,,,100.0,200.0,,,IV,artesunate,DRUG008283,FULL
+09000024,Azithromycin,,,,,12.0,120.0,,,,,,,,,250.0,500.0,,,IV,azithromycin,DRUG000197,FULL
+09000025,Azithromycin,,,,,12.0,120.0,,,,,,,,,250.0,500.0,,,PO,azithromycin,DRUG000197,FULL
+09000026,Azithromycin,,,1.0,,,11.0,,,5.0,10.0,,,,,,,,,IM,azithromycin,DRUG000197,FULL
+09000027,Azithromycin,,,1.0,,,11.0,,,5.0,10.0,,,,,,,,,IV,azithromycin,DRUG000197,FULL
+09000028,Azithromycin,,,1.0,,,11.0,,,5.0,10.0,,,,,,,,,PO,azithromycin,DRUG000197,FULL
+09000029,Aztreonam,,,,,18.0,120.0,,,,,,,,,2000.0,6000.0,,,IV,aztreonam,DRUG000344,FULL
+09000030,Aztreonam,,,1.0,,,18.0,,,90.0,120.0,,,,,,,,,IV,aztreonam,DRUG000344,FULL
+09000031,Aztreonam,1.0,29.0,,,,,,,90.0,120.0,,,,,,,,,IV,aztreonam,DRUG000344,FULL
+09000032,Benzathine Penicillin,,,,,12.0,120.0,,,,,50000.0,100000.0,,2400000.0,,,,,IM,benzathine penicillin,,UNRESOLVED
+09000033,Benzathine Penicillin,,,1.0,,,11.0,,,,,50000.0,100000.0,,2400000.0,,,,,IM,benzathine penicillin,,UNRESOLVED
+09000034,Benzathine Penicillin,1.0,29.0,,,,,,,,,50000.0,100000.0,,2400000.0,,,,,IM,benzathine penicillin,,UNRESOLVED
+09000035,Benzyl Penicillin,,,,,12.0,120.0,,,,,,,,,600.0,14000.0,,,IV,benzyl penicillin,,UNRESOLVED
+09000036,Benzyl Penicillin,,,1.0,,,11.0,,,120.0,150.0,,,,,,,,,IM,benzyl penicillin,,UNRESOLVED
+09000037,Benzyl Penicillin,1.0,29.0,,,,,,,50.0,100.0,,,,,,,,,IM,benzyl penicillin,,UNRESOLVED
+09000038,Benzyl Penicillin,,,1.0,,,11.0,,,120.0,150.0,,,,,,,,,IV,benzyl penicillin,,UNRESOLVED
+09000039,Benzyl Penicillin,1.0,29.0,,,,,,,50.0,100.0,,,,,,,,,IV,benzyl penicillin,,UNRESOLVED
+09000040,Benzyl Penicillin+  Procaine Penicillin,,,,,12.0,120.0,,,,,,,,,600.0,1200.0,,,IM,benzyl penicillin+ procaine penicillin,,UNRESOLVED
+09000041,Benzyl Penicillin+  Procaine Penicillin,,,1.0,,,11.0,,13.55,,,,,,,600.0,900.0,,,IM,benzyl penicillin+ procaine penicillin,,UNRESOLVED
+09000042,Benzyl Penicillin+  Procaine Penicillin,,,1.0,,,11.0,27.26,,,,,,,,1200.0,2400.0,,,IM,benzyl penicillin+ procaine penicillin,,UNRESOLVED
+09000043,Benzyl Penicillin+  Procaine Penicillin,,,1.0,,,11.0,13.56,27.25,,,,,,,900.0,1200.0,,,IM,benzyl penicillin+ procaine penicillin,,UNRESOLVED
+09000044,Cefaclor,,,,,12.0,120.0,,,,,,,,,750.0,1000.0,,,PO,cefaclor,DRUG000817,FULL
+09000045,Cefaclor,,,1.0,,,11.0,,,20.0,40.0,,,,,,,,,PO,cefaclor,DRUG000817,FULL
+09000046,Cefadroxil,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,cefadroxil,DRUG001121,FULL
+09000047,Cefadroxil,,,1.0,,,11.0,,,30.0,45.0,,,,,,,,,PO,cefadroxil,DRUG001121,FULL
+09000048,Cefazolin,,,,,12.0,120.0,,,,,,,,,1500.0,6000.0,,,IM,cefazolin,DRUG001288,FULL
+09000049,Cefazolin,,,,,12.0,120.0,,,,,,,,,1500.0,6000.0,,,IV,cefazolin,DRUG001288,FULL
+09000050,Cefazolin,,,1.0,,,11.0,,,50.0,150.0,,,,,,,,,IM,cefazolin,DRUG001288,FULL
+09000051,Cefazolin,1.0,29.0,,,,,,,50.0,75.0,,,,,,,,,IM,cefazolin,DRUG001288,FULL
+09000052,Cefazolin,,,1.0,,,11.0,,,50.0,150.0,,,,,,,,,IV,cefazolin,DRUG001288,FULL
+09000053,Cefazolin,1.0,29.0,,,,,,,50.0,75.0,,,,,,,,,IV,cefazolin,DRUG001288,FULL
+09000054,Cefdinir,,,,,12.0,120.0,,,,,,,,,600.0,900.0,,,PO,cefdinir,DRUG000521,FULL
+09000055,Cefdinir,,,6.0,,,11.0,,,14.0,21.0,,,600.0,,,,,,PO,cefdinir,DRUG000521,FULL
+09000056,Cefditoren,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,PO,cefditoren,DRUG001047,FULL
+09000057,Cefepime,,,,,12.0,120.0,,,,,,,,,1000.0,6000.0,,,IV,cefepime,DRUG001353,FULL
+09000058,Cefepime,,,1.0,,,11.0,,,100.0,150.0,,,6000.0,,,,,,IV,cefepime,DRUG001353,FULL
+09000059,Cefepime,1.0,29.0,,,,,,,60.0,100.0,,,,,,,,,IV,cefepime,DRUG001353,FULL
+09000060,Cefetamet  Pivoxil Hydrochloride,,,,,12.0,120.0,,,,,,,,,1000.0,1500.0,,,PO,cefetamet pivoxil hydrochloride,,UNRESOLVED
+09000061,Cefetamet  Pivoxil Hydrochloride,,,1.0,,,11.0,,,20.0,,,,30.0,,,,,,PO,cefetamet pivoxil hydrochloride,,UNRESOLVED
+09000062,Cefixime,,,,,12.0,120.0,,,,,,,,,400.0,600.0,,,PO,cefixime,DRUG000656,FULL
+09000063,Cefixime,,,6.0,,,11.0,44.6,,,,,,,,400.0,600.0,,,PO,cefixime,DRUG000656,FULL
+09000064,Cefixime,,,6.0,,,11.0,,44.5,8.0,12.0,,,400.0,,,,,,PO,cefixime,DRUG000656,FULL
+09000065,Cefoperazone,,,,,18.0,120.0,,,,,,,,,2000.0,6000.0,,,IM,cefoperazone,DRUG001290,FULL
+09000066,Cefoperazone,,,,,18.0,120.0,,,,,,,,,2000.0,6000.0,,,IV,cefoperazone,DRUG001290,FULL
+09000067,Cefotaxime,,,,,12.0,120.0,,,,,,,,,2000.0,4000.0,,,IM,cefotaxime,DRUG000481,FULL
+09000068,Cefotaxime,,,,,12.0,120.0,,,,,,,,,2000.0,4000.0,,,IV,cefotaxime,DRUG000481,FULL
+09000069,Cefotaxime,,,1.0,,,11.0,,,100.0,150.0,,,,,,,,,IM,cefotaxime,DRUG000481,FULL
+09000070,Cefotaxime,1.0,29.0,,,,,,,50.0,150.0,,,,,,,,,IM,cefotaxime,DRUG000481,FULL
+09000071,Cefotaxime,,,1.0,,,11.0,,,100.0,150.0,,,,,,,,,IV,cefotaxime,DRUG000481,FULL
+09000072,Cefotaxime,1.0,29.0,,,,,,,50.0,150.0,,,,,,,,,IV,cefotaxime,DRUG000481,FULL
+09000073,Cefoxitin,,,,,12.0,120.0,,,,,,,,,2000.0,8000.0,,,IV,cefoxitin,DRUG001292,FULL
+09000074,Cefoxitin,,,3.0,,,11.0,,,80.0,160.0,,,12000.0,,,,,,IV,cefoxitin,DRUG001292,FULL
+09000075,Cefpirome,,,,,12.0,120.0,,,,,,,,,2000.0,4000.0,,,IV,cefpirome,DRUG011650,FULL
+09000076,Cefpirome,,,3.0,,,11.0,,,50.0,100.0,,,,,,,,,IV,cefpirome,DRUG011650,FULL
+09000077,Cefpodoxime,,,,,12.0,120.0,,,,,,,,,200.0,800.0,,,PO,cefpodoxime,DRUG001356,FULL
+09000078,Cefpodoxime,,,2.0,,,11.0,,,10.0,15.0,,,200.0,,,,,,PO,cefpodoxime,DRUG001356,FULL
+09000079,Cefpodoxime  + Clavulanic Acid,,,,,12.0,120.0,,,,,,,,,200.0,800.0,,,PO,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL
+09000080,Cefpodoxime  + Clavulanic Acid,,,2.0,,,11.0,,,10.0,15.0,,,200.0,,,,,,PO,cefpodoxime + clavulanic acid,DRUG000750|DRUG001356,FULL
+09000081,Cefprozil,,,,,12.0,120.0,,,,,,,,,500.0,1000.0,,,PO,cefprozil,DRUG001131,FULL
+09000082,Cefprozil,,,2.0,,,11.0,,,15.0,22.5,,,200.0,,,,,,PO,cefprozil,DRUG001131,FULL
+09000083,Ceftazidime,,,,,12.0,120.0,,,,,,,,,500.0,6000.0,,,IV,ceftazidime,DRUG000426,FULL
+09000084,Ceftazidime,,,1.0,,,11.0,,,90.0,200.0,,,6000.0,,,,,,IV,ceftazidime,DRUG000426,FULL
+09000085,Ceftazidime,1.0,29.0,,,,,,,60.0,150.0,,,,,,,,,IV,ceftazidime,DRUG000426,FULL
+09000086,Ceftibuten,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,PO,ceftibuten,DRUG001355,FULL
+09000087,Ceftibuten,,,6.0,,,11.0,,,9.0,18.0,,,400.0,,,,,,PO,ceftibuten,DRUG001355,FULL
+09000088,Ceftriaxone,,,,,12.0,120.0,,,,,,,,,1000.0,4000.0,,,IM,ceftriaxone,DRUG001193,FULL
+09000089,Ceftriaxone,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,IV,ceftriaxone,DRUG001193,FULL
+09000090,Ceftriaxone,,,1.0,,,11.0,,,50.0,75.0,,,2000.0,,,,,,IM,ceftriaxone,DRUG001193,FULL
+09000091,Ceftriaxone,1.0,29.0,,,,,,,25.0,50.0,,,,,,,,,IM,ceftriaxone,DRUG001193,FULL
+09000092,Ceftriaxone,,,1.0,,,11.0,,,50.0,75.0,,,2000.0,,,,,,IV,ceftriaxone,DRUG001193,FULL
+09000093,Ceftriaxone,1.0,29.0,,,,,,,25.0,50.0,,,,,,,,,IV,ceftriaxone,DRUG001193,FULL
+09000094,Cefuroxime,,,,,13.0,120.0,,,,,,,,,2250.0,4500.0,,,IM,cefuroxime,DRUG001093,FULL
+09000095,Cefuroxime,,,,,13.0,120.0,,,,,,,,,2250.0,4500.0,,,IV,cefuroxime,DRUG001093,FULL
+09000096,Cefuroxime,,,,,13.0,120.0,,,,,,,,,500.0,1000.0,,,PO,cefuroxime,DRUG001093,FULL
+09000097,Cefuroxime,,,3.0,,,11.0,,,50.0,150.0,,,6000.0,,,,,,IM,cefuroxime,DRUG001093,FULL
+09000098,Cefuroxime,,,3.0,,,11.0,,,50.0,150.0,,,6000.0,,,,,,IV,cefuroxime,DRUG001093,FULL
+09000099,Cefuroxime,,,3.0,,,11.0,,,20.0,30.0,,,1000.0,,,,,,PO,cefuroxime,DRUG001093,FULL
+09000100,Cefuroxime + Clavulanic Acid,,,,,13.0,120.0,,,,,,,,,500.0,1000.0,,,PO,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL
+09000101,Cefuroxime + Clavulanic Acid,,,3.0,,,11.0,,,50.0,100.0,,,6000.0,,,,,,IM,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL
+09000102,Cefuroxime + Clavulanic Acid,,,3.0,,,11.0,,,50.0,100.0,,,6000.0,,,,,,IV,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL
+09000103,Cefuroxime + Clavulanic Acid,,,3.0,,,11.0,,,30.0,45.0,,,1000.0,,,,,,PO,cefuroxime + clavulanic acid,DRUG000750|DRUG001093,FULL
+09000104,Cephalexin,,,,,12.0,120.0,,,,,,,,,500.0,3000.0,,,PO,cephalexin,DRUG000553,FULL
+09000105,Cephalexin,,,1.0,,,11.0,,,25.0,150.0,,,,,,,,,PO,cephalexin,DRUG000553,FULL
+09000106,Cephradine,,,,,12.0,120.0,,,,,,,,,1000.0,1500.0,,,PO,cephradine,,UNRESOLVED
+09000107,Cephradine,,,9.0,,,11.0,,,25.0,50.0,,,4000.0,,,,,,PO,cephradine,,UNRESOLVED
+09000108,Chloramphenicol,,,,,12.0,120.0,,,50.0,100.0,,,4000.0,,,,,,IV,chloramphenicol,DRUG000434,FULL
+09000109,Chloramphenicol,,,1.0,,,11.0,,,50.0,100.0,,,,,,,,,IV,chloramphenicol,DRUG000434,FULL
+09000110,Chloramphenicol,1.0,29.0,,,,,,,25.0,50.0,,,,,,,,,IV,chloramphenicol,DRUG000434,FULL
+09000111,Ciprofloxacin,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,IV,ciprofloxacin,DRUG000523,FULL
+09000112,Ciprofloxacin,,,,,12.0,120.0,,,,,,,,,500.0,1500.0,,,PO,ciprofloxacin,DRUG000523,FULL
+09000113,Ciprofloxacin,,,1.0,,,11.0,,,20.0,30.0,,,1200.0,,,,,,IV,ciprofloxacin,DRUG000523,FULL
+09000114,Ciprofloxacin,1.0,29.0,,,,,,,20.0,30.0,,,,,,,,,IV,ciprofloxacin,DRUG000523,FULL
+09000115,Ciprofloxacin,,,1.0,,,11.0,,,20.0,40.0,,,1200.0,,,,,,PO,ciprofloxacin,DRUG000523,FULL
+09000116,Ciprofloxacin,1.0,29.0,,,,,,,20.0,30.0,,,,,,,,,PO,ciprofloxacin,DRUG000523,FULL
+09000117,Ciprofloxacin Hydrochloride,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,IV,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000118,Ciprofloxacin Hydrochloride,,,,,12.0,120.0,,,,,,,,,500.0,1500.0,,,PO,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000119,Ciprofloxacin Hydrochloride,,,1.0,,,11.0,,,20.0,30.0,,,1200.0,,,,,,IV,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000120,Ciprofloxacin Hydrochloride,1.0,29.0,,,,,,,20.0,30.0,,,,,,,,,IV,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000121,Ciprofloxacin Hydrochloride,,,1.0,,,11.0,,,20.0,40.0,,,1200.0,,,,,,PO,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000122,Ciprofloxacin Hydrochloride,1.0,29.0,,,,,,,20.0,30.0,,,,,,,,,PO,ciprofloxacin hydrochloride,DRUG000523,FULL
+09000123,Clarithromycin,,,,,12.0,120.0,,,,,,,,,500.0,1000.0,,,PO,clarithromycin,DRUG001192,FULL
+09000124,Clarithromycin,,,1.0,,,11.0,,,15.0,22.5,,,1000.0,,,,,,PO,clarithromycin,DRUG001192,FULL
+09000125,Clindamycin,,,,,12.0,120.0,,,,,,,,,600.0,1800.0,,,PO,clindamycin,DRUG001171,FULL
+09000126,Clindamycin,,,,,12.0,120.0,,,,,,,,,900.0,3600.0,,,IV,clindamycin,DRUG001171,FULL
+09000127,Clindamycin,,,1.0,,,11.0,,,10.0,30.0,,,,,,,,,PO,clindamycin,DRUG001171,FULL
+09000128,Clindamycin,,,1.0,,,11.0,,,25.0,40.0,,,,,,,,,IV,clindamycin,DRUG001171,FULL
+09000129,Clindamycin,,,1.0,,,11.0,,,25.0,40.0,,,,,,,,,IM,clindamycin,DRUG001171,FULL
+09000130,Cloxacillin,,,,,18.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,cloxacillin,DRUG001128,FULL
+09000131,Dapsone,,,,,12.0,120.0,,,,,,,,,50.0,300.0,,,PO,dapsone,DRUG000240,FULL
+09000132,Dapsone,,,1.0,,,11.0,,,1.0,2.0,,,,,,,,,PO,dapsone,DRUG000240,FULL
+09000133,Demeclocycline Hydrochloride,,,,,12.0,120.0,,,,,,,,,600.0,900.0,,,PO,demeclocycline hydrochloride,DRUG000604,FULL
+09000134,Demeclocycline Hydrochloride,,,,,8.0,11.0,,,7.0,13.0,,,600.0,,600.0,900.0,,,PO,demeclocycline hydrochloride,DRUG000604,FULL
+09000135,Dicloxacillin,,,,,12.0,120.0,,,,,,,,,500.0,2000.0,,,PO,dicloxacillin,DRUG000473,FULL
+09000136,Dicloxacillin,,,1.0,,,11.0,,,25.0,50.0,,,,,,,,,PO,dicloxacillin,DRUG000473,FULL
+09000137,Dicloxacillin,,,1.0,,,11.0,,,,,,,,,1000.0,2000.0,,,PO,dicloxacillin,DRUG000473,FULL
+09000138,Doripenem,,,,,18.0,120.0,,,,,,,,,1500.0,3000.0,,,IV,doripenem,DRUG005496,FULL
+09000139,Doxycycline,,,,,12.0,120.0,,,,,,,,,100.0,200.0,,,IV,doxycycline,DRUG000244,FULL
+09000140,Doxycycline,,,,,12.0,120.0,,,,,,,,,100.0,200.0,,,PO,doxycycline,DRUG000244,FULL
+09000141,Doxycycline,,,1.0,,,11.0,,,2.0,4.0,,,,,,,,,IV,doxycycline,DRUG000244,FULL
+09000142,Doxycycline,,,1.0,,,11.0,,,2.0,4.0,,,,,,,,,PO,doxycycline,DRUG000244,FULL
+09000143,Ertapenem,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,IM,ertapenem,DRUG000293,FULL
+09000144,Ertapenem,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,IV,ertapenem,DRUG000293,FULL
+09000145,Ertapenem,,,3.0,,,11.0,,,20.0,45.0,,,1000.0,,,,,,IM,ertapenem,DRUG000293,FULL
+09000146,Ertapenem,,,3.0,,,11.0,,,20.0,45.0,,,1000.0,,,,,,IV,ertapenem,DRUG000293,FULL
+09000147,Erythromycin,,,,,12.0,120.0,,,,,,,,,1000.0,4000.0,,,IV,erythromycin,DRUG000189,FULL
+09000148,Erythromycin,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,erythromycin,DRUG000189,FULL
+09000149,Erythromycin,,,1.0,,,11.0,,,15.0,20.0,,,4000.0,,,,,,IV,erythromycin,DRUG000189,FULL
+09000150,Erythromycin,1.0,29.0,,,,,,,40.0,50.0,,,,,,,,,IV,erythromycin,DRUG000189,FULL
+09000151,Erythromycin,,,1.0,,,11.0,,,10.0,20.0,,,1000.0,,,,,,PO,erythromycin,DRUG000189,FULL
+09000152,Erythromycin,1.0,29.0,,,,,,,40.0,50.0,,,4000.0,,,,,,PO,erythromycin,DRUG000189,FULL
+09000153,Ethambutol,,,,,13.0,120.0,,,15.0,25.0,,,2500.0,,,,,,PO,ethambutol,DRUG000319,FULL
+09000154,Flucloxacillin,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,IM,flucloxacillin,DRUG000291,FULL
+09000155,Flucloxacillin,,,,,12.0,120.0,,,,,,,,,1000.0,4000.0,,,IV,flucloxacillin,DRUG000291,FULL
+09000156,Flucloxacillin,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,flucloxacillin,DRUG000291,FULL
+09000157,Flucloxacillin,,,,,2.0,11.0,,,,,,,,,500.0,1000.0,,,IM,flucloxacillin,DRUG000291,FULL
+09000158,Flucloxacillin,,,,,2.0,11.0,,,,,,,,,500.0,2000.0,,,IV,flucloxacillin,DRUG000291,FULL
+09000159,Flucloxacillin,,,,,2.0,11.0,,,,,,,,,500.0,1000.0,,,PO,flucloxacillin,DRUG000291,FULL
+09000160,Flucloxacillin,29.0,,,,,2.0,,,,,,,,,250.0,500.0,,,IM,flucloxacillin,DRUG000291,FULL
+09000161,Flucloxacillin,29.0,,,,,2.0,,,,,,,,,250.0,500.0,,,IV,flucloxacillin,DRUG000291,FULL
+09000162,Flucloxacillin,29.0,,,,,2.0,,,,,,,,,250.0,500.0,,,PO,flucloxacillin,DRUG000291,FULL
+09000163,Fosfomycin,,,,,12.0,120.0,,,,,,,,,12000.0,16000.0,,,IV,fosfomycin,DRUG000812,FULL
+09000164,Fosfomycin,,,,,1.0,11.0,,,200.0,400.0,,,,,,,,,IV,fosfomycin,DRUG000812,FULL
+09000165,Fosfomycin,29.0,,,,,1.0,,,200.0,300.0,,,,,,,,,IV,fosfomycin,DRUG000812,FULL
+09000166,Fosfomycin,1.0,29.0,,,,,,,200.0,266.67,,,,,,,,,IV,fosfomycin,DRUG000812,FULL
+09000167,Fusidic Acid,,,,,12.0,120.0,,,,,,,,,1500.0,2000.0,,,IM,fusidic acid,DRUG002553,FULL
+09000168,Fusidic Acid,,,,,12.0,120.0,,,,,,,,,1500.0,2000.0,,,IV,fusidic acid,DRUG002553,FULL
+09000169,Fusidic Acid,,,,,12.0,120.0,,,,,,,,,1500.0,2000.0,,,PO,fusidic acid,DRUG002553,FULL
+09000170,Fusidic Acid,,,,,1.0,11.0,,,20.0,26.67,,,,,,,,,IM,fusidic acid,DRUG002553,FULL
+09000171,Fusidic Acid,,,,,1.0,11.0,,,20.0,26.67,,,,,,,,,IV,fusidic acid,DRUG002553,FULL
+09000172,Fusidic Acid,,,,,1.0,11.0,,,20.0,26.67,,,,,,,,,PO,fusidic acid,DRUG002553,FULL
+09000173,Gemifloxacin,,,,,18.0,120.0,,,,,,,,,360.0,640.0,,,PO,gemifloxacin,DRUG001136,FULL
+09000174,Gentamicin,,,,,12.0,120.0,0.0,39.99,4.0,5.0,,,200.0,,,,,,IM,gentamicin,DRUG000782,FULL
+09000175,Gentamicin,,,,,12.0,120.0,40.0,49.5,,,,,,,160.0,240.0,,,IM,gentamicin,DRUG000782,FULL
+09000176,Gentamicin,,,,,12.0,120.0,49.6,59.5,,,,,,,200.0,280.0,,,IM,gentamicin,DRUG000782,FULL
+09000177,Gentamicin,,,,,12.0,120.0,59.6,69.5,,,,,,,240.0,320.0,,,IM,gentamicin,DRUG000782,FULL
+09000178,Gentamicin,,,,,12.0,120.0,69.6,79.5,,,,,,,320.0,360.0,,,IM,gentamicin,DRUG000782,FULL
+09000179,Gentamicin,,,,,12.0,120.0,79.6,,,,,,,,360.0,400.0,,,IM,gentamicin,DRUG000782,FULL
+09000180,Gentamicin,,,,,12.0,120.0,0.0,39.99,4.0,5.0,,,200.0,,,,,,IV,gentamicin,DRUG000782,FULL
+09000181,Gentamicin,,,,,12.0,120.0,40.0,49.5,,,,,,,160.0,240.0,,,IV,gentamicin,DRUG000782,FULL
+09000182,Gentamicin,,,,,12.0,120.0,49.6,59.5,,,,,,,200.0,280.0,,,IV,gentamicin,DRUG000782,FULL
+09000183,Gentamicin,,,,,12.0,120.0,59.6,69.5,,,,,,,240.0,320.0,,,IV,gentamicin,DRUG000782,FULL
+09000184,Gentamicin,,,,,12.0,120.0,69.6,79.5,,,,,,,320.0,360.0,,,IV,gentamicin,DRUG000782,FULL
+09000185,Gentamicin,,,,,12.0,120.0,79.6,,,,,,,,360.0,400.0,,,IV,gentamicin,DRUG000782,FULL
+09000186,Gentamicin,,,1.0,,,11.0,,,4.5,7.5,,,,,,,,,IM,gentamicin,DRUG000782,FULL
+09000187,Gentamicin,1.0,29.0,,,,,,,5.0,7.5,,,,,,,,,IM,gentamicin,DRUG000782,FULL
+09000188,Gentamicin,,,1.0,,,11.0,,,4.5,7.5,,,,,,,,,IV,gentamicin,DRUG000782,FULL
+09000189,Gentamicin,1.0,29.0,,,,,,,5.0,7.5,,,,,,,,,IV,gentamicin,DRUG000782,FULL
+09000190,Imipenem  + Cilastatin,,,1.0,3.0,,,,,100.0,125.0,,,4000.0,,,,,,IV,imipenem + cilastatin,DRUG001526|DRUG001527,FULL
+09000191,Imipenem  + Cilastatin,,,3.0,,,11.0,,,60.0,100.0,,,4000.0,,,,,,IV,imipenem + cilastatin,DRUG001526|DRUG001527,FULL
+09000192,Imipenem  + Cilastatin,1.0,29.0,,,,,,,50.0,75.0,,,4000.0,,,,,,IV,imipenem + cilastatin,DRUG001526|DRUG001527,FULL
+09000193,Imipenem + Cilastatin,,,,,12.0,120.0,,,,,,,,,2000.0,3000.0,,,IV,imipenem + cilastatin,DRUG001526|DRUG001527,FULL
+09000194,Isoniazid  + Thiacetazone,,,,,12.0,120.0,,,,,,,,,300.0,600.0,,,IM,isoniazid + thiacetazone,DRUG000935,PARTIAL
+09000195,Isoniazid  + Thiacetazone,,,,,12.0,120.0,,,,,,,,,300.0,600.0,,,PO,isoniazid + thiacetazone,DRUG000935,PARTIAL
+09000196,Isoniazid  + Thiacetazone,,,1.0,,,11.0,,,10.0,20.0,,,300.0,,,,,,IM,isoniazid + thiacetazone,DRUG000935,PARTIAL
+09000197,Isoniazid  + Thiacetazone,,,1.0,,,11.0,,,10.0,15.0,,,300.0,,,,,,PO,isoniazid + thiacetazone,DRUG000935,PARTIAL
+09000198,Levofloxacin,,,,,12.0,120.0,,,,,,,,,250.0,750.0,,,IV,levofloxacin,DRUG001118,FULL
+09000199,Levofloxacin,,,,,12.0,120.0,,,,,,,,,250.0,750.0,,,PO,levofloxacin,DRUG001118,FULL
+09000200,Levofloxacin,,,6.0,,,11.0,,,16.0,24.0,,,,,,,,,IV,levofloxacin,DRUG001118,FULL
+09000201,Levofloxacin,,,6.0,,,11.0,,,16.0,24.0,,,,,,,,,PO,levofloxacin,DRUG001118,FULL
+09000202,Linezolid,,,,,12.0,120.0,,,,,,,,,600.0,1200.0,,,IV,linezolid,DRUG000587,FULL
+09000203,Linezolid,,,,,12.0,120.0,,,,,,,,,600.0,1200.0,,,PO,linezolid,DRUG000587,FULL
+09000204,Linezolid,8.0,,,,,11.0,,,30.0,40.0,,,,,,,,,IV,linezolid,DRUG000587,FULL
+09000205,Linezolid,1.0,7.0,,,,,,,20.0,30.0,,,,,,,,,IV,linezolid,DRUG000587,FULL
+09000206,Linezolid,8.0,,,,,11.0,,,30.0,40.0,,,,,,,,,PO,linezolid,DRUG000587,FULL
+09000207,Linezolid,1.0,7.0,,,,,,,20.0,30.0,,,,,,,,,PO,linezolid,DRUG000587,FULL
+09000208,Lomefloxacin,,,,,18.0,120.0,,,,,,,,,400.0,800.0,,,PO,lomefloxacin,DRUG000962,FULL
+09000209,Isoniazid,,,,,12.0,120.0,,,5.0,10.0,,,300.0,,,,,,IM,isoniazid,DRUG000935,FULL
+09000210,Isoniazid,,,,,12.0,120.0,,,5.0,10.0,,,300.0,,,,,,IV,isoniazid,DRUG000935,FULL
+09000211,Isoniazid,,,,,12.0,120.0,,,5.0,10.0,,,300.0,,,,,,PO,isoniazid,DRUG000935,FULL
+09000212,Isoniazid,,,1.0,,,11.0,,,10.0,15.0,,,300.0,,,,,,IM,isoniazid,DRUG000935,FULL
+09000213,Isoniazid,,,1.0,,,11.0,,,10.0,15.0,,,300.0,,,,,,IV,isoniazid,DRUG000935,FULL
+09000214,Isoniazid,,,1.0,,,11.0,,,10.0,15.0,,,300.0,,,,,,PO,isoniazid,DRUG000935,FULL
+09000215,Lymecycline,,,,,12.0,120.0,,,,,,,,,408.0,812.0,,,PO,lymecycline,DRUG000246,FULL
+09000216,Meropenem,,,,,12.0,120.0,,,,,,,,,1500.0,3000.0,,,IV,meropenem,DRUG000744,FULL
+09000217,Meropenem,,,3.0,,,11.0,,,30.0,40.0,,,1500.0,,,,,,IV,meropenem,DRUG000744,FULL
+09000218,Metronidazole,,,,,12.0,120.0,,,,,,,,,500.0,4000.0,,,IV,metronidazole,DRUG000900,FULL
+09000219,Metronidazole,,,,,12.0,120.0,,,,,,,,,500.0,2000.0,,,PO,metronidazole,DRUG000900,FULL
+09000220,Metronidazole,,,1.0,,,11.0,,,22.5,40.0,,,,,,,,,IV,metronidazole,DRUG000900,FULL
+09000221,Metronidazole,1.0,29.0,,,,,,,7.5,15.0,,,,,,,,,IV,metronidazole,DRUG000900,FULL
+09000222,Metronidazole,,,1.0,,,11.0,,,15.0,30.0,,,2000.0,,,,,,PO,metronidazole,DRUG000900,FULL
+09000223,Moxifloxacin,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,IV,moxifloxacin,DRUG000208,FULL
+09000224,Moxifloxacin,,,,,12.0,120.0,,,,,,,,,400.0,800.0,,,PO,moxifloxacin,DRUG000208,FULL
+09000225,Moxifloxacin,,,3.0,,,11.0,,,8.0,12.0,,,,,,,,,IV,moxifloxacin,DRUG000208,FULL
+09000226,Moxifloxacin,1.0,29.0,,,,,,,5.0,10.0,,,,,,,,,IV,moxifloxacin,DRUG000208,FULL
+09000227,Nitrofurantoin,,,,,12.0,120.0,,,,,,,,,50.0,200.0,,,PO,nitrofurantoin,DRUG000683,FULL
+09000228,Nitrofurantoin,,,1.0,,,11.0,,,1.0,5.0,,,400.0,,,,,,PO,nitrofurantoin,DRUG000683,FULL
+09000229,Nitrofurantoin + Nitrofurantoin Microcrystals,,,,,12.0,120.0,,,,,,,,,50.0,200.0,,,PO,nitrofurantoin + nitrofurantoin microcrystals,DRUG000683,PARTIAL
+09000230,Nystatin,,,,,18.0,120.0,,,,,,,,,,,1500000.0,3000000.0,PO,nystatin,DRUG000632,FULL
+09000231,Nystatin,,,,,1.0,18.0,,,,,,,,,,,1600000.0,2400000.0,PO,nystatin,DRUG000632,FULL
+09000232,Nystatin,29.0,,,,,1.0,,,,,,,,,,,400000.0,800000.0,PO,nystatin,DRUG000632,FULL
+09000233,Ofloxacin,,,,,18.0,120.0,,,,,,,,,400.0,800.0,,,PO,ofloxacin,DRUG001146,FULL
+09000234,Ofloxacin,,,,,18.0,120.0,,,,,,,,,400.0,800.0,,,IV,ofloxacin,DRUG001146,FULL
+09000235,Ornidazole,,,,,12.0,120.0,,,,,,,,,500.0,1500.0,,,PO,ornidazole,DRUG011014,FULL
+09000236,Ornidazole,,,1.0,,,11.0,,,10.0,25.0,,,,,,,,,PO,ornidazole,DRUG011014,FULL
+09000237,Oxytetracycline,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,oxytetracycline,DRUG000581,FULL
+09000238,Pefloxacin,,,,,12.0,120.0,,,,,,,,,800.0,1200.0,,,PO,pefloxacin,DRUG000475,FULL
+09000239,Phenoxymethyl  Penicillin,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,phenoxymethyl penicillin,,UNRESOLVED
+09000240,Phenoxymethyl  Penicillin,,,,,1.0,11.0,,,,,,,,,500.0,1000.0,,,PO,phenoxymethyl penicillin,,UNRESOLVED
+09000241,Phenoxymethyl  Penicillin,29.0,,,,,1.0,,,,,,,,,250.0,500.0,,,PO,phenoxymethyl penicillin,,UNRESOLVED
+09000242,Piperacillin + Tazobactam,,,,,12.0,120.0,,,,,,,,,13500.0,16875.0,,,IV,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+09000243,Piperacillin + Tazobactam,,,9.0,,,11.0,39.6,,,,,,,,13500.0,16875.0,,,IV,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+09000244,Piperacillin + Tazobactam,,,9.0,,,11.0,,39.5,337.5,450.0,,,,,,,,,IV,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+09000245,Piperacillin + Tazobactam,,,2.0,9.0,,,,,80.0,160.0,,,,,,,,,IV,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+09000246,Piperacillin + Tazobactam,1.0,29.0,,,,,,,200.0,300.0,,,24000.0,,,,,,IV,piperacillin + tazobactam,DRUG000309|DRUG001535,FULL
+09000247,Pivmecillinam,,,,,12.0,120.0,,,,,,,,,400.0,600.0,,,PO,pivmecillinam,DRUG001534,FULL
+09000248,Pivmecillinam,,,1.0,,,11.0,,,20.0,40.0,,,,,,,,,PO,pivmecillinam,DRUG001534,FULL
+09000249,Pyrazinamide,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,pyrazinamide,DRUG000328,FULL
+09000250,Pyrazinamide,,,1.0,,,11.0,,,15.0,40.0,,,,,,,,,PO,pyrazinamide,DRUG000328,FULL
+09000251,Rifampicin,,,,,12.0,120.0,,,,,,,,,300.0,900.0,,,IV,rifampicin,DRUG001027,FULL
+09000252,Rifampicin,,,,,12.0,120.0,,,,,,,,,300.0,900.0,,,PO,rifampicin,DRUG001027,FULL
+09000253,Rifampicin,,,1.0,,,11.0,,,20.0,30.0,,,,,,,,,IV,rifampicin,DRUG001027,FULL
+09000254,Rifampicin,1.0,29.0,,,,,,,10.0,20.0,,,600.0,,,,,,IV,rifampicin,DRUG001027,FULL
+09000255,Rifampicin,,,1.0,,,11.0,,,10.0,20.0,,,600.0,,,,,,PO,rifampicin,DRUG001027,FULL
+09000256,Rifampicin,1.0,29.0,,,,,,,10.0,20.0,,,600.0,,,,,,PO,rifampicin,DRUG001027,FULL
+09000257,Rifaximin,,,,,12.0,120.0,,,,,,,,,600.0,1200.0,,,PO,rifaximin,DRUG001201,FULL
+09000258,Rifaximin,,,,,3.0,11.0,,,,,,,,,200.0,600.0,,,PO,rifaximin,DRUG001201,FULL
+09000259,Roxithromycin,,,,,12.0,120.0,,,,,,,,,300.0,450.0,,,PO,roxithromycin,DRUG000762,FULL
+09000260,Roxithromycin,,,1.0,,,11.0,,,5.0,8.0,,,,,,,,,PO,roxithromycin,DRUG000762,FULL
+09000261,Secnidazole,,,,,12.0,120.0,,,,,,,,,2000.0,4000.0,,,PO,secnidazole,DRUG010828,FULL
+09000262,Sparfloxacin,,,,,18.0,120.0,,,,,,,,,200.0,400.0,,,PO,sparfloxacin,DRUG001189,FULL
+09000263,Streptomycin,,,,,12.0,120.0,,,,,,,,,500.0,1000.0,,,IM,streptomycin,DRUG001063,FULL
+09000264,Streptomycin,,,,,12.0,120.0,,,,,,,,,500.0,1000.0,,,IV,streptomycin,DRUG001063,FULL
+09000265,Streptomycin,,,1.0,,,11.0,,,15.0,30.0,,,2000.0,,,,,,IM,streptomycin,DRUG001063,FULL
+09000266,Tedizolid Phosphate,,,,,12.0,120.0,,,,,,,,,200.0,400.0,,,PO,tedizolid phosphate,DRUG008058,FULL
+09000267,Tedizolid Phosphate,,,,,12.0,120.0,,,,,,,,,200.0,400.0,,,IV,tedizolid phosphate,DRUG008058,FULL
+09000268,Teicoplanin,,,,,12.0,120.0,,,6.0,12.0,,,,,,,,,IV,teicoplanin,DRUG005445,FULL
+09000269,Teicoplanin,,,,,12.0,120.0,,,,,,,,,200.0,400.0,,,PO,teicoplanin,DRUG005445,FULL
+09000270,Teicoplanin,,,2.0,,,11.0,,,6.0,20.0,,,,,,,,,IV,teicoplanin,DRUG005445,FULL
+09000271,Tetracycline Hydrochloride,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,tetracycline hydrochloride,DRUG000743,FULL
+09000272,Tetracycline Hydrochloride,,,,,8.0,11.0,,,25.0,50.0,,,,,,,,,PO,tetracycline hydrochloride,DRUG000743,FULL
+09000273,Tigecycline,,,,,12.0,120.0,,,,,,,,,50.0,100.0,,,IV,tigecycline,DRUG000546,FULL
+09000274,Tigecycline,,,,,12.0,120.0,,,,,,,,,50.0,100.0,,,PO,tigecycline,DRUG000546,FULL
+09000275,Tigecycline,,,,,8.0,11.0,,,2.4,3.6,,,100.0,,,,,,IV,tigecycline,DRUG000546,FULL
+09000276,Tinidazole,,,,,12.0,120.0,,,,,,,,,1000.0,2000.0,,,PO,tinidazole,DRUG000895,FULL
+09000277,Tinidazole,,,,,3.0,11.0,,,50.0,100.0,,,2000.0,,,,,,PO,tinidazole,DRUG000895,FULL
+09000278,Tobramycin,,,,,12.0,120.0,,,3.0,7.0,,,,,,,,,IV,tobramycin,DRUG000669,FULL
+09000279,Trimethoprim,,,,,12.0,120.0,,,,,,,,,50.0,100.0,,,PO,trimethoprim,DRUG000428,FULL
+09000280,Trimethoprim + Sulphamethoxazole,,,,,12.0,120.0,,,,,,,,,80.0,320.0,,,PO,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL
+09000281,Trimethoprim + Sulphamethoxazole,,,,,12.0,120.0,,,,,,,,,80.0,320.0,,,IV,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL
+09000282,Trimethoprim + Sulphamethoxazole,,,2.0,,,11.0,,,,,,,,,80.0,320.0,,,PO,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL
+09000283,Trimethoprim + Sulphamethoxazole,,,2.0,,,11.0,,,,,,,,,80.0,320.0,,,IV,trimethoprim + sulphamethoxazole,DRUG000428,PARTIAL
+09000284,Vancomycin,,,,,18.0,120.0,,,,,,,,,500.0,2500.0,,,IV,vancomycin,DRUG000498,FULL
+09000285,Vancomycin,,,,,18.0,120.0,,,,,,,,,500.0,2000.0,,,PO,vancomycin,DRUG000498,FULL
+09000286,Vancomycin,,,1.0,,,18.0,,,30.0,40.0,,,,,,,,,IV,vancomycin,DRUG000498,FULL
+09000287,Vancomycin,1.0,29.0,,,,,,,10.0,15.0,,,,,,,,,IV,vancomycin,DRUG000498,FULL
+09000288,Vancomycin,,,1.0,,,18.0,,,30.0,40.0,,,,,,,,,PO,vancomycin,DRUG000498,FULL
