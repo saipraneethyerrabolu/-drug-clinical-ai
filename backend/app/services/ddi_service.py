@@ -6,7 +6,7 @@ import math
 
 from app.loaders.ddi_loader import load_interactions
 from app.models.gnn.ddi_model_adapter import DDIGNNModelAdapter
-from app.services.medicine_mapping_service import MedicineMappingService
+from app.services.medicine_mapping_service import MedicineMappingService, get_mapping_service
 
 
 def _clean(value):
@@ -31,7 +31,7 @@ class DDIService:
     model_adapter: DDIGNNModelAdapter | None = None
 
     def __post_init__(self):
-        self.mapping_service = self.mapping_service or MedicineMappingService()
+        self.mapping_service = self.mapping_service or get_mapping_service()
         self.model_adapter = self.model_adapter or DDIGNNModelAdapter()
         self.interactions = load_interactions()
 
@@ -59,6 +59,10 @@ class DDIService:
             da, db = record["ddinter_id_a"], record["ddinter_id_b"]
             if da and db:
                 self._by_ddinter_pair[_pair_key(da, db)] = record
+
+
+
+    
 
     def _flatten_resolved_drugs(self, medicine_names: list[str]) -> tuple[list[dict], list[dict]]:
         medicines: list[dict] = []
@@ -205,3 +209,5 @@ class DDIService:
             "unresolved_medicines": unresolved,
             "interactions": pair_results,
         }
+
+

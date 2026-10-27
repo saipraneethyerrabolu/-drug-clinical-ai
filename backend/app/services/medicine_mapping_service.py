@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import lru_cache
 import math
 import pandas as pd
 
@@ -173,3 +174,9 @@ class MedicineMappingService:
             "mapping_status": status,
             "ingredients": resolved_ingredients,
         }
+   
+
+
+@lru_cache(maxsize=1)
+def get_mapping_service() -> MedicineMappingService:
+    return MedicineMappingService()

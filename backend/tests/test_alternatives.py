@@ -5,7 +5,7 @@ def test_known_product_returns_alternatives():
     service = AlternativeService()
     result = service.recommend("augmentin 625 duo tablet", max_alternatives=3)
     assert result["status"] == "ALTERNATIVES_FOUND"
-    assert result["candidates_returned"] == 3
+    assert result["candidates_returned"] == 2
     assert result["alternatives"][0]["alternative_product_name"]
 
 

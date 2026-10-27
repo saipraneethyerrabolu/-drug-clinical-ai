@@ -5,7 +5,10 @@ from dataclasses import dataclass
 from app.services.alternative_service import AlternativeService
 from app.services.ddi_service import DDIService
 from app.services.dosage_service import DosageService
-from app.services.medicine_mapping_service import MedicineMappingService
+from app.services.medicine_mapping_service import (
+    MedicineMappingService,
+    get_mapping_service,
+)
 from app.services.pgx_service import PGxService
 
 
@@ -15,7 +18,7 @@ class ClinicalService:
 
     def __post_init__(self):
         # Share the expensive medicine mapping tables across all Phase 6 modules.
-        self.mapping_service = self.mapping_service or MedicineMappingService()
+        self.mapping_service = self.mapping_service or get_mapping_service()
         self.ddi_service = DDIService(mapping_service=self.mapping_service)
         self.dosage_service = DosageService(mapping_service=self.mapping_service)
         self.pgx_service = PGxService(mapping_service=self.mapping_service)
